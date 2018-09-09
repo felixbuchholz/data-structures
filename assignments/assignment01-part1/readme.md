@@ -1,12 +1,5 @@
----
-title: "Assignment 1"
-author: Felix Buchholz
----
-
 Felix Buchholz
 MS Data Visualization @ Parsons NYC, Fall 2018, Data Structures, Aaron Hill
-
-[TOC]
 
 # Assignment 1
 
