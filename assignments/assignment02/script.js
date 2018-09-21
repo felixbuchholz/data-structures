@@ -63,12 +63,14 @@ $('td').each(function(i, elem) {
 
     // console.log(mySearch);
 
+    // Test if first element of split by whitespace is number, if yes, this is the building number
     if (!isNaN(Number(mySearch.split(' ')[0]))) {
       myAddress.number = Number(mySearch.split(' ')[0]);
     }
 
-
+    // Filter for additional information on this line by regex pattern
     patt = /[.,\/;:\-_]/g;
+
     if (patt.test(mySearch)) {
       myAddress.detail.push(mySearch.split(patt)[1]);
       if (mySearch.split(patt)[0].search("AND") != -1) {
@@ -93,7 +95,6 @@ $('td').each(function(i, elem) {
 
 
     // Junctions at line 4
-
     mySearch = $(elem).html().split("<br>")[3].trim();
 
     //Use regex to find the signifiers "Between" (and alternatives) and "and", "&amp;" and split the string at the right postions
@@ -136,16 +137,15 @@ $('td').each(function(i, elem) {
     }
 
 
-    // remove empty entries from the detail array
+    // Remove empty entries from the detail array
     for (var i = 0; i < myAddress.detail.length; i++) {
       if (myAddress.detail[i].length == 0) {
         myAddress.detail.splice(i,1);
       }
     }
-    
+
     // console.log(myAddress);
     aa06Adresses.push(myAddress);
-
   }
 });
 
