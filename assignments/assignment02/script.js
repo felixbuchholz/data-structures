@@ -82,7 +82,6 @@ $('td').each(function(i, elem) {
           myAddress.street += tStrArr[i] + " ";
         }
         myAddress.street = myAddress.street.trim();
-
       }
     }
     else {
