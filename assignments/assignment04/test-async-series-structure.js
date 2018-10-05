@@ -1,3 +1,4 @@
+// This is just a test script to understand the async.series structure
 var async = require('async');
 
 async.series({

@@ -32,9 +32,9 @@ With the help of the pg module in Node:
 
 ### Part One
 
-1. I want to use a Normalized Data Model. I think it has advantages in maintenance and without having any experience that seems an advantage to me when controlling if data was parsed correctly. The disadvantage of complexity when joining data is not a huge downside in this particular case, because the number of different tables still seems manageable and also the number of connections I need to make is probably fixed and not that high.
-2. From where I stand right now I think the easiest way to handle the date would be an array of JavaScript objects (probably of the table meetings), that have the data of the tables nested in them, because I can think when the data comes back, that’s the easiest to handle for me in JavaScript and d3 for example.
-3. I really have a hard time to reason for my drawing in terms of what we learned in Hills book. I can’t explain the relations in terms of classes and types for example. So I tried to do it more intuitively and as I understand it the data is structured on at least three hierarchy levels:
+1. I want to use a Normalized Data Model. I think it has advantages in maintenance. Without having any experience that seems preferable to me when I want to check if data was parsed correctly. The disadvantage of complexity when joining data is not a huge downside in this particular case, because the number of different tables still seems manageable and also the number of connections I need to make is probably fixed and not that high.
+2. From where I stand right now I think the easiest way to handle the data when it comes back would be an array of JavaScript objects (probably of the table _Meetings_), that have the data of the other tables nested in them. Because for me the JavaScript syntax & methods (& probably d3) would be the easiest way to operate on the data.
+3. I really have a hard time to reason for my drawing in terms of what we learned in Hills book. Im not sure if I can explain my structure with his definitions of classes and types. So I tried to do it more intuitively and used E-R symbols that seemed intuitive enough for me. As I understand it the data is structured on at least three hierarchy levels:
     1. Meetings are the highest hierarchy level.
     2. Groups, Dates and Locations are one level lower but on the same level
     3. For Locations it would make sense to introduce a sub-level, Addresses and maybe even another one below that (I would suggest for neighborhood).
@@ -132,4 +132,4 @@ myAsync();
 ```
 
 This time there is also enough comments in the code to make it easier to come back to.
-This is still not the solution I hoped for: It would be nicer not having to manage setTimeout timers, but have callbacks or promises instead (I guess), but I’m still trying to find a good structure that I can easily read and understand myself to implement this. 
+This is still not the solution I hoped for: It would be nicer not having to manage setTimeout timers, but have callbacks or promises instead (I guess), but I’m still trying to find a good structure that I can easily read and understand myself to implement this.
