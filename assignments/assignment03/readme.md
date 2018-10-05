@@ -92,7 +92,7 @@ value['latitude'] = tamuGeo.OutputGeocodes[0].OutputGeocode['Latitude'];
 value['longitude'] = tamuGeo.OutputGeocodes[0].OutputGeocode['Longitude'];
 ```
 
-#### My junction problem
+### My junction problem
 
 One of my meetings just lists a junction as address without a building number. I tried to resolve the problem by joining the junction to one string with "and" and adding the zip code to be more precise, but the request returned "0" for latitude and longitude. I would need to fix this data element by hand at some point I suppose:
 
