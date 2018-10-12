@@ -164,3 +164,25 @@ async.eachSeries(diaryEntries, function(value, callback) {
   setTimeout(callback, 1000);
 });
 ```
+
+For the future, I don’t want to overwrite old entries, but still keep everything in one file, so I think, I’ll introduce something like a currentUploadIndex, which holds a number to keep track, what has been already uploaded in the diaryEntries array.
+
+``` javascript
+// <------------------------------------------------ CURRENT ENTRIES
+// IMPORTANT CURRENT UPLOAD INDEX
+currentUploadIndex = 3+1; // x+1, = diaryEntries.length
+diaryEntries = diaryEntries.slice(currentUploadIndex)
+console.log(diaryEntries);
+```
+
+## PS
+
+I updated the structure a bit, so most of the variables are optional now, because I want to track updates (in a very naive way too) and those updates should only contain:
+
+1. pk
+2. upload
+3. startedWriting
+4. finishedWriting
+5. updateOf
+
+and those variables that have changed.

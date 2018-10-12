@@ -1,4 +1,5 @@
-var diaryEntries = [];
+let diaryEntries = [];
+let currentUploadIndex = 0;
 
 class DiaryEntry {
   constructor(obj) {
@@ -7,22 +8,26 @@ class DiaryEntry {
     this.pk.N = obj.pk.toString();
 
     //Essentials
-    this.headline = {};
-    this.headline.S = obj.headline;
+    if (obj.headline != null) {
+      this.headline = {};
+      this.headline.S = obj.headline;
+    }
     if (obj.subhead != null) {
       this.subhead = {};
       this.subhead.S = obj.subhead || 'empty';
     }
-    this.entry = {};
-    this.entry.S = obj.entry;
+    if (obj.entry != null) {
+      this.entry = {};
+      this.entry.S = obj.entry;
+    }
     if (obj.translation != null) {
       this.translation = {};
       this.translation.S = obj.translation || 'empty';
     }
 
     // Only when author is someone else
-    this.author = {};
-    this.author.S = obj.author || 'Felix Buchholz';
+      this.author = {};
+      this.author.S = obj.author || 'Felix Buchholz';
 
     //Dates
     this.uploaded = {};
@@ -31,14 +36,21 @@ class DiaryEntry {
       this.updatedOn = {};
       this.updatedOn.S = typeof obj.updatedOn != 'undefined'? obj.updatedOn.toDateString() : new Date(1970, 0, 1, 0, 0, 0).toDateString();
     }
-    this.startedWriting = {};
-    this.startedWriting.S = obj.startedWriting.toDateString();
-    this.finishedWriting = {};
-    this.finishedWriting.S = obj.finishedWriting.toDateString();
+
+    if (obj.startedWriting != null) {
+      this.startedWriting = {};
+      this.startedWriting.S = obj.startedWriting.toDateString();
+    }
+    if (obj.finishedWriting != null) {
+      this.finishedWriting = {};
+      this.finishedWriting.S = obj.finishedWriting.toDateString();
+    }
 
     // Tags and references
-    this.tags = {};
-    this.tags.SS = obj.tags;
+    if (obj.tags != null) {
+      this.tags = {};
+      this.tags.SS = obj.tags;
+    }
     if (obj.imgRefs != null) {
       this.imgRefs = {};
       this.imgRefs.SS = obj.imgRefs || ['empty'];
@@ -49,12 +61,18 @@ class DiaryEntry {
     }
 
     // Ordering and linking of entries
-    this.sequence = {};
-    this.sequence.N = obj.sequence.toString();
-    this.importance = {};
-    this.importance.N = obj.importance.toString();
-    this.urgency = {};
-    this.urgency.N = obj.urgency.toString();
+    if (obj.sequence != null) {
+      this.sequence = {};
+      this.sequence.N = obj.sequence.toString();
+    }
+    if (obj.importance != null) {
+      this.importance = {};
+      this.importance.N = obj.importance.toString();
+    }
+    if (obj.urgency != null) {
+      this.urgency = {};
+      this.urgency.N = obj.urgency.toString();
+    }
     if (obj.commentOn != null) {
       this.commentOn = {};
       this.commentOn.N = typeof obj.commentOn != 'undefined'? obj.commentOn.toString() : '-1';
@@ -163,7 +181,7 @@ diaryEntries.push(
     startedWriting: new Date(2018, (10-1), 11, 23, 46, 00),
     finishedWriting: new Date(2018, (10-1), 11, 23, 52, 00),
 
-    tags: ['introduction', 'thisConcept', 'German', 'beingHere', 'personal'],
+    tags: ['art', 'artist', 'basJanAder'],
     imgRefs: ['https://upload.wikimedia.org/wikipedia/en/4/40/Bas_Jan_Ader_-_I%27m_too_sad_to_tell_you.jpg'],
     // otherRefs: [''],
 
@@ -174,8 +192,122 @@ diaryEntries.push(
     // updateOf:
 }));
 
+diaryEntries.push(
+  new DiaryEntry({
+    pk: 4,
 
-// console.log(diaryEntries);
+    headline: 'Chamber Music',
+    // subhead: '',
+    entry: `I got this weird habit at the moment listening to a lot of chamber music. As always I’m really lazy when it comes to finding music so that leaves me with the The Baroque 50: Spotify Picks. It might sound a bit crazy, but in a way I can relate to that aristrocrat mentality that vibes with that music. I think it’s because of this guilty pleasure – what a strange expression, I would not actually feel guilty about my pleasure watching this – show that I’m currently watching, Versaille, about Louis XIV. I don’t know if you can relate to this but sometimes shallowness and hostiliy concealed in etiquette have a strange atmosphere of honesty to them. `,
+    // translation : '',
+
+    // author: '',
+    uploaded: new Date(),
+    // updatedOn: new Date(1970, 0, 1, 0, 0, 0),
+    startedWriting: new Date(2018, (10-1), 12, 0, 10, 00),
+    finishedWriting: new Date(2018, (10-1), 12, 0, 23, 00),
+
+    tags: ['music', 'aristocracy', 'English', 'honesty', 'personal'],
+    // imgRefs: [''],
+    // otherRefs: [''],
+
+    sequence: 4,
+    importance: 2,
+    urgency: 1,
+    // commentOn: ,
+    // updateOf:
+}));
+
+diaryEntries.push(
+  new DiaryEntry({
+    pk: 5,
+
+    headline: 'A Thing to Write to a Diary',
+    // subhead: '',
+    entry: `You know I hate to end relationships,
+especially when it has to be on a a bad note. But I finally mangaged to end the one I was telling you about when we sat in the crazy lunchtime heat of Karlsruhe at Kühler Krug. I finally ended that. And it’s good.
+It’s even sort of a heart-warming feeling to know you have alomost something like an enemy very close to you.`,
+    // translation : '',
+
+    // author: '',
+    uploaded: new Date(),
+    // updatedOn: new Date(1970, 0, 1, 0, 0, 0),
+    startedWriting: new Date(2018, (10-1), 12, 0, 30, 00),
+    finishedWriting: new Date(2018, (10-1), 12, 14, 3, 00),
+
+    tags: ['lena', 'enemy', 'English', 'honesty', 'personal', 'relationships', 'karlsruhe'],
+    // imgRefs: [''],
+    // otherRefs: [''],
+
+    sequence: 5,
+    importance: 5,
+    urgency: 0,
+    // commentOn: ,
+    // updateOf:
+}));
+
+diaryEntries.push(
+  new DiaryEntry({
+    pk: 6,
+
+    headline: 'Swimming-pool voll Galle',
+    // subhead: '',
+    entry: `If I every feel like it, I also want to have a category to vent a bit. This would be it.
+
+    Why not set the copy in Gill Sans and headlines in Bastard, by Virusfonts.`,
+    // translation : '',
+
+    // author: '',
+    uploaded: new Date(),
+    // updatedOn: new Date(1970, 0, 1, 0, 0, 0),
+    startedWriting: new Date(2018, (10-1), 12, 1, 49, 00),
+    finishedWriting: new Date(2018, (10-1), 12, 14, 11, 00),
+
+    tags: ['lena', 'enemy', 'English', 'honesty', 'personal', 'relationships', 'karlsruhe', 'gill', 'thisConcept', 'swimmingPool'],
+    // imgRefs: [''],
+    // otherRefs: [''],
+
+    sequence: 6,
+    importance: 5,
+    urgency: 2,
+    commentOn: 5,
+    // updateOf:
+}));
+
+diaryEntries.push(
+  new DiaryEntry({
+    pk: 7,
+
+    // headline: 'This artist we have been talking about',
+    // subhead: 'Bas Jan Ader',
+    // entry: `Bas Jan Ader, you told me about his three-minute black-and-white silent film, I’m too sad to tell you and how he tried to cross the ocean in a little boat and disappeared.`,
+    // translation : '',
+
+    // author: '',
+    uploaded: new Date(),
+    // updatedOn: new Date(1970, 0, 1, 0, 0, 0),
+    startedWriting: new Date(2018, (10-1), 12, 14, 07, 00),
+    finishedWriting: new Date(2018, (10-1), 12, 14, 09, 00),
+
+    tags: ['art', 'artist', 'basJanAder'],
+    // imgRefs: ['https://upload.wikimedia.org/wikipedia/en/4/40/Bas_Jan_Ader_-_I%27m_too_sad_to_tell_you.jpg'],
+    // otherRefs: [''],
+
+    // sequence: 3,
+    // importance: 7,
+    // urgency: 2,
+    // commentOn: ,
+    updateOf: 3
+}));
+
+// <------------------------------------------------ CURRENT ENTRIES: 7+1
+
+// <------------------------------------------------ CURRENT ENTRIES: 7+1
+
+// IMPORTANT CURRENT UPLOAD INDEX
+currentUploadIndex = 7+1; // x+1, = diaryEntries.length
+diaryEntries = diaryEntries.slice(currentUploadIndex)
+console.log(diaryEntries);
 
 //REQUIRE
 var AWS = require('aws-sdk');
