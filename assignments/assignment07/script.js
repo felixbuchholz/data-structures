@@ -9,30 +9,9 @@ const content = fs.readFileSync('data/aa06.txt');
 // load `content` into a cheerio object
 const $ = cheerio.load(content);
 
-// Class Address
-  // House number (first word)
-  // Street (everything else)
-  // Junction in parantheses seperated by &amp; or 'and', Betw., Betw, Between, Btw. (maybe just first word)
-  // entrance @
-  // zipcode regex five numbers
-
-class Address {
-  constructor(number, street, junction, detail, zipcode) {
-  this.number = 0;
-  this.street = '';
-  this.junction = [];
-  this.detail = [];
-  this.zipcode = 99999;
-  }
-}
-
-let aa06Adresses = []; // this variable will hold the address objects
-
-// console.log($('td').attr('style', 'border-bottom:1px solid #e3e3e3; width:260px').contents().text());
 
 $('tr').each(function(i, elem) {
   const row = $(elem).text();
-  // let myAddress = new Address;
 
   if ($(elem).attr('style') == 'margin-bottom:10px') {
 
@@ -195,14 +174,5 @@ $('tr').each(function(i, elem) {
       let times = secondTD.text().match(/\d\d?:\d\d [A|P]M/g);
       // console.log(i, days, times);
 
-
-
-
-
   }
 });
-
-// fs.writeFileSync('data/aa06Adresses.json', JSON.stringify(aa06Adresses));
-
-
-// Functions!
