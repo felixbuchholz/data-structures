@@ -134,7 +134,8 @@ async function processFiles(paths) {
                   long: 0,
                   street: getStreet(delArr),
                   city: 'NY',
-                  zipcode: $(rowElem).text().match(/\d{5}/g)
+                  zipcode: getZipcode($, rowElem, delArr),
+                  zone: zone
                 }
                 addressTable.push(address);
             } else {
@@ -147,7 +148,8 @@ async function processFiles(paths) {
                 long: 0,
                 street: getStreet(delArr),
                 city: 'NY',
-                zipcode: $(rowElem).text().match(/\d{5}/g)
+                zipcode: $(rowElem).text().match(/\d{5}/g),
+                zone: zone
               }
               // addressTable.push(address);
             }
@@ -262,16 +264,29 @@ function arraysEqual(arr1, arr2) {
     return true;
 }
 
+function getZipcode($, rowElem, delArr) {
+  if (getStreet(delArr) == '22 Barclay Street') {
+    return '10007';
+  } else if (getStreet(delArr) == '152 west 71st street') {
+    return '10023';
+  } else {
+    return $(rowElem).text().match(/\d{5}/g);
+
+  }
+}
+
 // TODO: remove the second number for the geodata request
 // Central Park West and 76th Street, 4 W 76th St
 function getStreet (delArr) {
   return delArr[0].replace('&amp;', 'and')
     .replace('Central Park West and 76th Street', '4 West 76th Street')
     .replace('189th Street and Bennett Avenue', '178 Bennett Avenue')
+    .replace('. Meeting in the gym.', '')
     .replace('Blvd.', 'Boulevard')
     .replace('W.', 'West')
     .replace(/St\W/, 'Street')
     .replace('&apos;', '’')
+    .replace(/Stree$/, 'Street')
     .trim()
 }
 

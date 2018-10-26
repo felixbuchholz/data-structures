@@ -179,7 +179,7 @@
       "Between Church and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 8
+    "addressFK": 5
   },
   {
     "locationPK": 19,
@@ -223,7 +223,7 @@
       "@ Houston Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 9
+    "addressFK": 8
   },
   {
     "locationPK": 24,
@@ -232,7 +232,7 @@
       "Off 7th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 10
+    "addressFK": 9
   },
   {
     "locationPK": 25,
@@ -250,7 +250,7 @@
       "Between Waverly and West 4th Streets"
     ],
     "wheelchairAccess": false,
-    "addressFK": 10
+    "addressFK": 9
   },
   {
     "locationPK": 27,
@@ -260,7 +260,7 @@
       "Between 6th Avenue and Varick Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 11
+    "addressFK": 10
   },
   {
     "locationPK": 28,
@@ -271,7 +271,7 @@
       "No shoes worn in meeting location"
     ],
     "wheelchairAccess": false,
-    "addressFK": 12
+    "addressFK": 11
   },
   {
     "locationPK": 29,
@@ -281,7 +281,7 @@
       "Ask front desk for meeting location"
     ],
     "wheelchairAccess": true,
-    "addressFK": 9
+    "addressFK": 8
   },
   {
     "locationPK": 30,
@@ -291,7 +291,7 @@
       "South of Christopher Street - behind church"
     ],
     "wheelchairAccess": false,
-    "addressFK": 13
+    "addressFK": 12
   },
   {
     "locationPK": 31,
@@ -301,7 +301,7 @@
       "A la isquierda de la iglesia"
     ],
     "wheelchairAccess": true,
-    "addressFK": 14
+    "addressFK": 13
   },
   {
     "locationPK": 32,
@@ -310,7 +310,7 @@
       "Between Waverly Place and West 4th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 10
+    "addressFK": 9
   },
   {
     "locationPK": 33,
@@ -320,7 +320,7 @@
       "Between Henry and Rutgers Streets"
     ],
     "wheelchairAccess": false,
-    "addressFK": 15
+    "addressFK": 14
   },
   {
     "locationPK": 34,
@@ -330,7 +330,7 @@
       "West of 7th Avenue, Enter Left, Red Door, Ring Buzzer"
     ],
     "wheelchairAccess": false,
-    "addressFK": 16
+    "addressFK": 15
   },
   {
     "locationPK": 35,
@@ -340,7 +340,7 @@
       "Between 7th Avenue South and West 4th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 17
+    "addressFK": 16
   },
   {
     "locationPK": 36,
@@ -349,7 +349,7 @@
       "Off 7th Ave, downstairs in Junior Room"
     ],
     "wheelchairAccess": false,
-    "addressFK": 10
+    "addressFK": 9
   },
   {
     "locationPK": 37,
@@ -359,7 +359,7 @@
       "@ 11th Street and 7th Avenue South"
     ],
     "wheelchairAccess": false,
-    "addressFK": 18
+    "addressFK": 17
   },
   {
     "locationPK": 38,
@@ -368,14 +368,14 @@
       "Enter on Sullivan Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 19
+    "addressFK": 18
   },
   {
     "locationPK": 39,
     "name": "Chinatown YMCA",
     "details": [],
     "wheelchairAccess": true,
-    "addressFK": 20
+    "addressFK": 19
   },
   {
     "locationPK": 40,
@@ -385,7 +385,7 @@
       "@ Corner of 6th Avenue and Washington Place"
     ],
     "wheelchairAccess": true,
-    "addressFK": 21
+    "addressFK": 20
   },
   {
     "locationPK": 41,
@@ -397,7 +397,7 @@
       "Please call New York Inter-Group to confirm meeting location"
     ],
     "wheelchairAccess": false,
-    "addressFK": 22
+    "addressFK": 21
   },
   {
     "locationPK": 42,
@@ -407,7 +407,7 @@
       "Lower level"
     ],
     "wheelchairAccess": false,
-    "addressFK": 23
+    "addressFK": 22
   },
   {
     "locationPK": 43,
@@ -417,7 +417,7 @@
       "Waverly Place @ 7th Avenue South"
     ],
     "wheelchairAccess": false,
-    "addressFK": 10
+    "addressFK": 9
   },
   {
     "locationPK": 44,
@@ -427,7 +427,7 @@
       "Please ring Meeting Bell only"
     ],
     "wheelchairAccess": false,
-    "addressFK": 24
+    "addressFK": 23
   },
   {
     "locationPK": 45,
@@ -436,7 +436,7 @@
       "Just off of 7th avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 10
+    "addressFK": 9
   },
   {
     "locationPK": 46,
@@ -445,7 +445,7 @@
       "Between 7th Avenue and West 4th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 10
+    "addressFK": 9
   },
   {
     "locationPK": 47,
@@ -456,7 +456,7 @@
       "Enter through Red Door left of church, Buzzer-Meeting Room"
     ],
     "wheelchairAccess": true,
-    "addressFK": 16
+    "addressFK": 15
   },
   {
     "locationPK": 48,
@@ -466,7 +466,7 @@
       "@ The corner of Houston Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 9
+    "addressFK": 8
   },
   {
     "locationPK": 49,
@@ -475,7 +475,7 @@
       "2nd Floor"
     ],
     "wheelchairAccess": false,
-    "addressFK": 25
+    "addressFK": 24
   },
   {
     "locationPK": 50,
@@ -485,7 +485,7 @@
       "Between Lexington and 3rd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 26
+    "addressFK": 25
   },
   {
     "locationPK": 51,
@@ -495,7 +495,7 @@
       "9th and 10th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 27
+    "addressFK": 26
   },
   {
     "locationPK": 52,
@@ -505,7 +505,7 @@
       "Between 7th and 8th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 28
+    "addressFK": 27
   },
   {
     "locationPK": 53,
@@ -515,7 +515,7 @@
       "@ Irving Place"
     ],
     "wheelchairAccess": true,
-    "addressFK": 29
+    "addressFK": 28
   },
   {
     "locationPK": 54,
@@ -524,7 +524,7 @@
       "Between Park and Lexington Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 30
+    "addressFK": 29
   },
   {
     "locationPK": 55,
@@ -534,7 +534,7 @@
       "Between Lexington and 3rd Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 26
+    "addressFK": 25
   },
   {
     "locationPK": 56,
@@ -544,7 +544,7 @@
       "Between Lexington and Park Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 31
+    "addressFK": 30
   },
   {
     "locationPK": 57,
@@ -554,7 +554,7 @@
       "Ground Floor"
     ],
     "wheelchairAccess": true,
-    "addressFK": 32
+    "addressFK": 31
   },
   {
     "locationPK": 58,
@@ -564,7 +564,7 @@
       "Between 6th and 7th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 33
+    "addressFK": 32
   },
   {
     "locationPK": 59,
@@ -573,7 +573,7 @@
       "Between 8th and 9th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 34
+    "addressFK": 33
   },
   {
     "locationPK": 60,
@@ -583,7 +583,7 @@
       "Between 6th and 7th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 33
+    "addressFK": 32
   },
   {
     "locationPK": 61,
@@ -593,7 +593,7 @@
       "Between 1st Avenue and Avenue A"
     ],
     "wheelchairAccess": true,
-    "addressFK": 35
+    "addressFK": 34
   },
   {
     "locationPK": 62,
@@ -603,7 +603,7 @@
       "Auditorium"
     ],
     "wheelchairAccess": true,
-    "addressFK": 36
+    "addressFK": 35
   },
   {
     "locationPK": 63,
@@ -614,7 +614,7 @@
       "Check in at front desk"
     ],
     "wheelchairAccess": true,
-    "addressFK": 37
+    "addressFK": 36
   },
   {
     "locationPK": 64,
@@ -624,7 +624,7 @@
       "East 20th Street @ Irving Place"
     ],
     "wheelchairAccess": true,
-    "addressFK": 38
+    "addressFK": 37
   },
   {
     "locationPK": 65,
@@ -634,7 +634,7 @@
       "@2nd Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 39
+    "addressFK": 38
   },
   {
     "locationPK": 66,
@@ -644,7 +644,7 @@
       "Southeast corner of Houston Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 9
+    "addressFK": 8
   },
   {
     "locationPK": 67,
@@ -654,7 +654,7 @@
       "@ 10th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 40
+    "addressFK": 39
   },
   {
     "locationPK": 68,
@@ -664,7 +664,7 @@
       "East 20th Street between 3rd Avenue and Irving Place"
     ],
     "wheelchairAccess": true,
-    "addressFK": 41
+    "addressFK": 40
   },
   {
     "locationPK": 69,
@@ -675,7 +675,7 @@
       "Tuesday Topic = Gratitude, Thursday = 11th Step Meditation Meeting"
     ],
     "wheelchairAccess": false,
-    "addressFK": 42
+    "addressFK": 41
   },
   {
     "locationPK": 70,
@@ -685,7 +685,7 @@
       "Between East 2nd and 3rd Streets"
     ],
     "wheelchairAccess": false,
-    "addressFK": 43
+    "addressFK": 42
   },
   {
     "locationPK": 71,
@@ -694,7 +694,7 @@
       "Between 7th and 8th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 44
+    "addressFK": 43
   },
   {
     "locationPK": 72,
@@ -704,7 +704,7 @@
       "Check listing at the center for the room number"
     ],
     "wheelchairAccess": true,
-    "addressFK": 28
+    "addressFK": 27
   },
   {
     "locationPK": 73,
@@ -713,7 +713,7 @@
       "@ East 20th Street and Irving Place"
     ],
     "wheelchairAccess": true,
-    "addressFK": 38
+    "addressFK": 37
   },
   {
     "locationPK": 74,
@@ -723,7 +723,7 @@
       "Between 7th Avenue and Greenwich Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 45
+    "addressFK": 44
   },
   {
     "locationPK": 75,
@@ -732,7 +732,7 @@
       "At 8th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 46
+    "addressFK": 45
   },
   {
     "locationPK": 76,
@@ -741,7 +741,7 @@
       "Downstairs"
     ],
     "wheelchairAccess": false,
-    "addressFK": 47
+    "addressFK": 46
   },
   {
     "locationPK": 77,
@@ -751,7 +751,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 48
+    "addressFK": 47
   },
   {
     "locationPK": 78,
@@ -760,7 +760,7 @@
       "Between 7th and 8th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 28
+    "addressFK": 27
   },
   {
     "locationPK": 79,
@@ -770,7 +770,7 @@
       "Between Madison and Park Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 49
+    "addressFK": 48
   },
   {
     "locationPK": 80,
@@ -780,7 +780,7 @@
       "Between 3rd and Lex Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 26
+    "addressFK": 25
   },
   {
     "locationPK": 81,
@@ -790,7 +790,7 @@
       "Between 5th Avenue and University Place"
     ],
     "wheelchairAccess": false,
-    "addressFK": 25
+    "addressFK": 24
   },
   {
     "locationPK": 82,
@@ -800,7 +800,7 @@
       "Between 8th and 9th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 50
+    "addressFK": 49
   },
   {
     "locationPK": 83,
@@ -810,14 +810,14 @@
       "Between 2nd and 3rd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 51
+    "addressFK": 50
   },
   {
     "locationPK": 84,
     "name": "The Realization Center",
     "details": [],
     "wheelchairAccess": false,
-    "addressFK": 52
+    "addressFK": 51
   },
   {
     "locationPK": 85,
@@ -827,7 +827,7 @@
       "Enter through gate on 21st Street between 9th and 10th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 53
+    "addressFK": 52
   },
   {
     "locationPK": 86,
@@ -837,7 +837,7 @@
       "Between 5th Avenue and Broadway"
     ],
     "wheelchairAccess": true,
-    "addressFK": 54
+    "addressFK": 53
   },
   {
     "locationPK": 87,
@@ -849,7 +849,7 @@
       "Basement is not Wheel Chair Accessible"
     ],
     "wheelchairAccess": false,
-    "addressFK": 26
+    "addressFK": 25
   },
   {
     "locationPK": 88,
@@ -859,7 +859,7 @@
       "@ Main entrance is East of 1st Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 55
+    "addressFK": 54
   },
   {
     "locationPK": 89,
@@ -869,7 +869,7 @@
       "Between 3rd Avenue and Rutherford Place"
     ],
     "wheelchairAccess": false,
-    "addressFK": 42
+    "addressFK": 41
   },
   {
     "locationPK": 90,
@@ -878,7 +878,7 @@
       "Between 1st Avenue and Avenue A"
     ],
     "wheelchairAccess": false,
-    "addressFK": 56
+    "addressFK": 55
   },
   {
     "locationPK": 91,
@@ -889,7 +889,7 @@
       "Big Book topic meeting meets in the Music Room"
     ],
     "wheelchairAccess": false,
-    "addressFK": 42
+    "addressFK": 41
   },
   {
     "locationPK": 92,
@@ -899,7 +899,7 @@
       "Between 2nd and 3rd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 57
+    "addressFK": 56
   },
   {
     "locationPK": 93,
@@ -909,7 +909,7 @@
       "Between 5th and 6th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 58
+    "addressFK": 57
   },
   {
     "locationPK": 94,
@@ -918,7 +918,7 @@
       "Between East 2nd and 3rd Streets"
     ],
     "wheelchairAccess": false,
-    "addressFK": 43
+    "addressFK": 42
   },
   {
     "locationPK": 95,
@@ -928,14 +928,14 @@
       "Between 5th Avenue and Avenue of the Americas"
     ],
     "wheelchairAccess": false,
-    "addressFK": 59
+    "addressFK": 58
   },
   {
     "locationPK": 96,
     "name": "PS 41 Elementary School",
     "details": [],
     "wheelchairAccess": false,
-    "addressFK": 60
+    "addressFK": 59
   },
   {
     "locationPK": 97,
@@ -945,7 +945,7 @@
       "@ 14th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 61
+    "addressFK": 60
   },
   {
     "locationPK": 98,
@@ -955,7 +955,7 @@
       "Between 6th and 7th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 60
+    "addressFK": 59
   },
   {
     "locationPK": 99,
@@ -965,7 +965,7 @@
       "Meeting In Basement"
     ],
     "wheelchairAccess": false,
-    "addressFK": 26
+    "addressFK": 25
   },
   {
     "locationPK": 100,
@@ -974,7 +974,7 @@
       "Between First aqnd Second Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 62
+    "addressFK": 61
   },
   {
     "locationPK": 101,
@@ -985,7 +985,7 @@
       "Enter through Room 4A to go to #4A18"
     ],
     "wheelchairAccess": true,
-    "addressFK": 63
+    "addressFK": 62
   },
   {
     "locationPK": 102,
@@ -995,7 +995,7 @@
       "Ground Floor"
     ],
     "wheelchairAccess": false,
-    "addressFK": 64
+    "addressFK": 63
   },
   {
     "locationPK": 103,
@@ -1005,7 +1005,7 @@
       "@ Irving Place"
     ],
     "wheelchairAccess": true,
-    "addressFK": 29
+    "addressFK": 28
   },
   {
     "locationPK": 104,
@@ -1016,7 +1016,7 @@
       "Monday 5:30 = Gratitude and Saturday 7:30am = AA Grapevine"
     ],
     "wheelchairAccess": false,
-    "addressFK": 56
+    "addressFK": 55
   },
   {
     "locationPK": 105,
@@ -1026,7 +1026,7 @@
       "Between 6th and 7th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 33
+    "addressFK": 32
   },
   {
     "locationPK": 106,
@@ -1035,7 +1035,7 @@
       "Between 7th Ave and Greenwich Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 28
+    "addressFK": 27
   },
   {
     "locationPK": 107,
@@ -1045,7 +1045,7 @@
       "Between 14th and 15th Streets @ 4th Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 65
+    "addressFK": 64
   },
   {
     "locationPK": 108,
@@ -1055,7 +1055,7 @@
       "Between 6th and 7th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 66
+    "addressFK": 65
   },
   {
     "locationPK": 109,
@@ -1065,7 +1065,7 @@
       "No Prayers - All Welcome - Check listing for Room #"
     ],
     "wheelchairAccess": false,
-    "addressFK": 28
+    "addressFK": 27
   },
   {
     "locationPK": 110,
@@ -1075,7 +1075,7 @@
       "At 5th Avenue between 11th and 12th Streets"
     ],
     "wheelchairAccess": true,
-    "addressFK": 58
+    "addressFK": 57
   },
   {
     "locationPK": 111,
@@ -1085,7 +1085,7 @@
       "5th Avenue and MacDougal Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 67
+    "addressFK": 66
   },
   {
     "locationPK": 112,
@@ -1094,7 +1094,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 68
+    "addressFK": 67
   },
   {
     "locationPK": 113,
@@ -1104,7 +1104,7 @@
       "Off of 7th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 66
+    "addressFK": 65
   },
   {
     "locationPK": 114,
@@ -1114,7 +1114,7 @@
       "@ Avenue B"
     ],
     "wheelchairAccess": true,
-    "addressFK": 32
+    "addressFK": 31
   },
   {
     "locationPK": 115,
@@ -1124,7 +1124,7 @@
       "Enter on 15th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 54
+    "addressFK": 53
   },
   {
     "locationPK": 116,
@@ -1133,7 +1133,7 @@
       "Between Avenues A and B"
     ],
     "wheelchairAccess": false,
-    "addressFK": 69
+    "addressFK": 68
   },
   {
     "locationPK": 117,
@@ -1143,7 +1143,7 @@
       "Basement"
     ],
     "wheelchairAccess": false,
-    "addressFK": 39
+    "addressFK": 38
   },
   {
     "locationPK": 118,
@@ -1153,7 +1153,7 @@
       "Between Broadway and 8th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 70
+    "addressFK": 69
   },
   {
     "locationPK": 119,
@@ -1163,7 +1163,7 @@
       "Between 8th and 9th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 71
+    "addressFK": 70
   },
   {
     "locationPK": 120,
@@ -1174,7 +1174,7 @@
       "Sunday = 11th Step, Wednesday = Gratitude, Thursday = Daily Reflections"
     ],
     "wheelchairAccess": false,
-    "addressFK": 71
+    "addressFK": 70
   },
   {
     "locationPK": 121,
@@ -1184,7 +1184,7 @@
       "Between 27th and 28th Streets"
     ],
     "wheelchairAccess": true,
-    "addressFK": 72
+    "addressFK": 71
   },
   {
     "locationPK": 122,
@@ -1194,7 +1194,7 @@
       "Between 5th and 6th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 73
+    "addressFK": 72
   },
   {
     "locationPK": 123,
@@ -1204,7 +1204,7 @@
       "@ Corner of 8th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 71
+    "addressFK": 70
   },
   {
     "locationPK": 124,
@@ -1214,7 +1214,7 @@
       "Between 6th and 7th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 74
+    "addressFK": 73
   },
   {
     "locationPK": 125,
@@ -1224,7 +1224,7 @@
       "Between 9th and 10th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 75
+    "addressFK": 74
   },
   {
     "locationPK": 126,
@@ -1234,7 +1234,7 @@
       "@ 10th Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 76
+    "addressFK": 75
   },
   {
     "locationPK": 127,
@@ -1244,7 +1244,7 @@
       "Between 7th and 8th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 70
+    "addressFK": 69
   },
   {
     "locationPK": 128,
@@ -1253,7 +1253,7 @@
       "Between 8th and 9th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 77
+    "addressFK": 76
   },
   {
     "locationPK": 129,
@@ -1262,7 +1262,7 @@
       "8th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 71
+    "addressFK": 70
   },
   {
     "locationPK": 130,
@@ -1272,7 +1272,7 @@
       "Between 6th and 7th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 78
+    "addressFK": 77
   },
   {
     "locationPK": 131,
@@ -1282,7 +1282,7 @@
       "Between 9th and 10th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 79
+    "addressFK": 78
   },
   {
     "locationPK": 132,
@@ -1291,7 +1291,7 @@
       "Between 7th and 8th Avenues, Basement"
     ],
     "wheelchairAccess": false,
-    "addressFK": 80
+    "addressFK": 79
   },
   {
     "locationPK": 133,
@@ -1301,7 +1301,7 @@
       "Between 5th and 6th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 73
+    "addressFK": 72
   },
   {
     "locationPK": 134,
@@ -1312,7 +1312,7 @@
       "Other meetings in the chapel"
     ],
     "wheelchairAccess": false,
-    "addressFK": 79
+    "addressFK": 78
   },
   {
     "locationPK": 135,
@@ -1324,7 +1324,7 @@
       "Monday through Thursday Open Discussion 3rd floor"
     ],
     "wheelchairAccess": true,
-    "addressFK": 81
+    "addressFK": 80
   },
   {
     "locationPK": 136,
@@ -1333,7 +1333,7 @@
       "Between Broadway and 8th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 70
+    "addressFK": 69
   },
   {
     "locationPK": 137,
@@ -1343,7 +1343,7 @@
       "@ 49th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 82
+    "addressFK": 81
   },
   {
     "locationPK": 138,
@@ -1352,7 +1352,7 @@
       "Between 10th and 11th Avenuess"
     ],
     "wheelchairAccess": false,
-    "addressFK": 83
+    "addressFK": 82
   },
   {
     "locationPK": 139,
@@ -1363,7 +1363,7 @@
       "NOTE: On legal holidays, the meeting meets on the 1st Floor Ask for the room at the reception desk"
     ],
     "wheelchairAccess": true,
-    "addressFK": 84
+    "addressFK": 83
   },
   {
     "locationPK": 140,
@@ -1372,7 +1372,7 @@
       "26th Street and 8th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 46
+    "addressFK": 45
   },
   {
     "locationPK": 141,
@@ -1382,7 +1382,7 @@
       "Room LL2"
     ],
     "wheelchairAccess": true,
-    "addressFK": 85
+    "addressFK": 84
   },
   {
     "locationPK": 142,
@@ -1392,7 +1392,7 @@
       "Last Saturday meets at 252 West 46th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 71
+    "addressFK": 70
   },
   {
     "locationPK": 143,
@@ -1402,7 +1402,7 @@
       "Second Floor"
     ],
     "wheelchairAccess": true,
-    "addressFK": 79
+    "addressFK": 78
   },
   {
     "locationPK": 144,
@@ -1412,7 +1412,7 @@
       "Between 6th and 7th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 74
+    "addressFK": 73
   },
   {
     "locationPK": 145,
@@ -1422,7 +1422,7 @@
       "Between 8th and 9th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 71
+    "addressFK": 70
   },
   {
     "locationPK": 146,
@@ -1432,7 +1432,7 @@
       "Corner of West 28th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 86
+    "addressFK": 85
   },
   {
     "locationPK": 147,
@@ -1441,7 +1441,7 @@
       "3rd Floor"
     ],
     "wheelchairAccess": true,
-    "addressFK": 73
+    "addressFK": 72
   },
   {
     "locationPK": 148,
@@ -1451,7 +1451,7 @@
       "@ 43rd Street and 10th Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 87
+    "addressFK": 86
   },
   {
     "locationPK": 149,
@@ -1460,7 +1460,7 @@
       "@ 5th Av"
     ],
     "wheelchairAccess": true,
-    "addressFK": 81
+    "addressFK": 80
   },
   {
     "locationPK": 150,
@@ -1470,7 +1470,7 @@
       "Between Broadway and 8 Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 70
+    "addressFK": 69
   },
   {
     "locationPK": 151,
@@ -1479,7 +1479,7 @@
       "Off of 5th Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 88
+    "addressFK": 87
   },
   {
     "locationPK": 152,
@@ -1489,7 +1489,7 @@
       "@28th street, Enter at 9th avenue, small building south of the church"
     ],
     "wheelchairAccess": false,
-    "addressFK": 89
+    "addressFK": 88
   },
   {
     "locationPK": 153,
@@ -1499,7 +1499,7 @@
       "@ 5th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 73
+    "addressFK": 72
   },
   {
     "locationPK": 154,
@@ -1509,7 +1509,7 @@
       "Between 7th and 8th Aves"
     ],
     "wheelchairAccess": false,
-    "addressFK": 90
+    "addressFK": 89
   },
   {
     "locationPK": 155,
@@ -1518,14 +1518,14 @@
       "Between 9th and 10th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 79
+    "addressFK": 78
   },
   {
     "locationPK": 156,
     "name": "",
     "details": [],
     "wheelchairAccess": true,
-    "addressFK": 91
+    "addressFK": 90
   },
   {
     "locationPK": 157,
@@ -1535,7 +1535,7 @@
       "Between 58th and 59th Streets"
     ],
     "wheelchairAccess": true,
-    "addressFK": 84
+    "addressFK": 83
   },
   {
     "locationPK": 158,
@@ -1544,7 +1544,7 @@
       "Between 9th and 10th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 76
+    "addressFK": 75
   },
   {
     "locationPK": 159,
@@ -1554,7 +1554,7 @@
       "Downstairs"
     ],
     "wheelchairAccess": true,
-    "addressFK": 92
+    "addressFK": 91
   },
   {
     "locationPK": 160,
@@ -1564,7 +1564,7 @@
       "Between 7th and 8th Avenues @ 46th Street Clubhouse"
     ],
     "wheelchairAccess": false,
-    "addressFK": 70
+    "addressFK": 69
   },
   {
     "locationPK": 161,
@@ -1575,7 +1575,7 @@
       "FRONT BASEMENTER ONLY"
     ],
     "wheelchairAccess": false,
-    "addressFK": 93
+    "addressFK": 92
   },
   {
     "locationPK": 162,
@@ -1584,7 +1584,7 @@
       "Between Madison and Park Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 94
+    "addressFK": 93
   },
   {
     "locationPK": 163,
@@ -1594,7 +1594,7 @@
       "3rd Floor library"
     ],
     "wheelchairAccess": false,
-    "addressFK": 95
+    "addressFK": 94
   },
   {
     "locationPK": 164,
@@ -1604,7 +1604,7 @@
       "Enter on 54th Street, between Lexington and 3rd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 96
+    "addressFK": 95
   },
   {
     "locationPK": 165,
@@ -1614,7 +1614,7 @@
       "Between Park and Lexington Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 93
+    "addressFK": 92
   },
   {
     "locationPK": 166,
@@ -1623,7 +1623,7 @@
       "Upstairs, through red door, 1st room on right"
     ],
     "wheelchairAccess": false,
-    "addressFK": 97
+    "addressFK": 96
   },
   {
     "locationPK": 167,
@@ -1632,7 +1632,7 @@
       "56th Street and First Avenue, 3rd Floor Library"
     ],
     "wheelchairAccess": false,
-    "addressFK": 95
+    "addressFK": 94
   },
   {
     "locationPK": 168,
@@ -1642,7 +1642,7 @@
       "Between 36th and 37th Streets"
     ],
     "wheelchairAccess": false,
-    "addressFK": 98
+    "addressFK": 97
   },
   {
     "locationPK": 169,
@@ -1652,7 +1652,7 @@
       "Enter on 54th Street, between Lexington and 3rd Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 96
+    "addressFK": 95
   },
   {
     "locationPK": 170,
@@ -1663,7 +1663,7 @@
       "Enter main Church entrance, turn left, meeting is downstairs"
     ],
     "wheelchairAccess": true,
-    "addressFK": 99
+    "addressFK": 98
   },
   {
     "locationPK": 171,
@@ -1672,7 +1672,7 @@
       "Between Park and Lexington"
     ],
     "wheelchairAccess": false,
-    "addressFK": 100
+    "addressFK": 99
   },
   {
     "locationPK": 172,
@@ -1682,7 +1682,7 @@
       "ENTER BASEMENT ONLY"
     ],
     "wheelchairAccess": false,
-    "addressFK": 93
+    "addressFK": 92
   },
   {
     "locationPK": 173,
@@ -1691,7 +1691,7 @@
       "Between Lexington and 3rd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 99
+    "addressFK": 98
   },
   {
     "locationPK": 174,
@@ -1701,7 +1701,7 @@
       "Enter through side door @ 35th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 101
+    "addressFK": 100
   },
   {
     "locationPK": 175,
@@ -1712,7 +1712,7 @@
       "Thursday 8am back room, Gratitude"
     ],
     "wheelchairAccess": false,
-    "addressFK": 93
+    "addressFK": 92
   },
   {
     "locationPK": 176,
@@ -1722,14 +1722,14 @@
       "Enter on 54th Street, between Lexington and 3rd Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 96
+    "addressFK": 95
   },
   {
     "locationPK": 177,
     "name": "Church of the Good Shepherd",
     "details": [],
     "wheelchairAccess": true,
-    "addressFK": 102
+    "addressFK": 101
   },
   {
     "locationPK": 178,
@@ -1739,7 +1739,7 @@
       "Between Park and Lexington Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 103
+    "addressFK": 102
   },
   {
     "locationPK": 179,
@@ -1748,7 +1748,7 @@
       "Between 2nd and 3rd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 104
+    "addressFK": 103
   },
   {
     "locationPK": 180,
@@ -1757,7 +1757,7 @@
       "Between 2nd and 3rd Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 105
+    "addressFK": 104
   },
   {
     "locationPK": 181,
@@ -1767,7 +1767,7 @@
       "NOTE: Monday and Wednesday in Choir Room. Friday in Vestry Room. Also check the Board at Church entrance"
     ],
     "wheelchairAccess": false,
-    "addressFK": 106
+    "addressFK": 105
   },
   {
     "locationPK": 182,
@@ -1777,7 +1777,7 @@
       "Between 2nd and 3rd AVENUES"
     ],
     "wheelchairAccess": false,
-    "addressFK": 107
+    "addressFK": 106
   },
   {
     "locationPK": 183,
@@ -1786,7 +1786,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 108
+    "addressFK": 107
   },
   {
     "locationPK": 184,
@@ -1796,7 +1796,7 @@
       "Between 2nd and 3rd Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 105
+    "addressFK": 104
   },
   {
     "locationPK": 185,
@@ -1805,7 +1805,7 @@
       "Between Park and Lexington"
     ],
     "wheelchairAccess": true,
-    "addressFK": 109
+    "addressFK": 108
   },
   {
     "locationPK": 186,
@@ -1815,7 +1815,7 @@
       "Between Amsterdam Avenue and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 110
+    "addressFK": 109
   },
   {
     "locationPK": 187,
@@ -1825,7 +1825,7 @@
       "Between Columbus Avenue and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 111
+    "addressFK": 110
   },
   {
     "locationPK": 188,
@@ -1834,7 +1834,7 @@
       "Between 9th and 10th Ave"
     ],
     "wheelchairAccess": false,
-    "addressFK": 79
+    "addressFK": 78
   },
   {
     "locationPK": 189,
@@ -1843,7 +1843,7 @@
       "1st floor"
     ],
     "wheelchairAccess": true,
-    "addressFK": 112
+    "addressFK": 111
   },
   {
     "locationPK": 190,
@@ -1853,7 +1853,7 @@
       "Between Amsterdam Avenue and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 110
+    "addressFK": 109
   },
   {
     "locationPK": 191,
@@ -1863,7 +1863,7 @@
       "Between Columbus and Amsterdam Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 113
+    "addressFK": 112
   },
   {
     "locationPK": 192,
@@ -1872,7 +1872,7 @@
       "Between Columbus and Amsterdam Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 114
+    "addressFK": 113
   },
   {
     "locationPK": 193,
@@ -1881,7 +1881,7 @@
       "Between Central Park West and Columbus Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 115
+    "addressFK": 114
   },
   {
     "locationPK": 194,
@@ -1891,7 +1891,7 @@
       "Between Amsterdam Avenue and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 116
+    "addressFK": 115
   },
   {
     "locationPK": 195,
@@ -1901,7 +1901,7 @@
       "Between Amsterdam and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 110
+    "addressFK": 109
   },
   {
     "locationPK": 196,
@@ -1910,7 +1910,7 @@
       "Between Amsterdam Avenue and Broadway"
     ],
     "wheelchairAccess": true,
-    "addressFK": 117
+    "addressFK": 116
   },
   {
     "locationPK": 197,
@@ -1919,7 +1919,7 @@
       "2nd Red Door"
     ],
     "wheelchairAccess": false,
-    "addressFK": 118
+    "addressFK": 117
   },
   {
     "locationPK": 198,
@@ -1928,7 +1928,7 @@
       "Enter on 76th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 119
+    "addressFK": 114
   },
   {
     "locationPK": 199,
@@ -1938,7 +1938,7 @@
       "Between Central Park West and Broadway"
     ],
     "wheelchairAccess": true,
-    "addressFK": 120
+    "addressFK": 118
   },
   {
     "locationPK": 200,
@@ -1948,7 +1948,7 @@
       "Between Columbus Avenue and Central Park West"
     ],
     "wheelchairAccess": false,
-    "addressFK": 119
+    "addressFK": 114
   },
   {
     "locationPK": 201,
@@ -1958,7 +1958,7 @@
       "@ 76th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 121
+    "addressFK": 119
   },
   {
     "locationPK": 202,
@@ -1969,7 +1969,7 @@
       "Enter basement level @ red door on left side of the building"
     ],
     "wheelchairAccess": false,
-    "addressFK": 122
+    "addressFK": 120
   },
   {
     "locationPK": 203,
@@ -1979,14 +1979,14 @@
       "Between Central Park West and Columbus Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 123
+    "addressFK": 121
   },
   {
     "locationPK": 204,
     "name": "All Angels Church",
     "details": [],
     "wheelchairAccess": true,
-    "addressFK": 124
+    "addressFK": 122
   },
   {
     "locationPK": 205,
@@ -1995,7 +1995,7 @@
       "@ Columbus Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 125
+    "addressFK": 123
   },
   {
     "locationPK": 206,
@@ -2005,7 +2005,7 @@
       "Between Central Park West and Broadway"
     ],
     "wheelchairAccess": true,
-    "addressFK": 120
+    "addressFK": 118
   },
   {
     "locationPK": 207,
@@ -2014,7 +2014,7 @@
       "Between Central Park West and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 120
+    "addressFK": 118
   },
   {
     "locationPK": 208,
@@ -2024,7 +2024,7 @@
       "Between Amsterdam Avenue and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 110
+    "addressFK": 109
   },
   {
     "locationPK": 209,
@@ -2034,7 +2034,7 @@
       "Up concrete steps, take stairs on left, 2nd Floor Sandford Hall"
     ],
     "wheelchairAccess": false,
-    "addressFK": 126
+    "addressFK": 124
   },
   {
     "locationPK": 210,
@@ -2044,7 +2044,7 @@
       "@ Amsterdam Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 127
+    "addressFK": 125
   },
   {
     "locationPK": 211,
@@ -2054,7 +2054,7 @@
       "Between Amsterdam Avenue and Broadway"
     ],
     "wheelchairAccess": true,
-    "addressFK": 128
+    "addressFK": 126
   },
   {
     "locationPK": 212,
@@ -2064,7 +2064,7 @@
       "Between Columbus and Amsterdam Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 129
+    "addressFK": 127
   },
   {
     "locationPK": 213,
@@ -2074,7 +2074,7 @@
       "West of Broadway"
     ],
     "wheelchairAccess": true,
-    "addressFK": 130
+    "addressFK": 128
   },
   {
     "locationPK": 214,
@@ -2084,7 +2084,7 @@
       "@ Amsterdam Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 131
+    "addressFK": 129
   },
   {
     "locationPK": 215,
@@ -2093,7 +2093,7 @@
       "Between Amsterdam Avenue and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 110
+    "addressFK": 109
   },
   {
     "locationPK": 216,
@@ -2103,7 +2103,7 @@
       "@ 93rd Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 132
+    "addressFK": 130
   },
   {
     "locationPK": 217,
@@ -2113,7 +2113,7 @@
       "1 Block East of Amsterdam Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 133
+    "addressFK": 131
   },
   {
     "locationPK": 218,
@@ -2123,7 +2123,7 @@
       "@77th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 134
+    "addressFK": 132
   },
   {
     "locationPK": 219,
@@ -2133,7 +2133,7 @@
       "Between Amsterdam Avenue and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 135
+    "addressFK": 133
   },
   {
     "locationPK": 220,
@@ -2142,7 +2142,7 @@
       "@ West End Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 136
+    "addressFK": 134
   },
   {
     "locationPK": 221,
@@ -2153,7 +2153,7 @@
       "Basement on Thursday"
     ],
     "wheelchairAccess": true,
-    "addressFK": 126
+    "addressFK": 124
   },
   {
     "locationPK": 222,
@@ -2163,7 +2163,7 @@
       "Between Central Park West and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 120
+    "addressFK": 118
   },
   {
     "locationPK": 223,
@@ -2173,7 +2173,7 @@
       "Between Broadway and West End Avenue, Enter on 87th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 137
+    "addressFK": 135
   },
   {
     "locationPK": 224,
@@ -2183,7 +2183,7 @@
       "Between Columbus and Amsterdam Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 138
+    "addressFK": 136
   },
   {
     "locationPK": 225,
@@ -2193,7 +2193,7 @@
       "Between West End Avenue and Riverside Drive"
     ],
     "wheelchairAccess": false,
-    "addressFK": 139
+    "addressFK": 137
   },
   {
     "locationPK": 226,
@@ -2203,7 +2203,7 @@
       "@ West 77th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 140
+    "addressFK": 138
   },
   {
     "locationPK": 227,
@@ -2212,7 +2212,7 @@
       "Between Columbus Avenue and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 141
+    "addressFK": 139
   },
   {
     "locationPK": 228,
@@ -2222,7 +2222,7 @@
       "Between Columbus and Amsterdam Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 142
+    "addressFK": 140
   },
   {
     "locationPK": 229,
@@ -2232,7 +2232,7 @@
       "Between Columbus Avenue and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 141
+    "addressFK": 139
   },
   {
     "locationPK": 230,
@@ -2242,7 +2242,7 @@
       "Between Central Park West and Columbus Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 143
+    "addressFK": 141
   },
   {
     "locationPK": 231,
@@ -2251,7 +2251,7 @@
       "Basement, Little Room"
     ],
     "wheelchairAccess": false,
-    "addressFK": 110
+    "addressFK": 109
   },
   {
     "locationPK": 232,
@@ -2261,7 +2261,7 @@
       "@Corner of West End Avenue and 86th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 144
+    "addressFK": 142
   },
   {
     "locationPK": 233,
@@ -2271,14 +2271,14 @@
       "Between West End Avenue and Riverside Drive"
     ],
     "wheelchairAccess": false,
-    "addressFK": 145
+    "addressFK": 143
   },
   {
     "locationPK": 234,
     "name": "Blessed Sacrament Church Rectory",
     "details": [],
     "wheelchairAccess": false,
-    "addressFK": 141
+    "addressFK": 139
   },
   {
     "locationPK": 235,
@@ -2288,7 +2288,7 @@
       "Between Columbus Avenue and Central Park West"
     ],
     "wheelchairAccess": false,
-    "addressFK": 126
+    "addressFK": 124
   },
   {
     "locationPK": 236,
@@ -2297,7 +2297,7 @@
       "88th Street, Ground Level, Art Room"
     ],
     "wheelchairAccess": true,
-    "addressFK": 146
+    "addressFK": 144
   },
   {
     "locationPK": 237,
@@ -2307,7 +2307,7 @@
       "Between Riverside Drive and West End Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 145
+    "addressFK": 143
   },
   {
     "locationPK": 238,
@@ -2316,7 +2316,7 @@
       "Between Amsterdam Avenue and Broadway"
     ],
     "wheelchairAccess": true,
-    "addressFK": 147
+    "addressFK": 145
   },
   {
     "locationPK": 239,
@@ -2325,7 +2325,7 @@
       "Between Broadway and Columbus Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 141
+    "addressFK": 139
   },
   {
     "locationPK": 240,
@@ -2334,7 +2334,7 @@
       "Between Broadway and Columbus Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 148
+    "addressFK": 146
   },
   {
     "locationPK": 241,
@@ -2343,7 +2343,7 @@
       "Between Broadway and Columbus Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 141
+    "addressFK": 139
   },
   {
     "locationPK": 242,
@@ -2353,7 +2353,7 @@
       "Enter through side door on 76th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 121
+    "addressFK": 119
   },
   {
     "locationPK": 243,
@@ -2363,7 +2363,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 149
+    "addressFK": 147
   },
   {
     "locationPK": 244,
@@ -2373,7 +2373,7 @@
       "Between Park and Madison Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 150
+    "addressFK": 148
   },
   {
     "locationPK": 245,
@@ -2383,7 +2383,7 @@
       "Between Lexington and 3rd Avenues - Ring Bell"
     ],
     "wheelchairAccess": true,
-    "addressFK": 151
+    "addressFK": 149
   },
   {
     "locationPK": 246,
@@ -2392,7 +2392,7 @@
       "@ 74th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 152
+    "addressFK": 150
   },
   {
     "locationPK": 247,
@@ -2401,7 +2401,7 @@
       "@ 60th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 153
+    "addressFK": 151
   },
   {
     "locationPK": 248,
@@ -2410,7 +2410,7 @@
       "Between First and Second Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 154
+    "addressFK": 152
   },
   {
     "locationPK": 249,
@@ -2419,7 +2419,7 @@
       "Between 79th and 80th Streets"
     ],
     "wheelchairAccess": true,
-    "addressFK": 155
+    "addressFK": 153
   },
   {
     "locationPK": 250,
@@ -2429,7 +2429,7 @@
       "Check with front desk security for meeting room location"
     ],
     "wheelchairAccess": true,
-    "addressFK": 156
+    "addressFK": 154
   },
   {
     "locationPK": 251,
@@ -2439,7 +2439,7 @@
       "Between 2nd and 3rd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 157
+    "addressFK": 155
   },
   {
     "locationPK": 252,
@@ -2449,7 +2449,7 @@
       "@ Park and Madison Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 158
+    "addressFK": 156
   },
   {
     "locationPK": 253,
@@ -2459,7 +2459,7 @@
       "@ East 71st Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 159
+    "addressFK": 157
   },
   {
     "locationPK": 254,
@@ -2469,7 +2469,7 @@
       "Enter through red door on Lexington Avenue, between 87th and 88th Streets"
     ],
     "wheelchairAccess": false,
-    "addressFK": 160
+    "addressFK": 158
   },
   {
     "locationPK": 255,
@@ -2479,7 +2479,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 149
+    "addressFK": 147
   },
   {
     "locationPK": 256,
@@ -2489,7 +2489,7 @@
       "@ East 80th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 155
+    "addressFK": 153
   },
   {
     "locationPK": 257,
@@ -2498,14 +2498,14 @@
       "Between Madison and Park Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 158
+    "addressFK": 156
   },
   {
     "locationPK": 258,
     "name": "Church of Saint Thomas Moore",
     "details": [],
     "wheelchairAccess": false,
-    "addressFK": 158
+    "addressFK": 156
   },
   {
     "locationPK": 259,
@@ -2515,7 +2515,7 @@
       "Lower level"
     ],
     "wheelchairAccess": false,
-    "addressFK": 161
+    "addressFK": 159
   },
   {
     "locationPK": 260,
@@ -2525,7 +2525,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 149
+    "addressFK": 147
   },
   {
     "locationPK": 261,
@@ -2534,7 +2534,7 @@
       "Between 5th and Madison Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 162
+    "addressFK": 160
   },
   {
     "locationPK": 262,
@@ -2544,7 +2544,7 @@
       "Southside Chapel"
     ],
     "wheelchairAccess": true,
-    "addressFK": 155
+    "addressFK": 153
   },
   {
     "locationPK": 263,
@@ -2554,7 +2554,7 @@
       "Thurs = Topic Meeting, Check in with security at front desk"
     ],
     "wheelchairAccess": true,
-    "addressFK": 156
+    "addressFK": 154
   },
   {
     "locationPK": 264,
@@ -2564,7 +2564,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 149
+    "addressFK": 147
   },
   {
     "locationPK": 265,
@@ -2573,7 +2573,7 @@
       "Ring Bell for entry"
     ],
     "wheelchairAccess": false,
-    "addressFK": 163
+    "addressFK": 161
   },
   {
     "locationPK": 266,
@@ -2583,7 +2583,7 @@
       "Tuesday 6:30 = Literature Topic, Saturday = Meets in the Rectory"
     ],
     "wheelchairAccess": true,
-    "addressFK": 164
+    "addressFK": 162
   },
   {
     "locationPK": 267,
@@ -2593,7 +2593,7 @@
       "Between 1st and York Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 165
+    "addressFK": 163
   },
   {
     "locationPK": 268,
@@ -2603,7 +2603,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 149
+    "addressFK": 147
   },
   {
     "locationPK": 269,
@@ -2613,7 +2613,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 149
+    "addressFK": 147
   },
   {
     "locationPK": 270,
@@ -2623,7 +2623,7 @@
       "@ Lexington Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 166
+    "addressFK": 164
   },
   {
     "locationPK": 271,
@@ -2633,7 +2633,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 149
+    "addressFK": 147
   },
   {
     "locationPK": 272,
@@ -2643,7 +2643,7 @@
       "Between 71st and 72nd Streets"
     ],
     "wheelchairAccess": true,
-    "addressFK": 159
+    "addressFK": 157
   },
   {
     "locationPK": 273,
@@ -2654,7 +2654,7 @@
       "Church Closed Friday"
     ],
     "wheelchairAccess": true,
-    "addressFK": 167
+    "addressFK": 165
   },
   {
     "locationPK": 274,
@@ -2665,7 +2665,7 @@
       "Enter through Red Door"
     ],
     "wheelchairAccess": false,
-    "addressFK": 168
+    "addressFK": 166
   },
   {
     "locationPK": 275,
@@ -2675,7 +2675,7 @@
       "@ 64th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 169
+    "addressFK": 167
   },
   {
     "locationPK": 276,
@@ -2685,7 +2685,7 @@
       "Between Park and Madison Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 158
+    "addressFK": 156
   },
   {
     "locationPK": 277,
@@ -2694,7 +2694,7 @@
       "543 Main Street, Basement"
     ],
     "wheelchairAccess": true,
-    "addressFK": 170
+    "addressFK": 168
   },
   {
     "locationPK": 278,
@@ -2704,7 +2704,7 @@
       "Between 1st and York Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 171
+    "addressFK": 169
   },
   {
     "locationPK": 279,
@@ -2714,7 +2714,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 149
+    "addressFK": 147
   },
   {
     "locationPK": 280,
@@ -2724,7 +2724,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 172
+    "addressFK": 170
   },
   {
     "locationPK": 281,
@@ -2733,7 +2733,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 173
+    "addressFK": 171
   },
   {
     "locationPK": 282,
@@ -2743,7 +2743,7 @@
       "Enter through Parish House"
     ],
     "wheelchairAccess": true,
-    "addressFK": 174
+    "addressFK": 172
   },
   {
     "locationPK": 283,
@@ -2753,7 +2753,7 @@
       "Enter through the Family Chapel on 5th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 162
+    "addressFK": 160
   },
   {
     "locationPK": 284,
@@ -2763,7 +2763,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 175
+    "addressFK": 173
   },
   {
     "locationPK": 285,
@@ -2773,7 +2773,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 149
+    "addressFK": 147
   },
   {
     "locationPK": 286,
@@ -2783,7 +2783,7 @@
       "Between 1st and 2nd Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 149
+    "addressFK": 147
   },
   {
     "locationPK": 287,
@@ -2793,7 +2793,7 @@
       "@ Lenox Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 176
+    "addressFK": 174
   },
   {
     "locationPK": 288,
@@ -2802,7 +2802,7 @@
       "Between 7th and 8th Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 177
+    "addressFK": 175
   },
   {
     "locationPK": 289,
@@ -2812,7 +2812,7 @@
       "Between Convent and Amsterdam Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 178
+    "addressFK": 176
   },
   {
     "locationPK": 290,
@@ -2822,7 +2822,7 @@
       "Between 7th and 8th Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 179
+    "addressFK": 177
   },
   {
     "locationPK": 291,
@@ -2831,7 +2831,7 @@
       "@ 122nd Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 180
+    "addressFK": 178
   },
   {
     "locationPK": 292,
@@ -2841,7 +2841,7 @@
       "Between Amsterdam and Convent Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 178
+    "addressFK": 176
   },
   {
     "locationPK": 293,
@@ -2851,7 +2851,7 @@
       "Contact in Advance for Wheelchair Accessibility"
     ],
     "wheelchairAccess": true,
-    "addressFK": 181
+    "addressFK": 179
   },
   {
     "locationPK": 294,
@@ -2861,14 +2861,14 @@
       "Between Lenox Avenue and Adam Clayton Powell Blvd"
     ],
     "wheelchairAccess": true,
-    "addressFK": 176
+    "addressFK": 174
   },
   {
     "locationPK": 295,
     "name": "",
     "details": [],
     "wheelchairAccess": true,
-    "addressFK": 182
+    "addressFK": 180
   },
   {
     "locationPK": 296,
@@ -2877,7 +2877,7 @@
       "Between 7th and Lenox"
     ],
     "wheelchairAccess": true,
-    "addressFK": 183
+    "addressFK": 181
   },
   {
     "locationPK": 297,
@@ -2887,7 +2887,7 @@
       "Between Eighth and Edgecombe Avenues"
     ],
     "wheelchairAccess": false,
-    "addressFK": 184
+    "addressFK": 182
   },
   {
     "locationPK": 298,
@@ -2897,7 +2897,7 @@
       "@ Street Nicholas Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 185
+    "addressFK": 183
   },
   {
     "locationPK": 299,
@@ -2907,7 +2907,7 @@
       "Between Broadway and Riverside Drive"
     ],
     "wheelchairAccess": true,
-    "addressFK": 186
+    "addressFK": 184
   },
   {
     "locationPK": 300,
@@ -2917,7 +2917,7 @@
       "@ 145th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 187
+    "addressFK": 185
   },
   {
     "locationPK": 301,
@@ -2927,7 +2927,7 @@
       "1 Block West of Broadway and 1/2 Block North of 120th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 186
+    "addressFK": 184
   },
   {
     "locationPK": 302,
@@ -2937,7 +2937,7 @@
       "Between Adam Clayton Powell Boulevard and F. Douglass Blvd"
     ],
     "wheelchairAccess": false,
-    "addressFK": 188
+    "addressFK": 186
   },
   {
     "locationPK": 303,
@@ -2947,7 +2947,7 @@
       "@ Adam Clayton Powell Boulevard"
     ],
     "wheelchairAccess": true,
-    "addressFK": 189
+    "addressFK": 187
   },
   {
     "locationPK": 304,
@@ -2957,7 +2957,7 @@
       "Between Convent Avenue and Hamilton Terrace"
     ],
     "wheelchairAccess": true,
-    "addressFK": 190
+    "addressFK": 188
   },
   {
     "locationPK": 305,
@@ -2967,7 +2967,7 @@
       "Between Adam C. Powell and Frederick Douglas Blvds"
     ],
     "wheelchairAccess": true,
-    "addressFK": 179
+    "addressFK": 177
   },
   {
     "locationPK": 306,
@@ -2977,7 +2977,7 @@
       "@ 135 Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 191
+    "addressFK": 189
   },
   {
     "locationPK": 307,
@@ -2987,7 +2987,7 @@
       "@ 145th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 187
+    "addressFK": 185
   },
   {
     "locationPK": 308,
@@ -2996,7 +2996,7 @@
       "Corner of 152nd Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 192
+    "addressFK": 190
   },
   {
     "locationPK": 309,
@@ -3005,7 +3005,7 @@
       "Between Malcolm X Boulevard and 5th Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 193
+    "addressFK": 191
   },
   {
     "locationPK": 310,
@@ -3015,7 +3015,7 @@
       "@ Madison Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 194
+    "addressFK": 192
   },
   {
     "locationPK": 311,
@@ -3025,7 +3025,7 @@
       "Between 2nd and 3rd Avenues"
     ],
     "wheelchairAccess": true,
-    "addressFK": 195
+    "addressFK": 193
   },
   {
     "locationPK": 312,
@@ -3035,7 +3035,7 @@
       "Between 109th and 110th Streets"
     ],
     "wheelchairAccess": true,
-    "addressFK": 196
+    "addressFK": 194
   },
   {
     "locationPK": 313,
@@ -3046,7 +3046,7 @@
       "ID REQUIRED TO ENTERER BUILDING"
     ],
     "wheelchairAccess": true,
-    "addressFK": 197
+    "addressFK": 195
   },
   {
     "locationPK": 314,
@@ -3056,7 +3056,7 @@
       "Check with Security for Room #"
     ],
     "wheelchairAccess": true,
-    "addressFK": 198
+    "addressFK": 196
   },
   {
     "locationPK": 315,
@@ -3065,7 +3065,7 @@
       "Between Broadway and Fort Washington Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 199
+    "addressFK": 197
   },
   {
     "locationPK": 316,
@@ -3074,7 +3074,7 @@
       "Corner of Fort Washington Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 199
+    "addressFK": 197
   },
   {
     "locationPK": 317,
@@ -3084,7 +3084,7 @@
       "Off of 10th Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 200
+    "addressFK": 198
   },
   {
     "locationPK": 318,
@@ -3094,14 +3094,14 @@
       "Between Amsterdam Avenue and Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 201
+    "addressFK": 199
   },
   {
     "locationPK": 319,
     "name": "Casita Esperanza",
     "details": [],
     "wheelchairAccess": true,
-    "addressFK": 202
+    "addressFK": 200
   },
   {
     "locationPK": 320,
@@ -3111,7 +3111,7 @@
       "@ 200th Street, behind Dyckman Avenue"
     ],
     "wheelchairAccess": true,
-    "addressFK": 203
+    "addressFK": 201
   },
   {
     "locationPK": 321,
@@ -3120,7 +3120,7 @@
       "1st Floor"
     ],
     "wheelchairAccess": true,
-    "addressFK": 199
+    "addressFK": 197
   },
   {
     "locationPK": 322,
@@ -3130,7 +3130,7 @@
       "Between Street Nicholas and Amsterdam Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 204
+    "addressFK": 202
   },
   {
     "locationPK": 323,
@@ -3139,7 +3139,7 @@
       "2 blocks South of Dyckman Street, between Broadway and Sherman Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 205
+    "addressFK": 203
   },
   {
     "locationPK": 324,
@@ -3150,7 +3150,7 @@
       "Wednesday meeting in Auditorium"
     ],
     "wheelchairAccess": false,
-    "addressFK": 206
+    "addressFK": 204
   },
   {
     "locationPK": 325,
@@ -3159,7 +3159,7 @@
       "@ 204th Street, 1 Block East of Broadway"
     ],
     "wheelchairAccess": false,
-    "addressFK": 207
+    "addressFK": 205
   },
   {
     "locationPK": 326,
@@ -3168,7 +3168,7 @@
       "Between Cooper Street and Seaman Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 208
+    "addressFK": 206
   },
   {
     "locationPK": 327,
@@ -3177,7 +3177,7 @@
       "@ 159th Street"
     ],
     "wheelchairAccess": true,
-    "addressFK": 209
+    "addressFK": 207
   },
   {
     "locationPK": 328,
@@ -3187,7 +3187,7 @@
       "@ 189th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 210
+    "addressFK": 208
   },
   {
     "locationPK": 329,
@@ -3198,7 +3198,7 @@
       "South Entrance"
     ],
     "wheelchairAccess": false,
-    "addressFK": 210
+    "addressFK": 208
   },
   {
     "locationPK": 330,
@@ -3207,7 +3207,7 @@
       "Between Broadway and Seaman Avenue"
     ],
     "wheelchairAccess": false,
-    "addressFK": 211
+    "addressFK": 209
   },
   {
     "locationPK": 331,
@@ -3216,7 +3216,7 @@
       "@ Fort Washington"
     ],
     "wheelchairAccess": true,
-    "addressFK": 199
+    "addressFK": 197
   },
   {
     "locationPK": 332,
@@ -3226,7 +3226,7 @@
       "@ North Building"
     ],
     "wheelchairAccess": false,
-    "addressFK": 210
+    "addressFK": 208
   },
   {
     "locationPK": 333,
@@ -3236,7 +3236,7 @@
       "@ 189th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 210
+    "addressFK": 208
   },
   {
     "locationPK": 334,
@@ -3246,6 +3246,6 @@
       "@ 189th Street"
     ],
     "wheelchairAccess": false,
-    "addressFK": 210
+    "addressFK": 208
   }
 ]

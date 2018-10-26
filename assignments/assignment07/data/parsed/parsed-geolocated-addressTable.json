@@ -1,2297 +1,2506 @@
 [
   {
     "addressPK": 1,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7132514",
+    "long": "-74.002398",
     "street": "20 Cardinal Hayes Place",
     "city": "NY",
     "zipcode": [
       "10007"
     ],
-    "zone": 1
+    "zone": 1,
+    "tamuAddress": "20 CARDINAL HAYES PL New York NY 10007"
   },
   {
     "addressPK": 2,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7147965",
+    "long": "-73.9990363",
     "street": "29 Mott Street",
     "city": "NY",
     "zipcode": [
       "10013"
     ],
-    "zone": 1
+    "zone": 1,
+    "tamuAddress": "29 MOTT ST New York NY 10013"
   },
   {
     "addressPK": 3,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7080393",
+    "long": "-74.0042361",
     "street": "49 Fulton Street",
     "city": "NY",
     "zipcode": [
       "10038"
     ],
-    "zone": 1
+    "zone": 1,
+    "tamuAddress": "49 FULTON ST New York NY 10038"
   },
   {
     "addressPK": 4,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7091732",
+    "long": "-74.0080677",
     "street": "44 John Street",
     "city": "NY",
     "zipcode": [
       "10038"
     ],
-    "zone": 1
+    "zone": 1,
+    "tamuAddress": "44 JOHN ST New York NY 10038"
   },
   {
     "addressPK": 5,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7125016",
+    "long": "-74.0094639",
     "street": "22 Barclay Street",
     "city": "NY",
     "zipcode": "10007",
-    "zone": 1
+    "zone": 1,
+    "tamuAddress": "22 BARCLAY ST New York NY 10007"
   },
   {
     "addressPK": 6,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7208165",
+    "long": "-74.0048523",
     "street": "283 West Broadway",
     "city": "NY",
     "zipcode": [
       "10013"
     ],
-    "zone": 1
+    "zone": 1,
+    "tamuAddress": "283 W BROADWAY New York NY 10013"
   },
   {
     "addressPK": 7,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7143477",
+    "long": "-74.0130151",
     "street": "125 Barclay Street",
     "city": "NY",
     "zipcode": [
       "10007"
     ],
-    "zone": 1
+    "zone": 1,
+    "tamuAddress": "125 BARCLAY ST New York NY 10007"
   },
   {
     "addressPK": 8,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7236736",
+    "long": "-73.9924832",
     "street": "273 Bowery",
     "city": "NY",
     "zipcode": [
       "10002"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "273 BOWERY New York NY 10002"
   },
   {
     "addressPK": 9,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.736193",
+    "long": "-74.0028632",
     "street": "232 West 11th Street",
     "city": "NY",
     "zipcode": [
       "10014"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "232 W 11TH ST New York NY 10014"
   },
   {
     "addressPK": 10,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7286385",
+    "long": "-74.0045871",
     "street": "220 West Houston Street",
     "city": "NY",
     "zipcode": [
       "10014"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "220 W HOUSTON ST New York NY 10014"
   },
   {
     "addressPK": 11,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7206323",
+    "long": "-73.9979756",
     "street": "253 Center Street",
     "city": "NY",
     "zipcode": [
       "10013"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "253 CENTER ST New York NY 10013"
   },
   {
     "addressPK": 12,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7325884",
+    "long": "-74.0066592",
     "street": "487 Hudson Street",
     "city": "NY",
     "zipcode": [
       "10014"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "487 HUDSON ST New York NY 10014"
   },
   {
     "addressPK": 13,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7137143",
+    "long": "-73.983033",
     "street": "292 Henry Street",
     "city": "NY",
     "zipcode": [
       "10002"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "292 HENRY ST New York NY 10002"
   },
   {
     "addressPK": 14,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7134487",
+    "long": "-73.9906625",
     "street": "141 Henry Street",
     "city": "NY",
     "zipcode": [
       "10002"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "141 HENRY ST New York NY 10002"
   },
   {
     "addressPK": 15,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7335702",
+    "long": "-74.0037456",
     "street": "83 Christopher Street",
     "city": "NY",
     "zipcode": [
       "10014"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "83 CHRISTOPHER ST New York NY 10014"
   },
   {
     "addressPK": 16,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7354854",
+    "long": "-74.0031569",
     "street": "50 Perry Street",
     "city": "NY",
     "zipcode": [
       "10014"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "50 PERRY ST New York NY 10014"
   },
   {
     "addressPK": 17,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7360657",
+    "long": "-74.0019452",
     "street": "224 Waverly Place",
     "city": "NY",
     "zipcode": [
       "10014"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "224 WAVERLY PL New York NY 10014"
   },
   {
     "addressPK": 18,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7273786",
+    "long": "-74.0017414",
     "street": "154 Sullivan Street",
     "city": "NY",
     "zipcode": [
       "10012"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "154 SULLIVAN ST New York NY 10012"
   },
   {
     "addressPK": 19,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7236736",
+    "long": "-73.9924832",
     "street": "273 Bowery Street",
     "city": "NY",
     "zipcode": [
       "10012"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "273 BOWERY ST New York NY 10012"
   },
   {
     "addressPK": 20,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.6701581",
+    "long": "-73.9819879",
     "street": "371 6th Avenue",
     "city": "NY",
     "zipcode": [
       "10014"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "371 6TH AVE New York NY 10014"
   },
   {
     "addressPK": 21,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7272525",
+    "long": "-74.0015782",
     "street": "155 Sullivan Street",
     "city": "NY",
     "zipcode": [
       "10012"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "155 SULLIVAN ST New York NY 10012"
   },
   {
     "addressPK": 22,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7332068",
+    "long": "-73.9946888",
     "street": "7 East 10th Strert",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "7 E 10TH STRERT New York NY 10003"
   },
   {
     "addressPK": 23,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7335983",
+    "long": "-74.0035744",
     "street": "81 Christopher Street",
     "city": "NY",
     "zipcode": [
       "10014"
     ],
-    "zone": 2
+    "zone": 2,
+    "tamuAddress": "81 CHRISTOPHER ST New York NY 10014"
   },
   {
     "addressPK": 24,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7332068",
+    "long": "-73.9946888",
     "street": "7 East 10th Street",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "7 E 10TH ST New York NY 10003"
   },
   {
     "addressPK": 25,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7384244",
+    "long": "-73.9840055",
     "street": "155 East 22nd Street",
     "city": "NY",
     "zipcode": [
       "10010"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "155 E 22ND ST New York NY 10010"
   },
   {
     "addressPK": 26,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7307719",
+    "long": "-73.9903164",
     "street": "61 Fourth Avenue",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "61 FOURTH AVE New York NY 10003"
   },
   {
     "addressPK": 27,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7381228",
+    "long": "-74.0010304",
     "street": "208 West 13th Street",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "208 W 13TH ST New York NY 10011"
   },
   {
     "addressPK": 28,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7346341",
+    "long": "-73.9879773",
     "street": "123 East 15th Street",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "123 E 15TH ST New York NY 10003"
   },
   {
     "addressPK": 29,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7387068",
+    "long": "-73.986572",
     "street": "61 Gramercy Park North",
     "city": "NY",
     "zipcode": [
       "10010"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "61 GRAMERCY PARK N New York NY 10010"
   },
   {
     "addressPK": 30,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7390247",
+    "long": "-73.9854161",
     "street": "127 East 22nd Street",
     "city": "NY",
     "zipcode": [
       "10010"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "127 E 22ND ST New York NY 10010"
   },
   {
     "addressPK": 31,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7260409",
+    "long": "-73.9800393",
     "street": "602 East 9th Street",
     "city": "NY",
     "zipcode": [
       "10009"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "602 E 9TH ST New York NY 10009"
   },
   {
     "addressPK": 32,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7379244",
+    "long": "-73.9976813",
     "street": "125 West 14th Street",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "125 W 14TH ST New York NY 10011"
   },
   {
     "addressPK": 33,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7441452",
+    "long": "-74.0019191",
     "street": "346 West 20th Street",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "346 W 20TH ST New York NY 10011"
   },
   {
     "addressPK": 34,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7309298",
+    "long": "-73.9819876",
     "street": "414 East 14th Street",
     "city": "NY",
     "zipcode": [
       "10009"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "414 E 14TH ST New York NY 10009"
   },
   {
     "addressPK": 35,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7432442",
+    "long": "-74.0039393",
     "street": "119 Ninth Avenue",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "119 NINTH AVE New York NY 10011"
   },
   {
     "addressPK": 36,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7449478",
+    "long": "-73.995862",
     "street": "202 West 24 Street",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "202 W 24 ST New York NY 10011"
   },
   {
     "addressPK": 37,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7371499",
+    "long": "-73.9853123",
     "street": "28 Gramercy Park South",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "28 GRAMERCY PARK S New York NY 10003"
   },
   {
     "addressPK": 38,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7276522",
+    "long": "-73.9875923",
     "street": "50 East 7th Street",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "50 E 7TH ST New York NY 10003"
   },
   {
     "addressPK": 39,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7320395",
+    "long": "-73.991189",
     "street": "802 Broadway",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "802 BROADWAY New York NY 10003"
   },
   {
     "addressPK": 40,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7371499",
+    "long": "-73.9853123",
     "street": "28 Grammercy Park South",
     "city": "NY",
     "zipcode": [
       "10010"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "28 GRAMMERCY PARK S New York NY 10010"
   },
   {
     "addressPK": 41,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7345135",
+    "long": "-73.9854432",
     "street": "209 East 16th Street",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "209 E 16TH ST New York NY 10003"
   },
   {
     "addressPK": 42,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7251086",
+    "long": "-73.9899858",
     "street": "44 2nd Avenue",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "44 2ND AVE New York NY 10003"
   },
   {
     "addressPK": 43,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7392489",
+    "long": "-74.0008788",
     "street": "229 West 14th Street",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "229 W 14TH ST New York NY 10011"
   },
   {
     "addressPK": 44,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7381228",
+    "long": "-74.0010304",
     "street": "208 W 13th Street",
     "city": "NY",
     "zipcode": [
       "10001"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "208 W 13TH ST New York NY 10001"
   },
   {
     "addressPK": 45,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7474685",
+    "long": "-73.9974137",
     "street": "307 West 26th Street",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "307 W 26TH ST New York NY 10011"
   },
   {
     "addressPK": 46,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.747411",
+    "long": "-73.9992698",
     "street": "343 West 25th Street",
     "city": "NY",
     "zipcode": [
       "10001"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "343 W 25TH ST New York NY 10001"
   },
   {
     "addressPK": 47,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.732373",
+    "long": "-73.989477",
     "street": "80 Street Mark’s Place",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "80 STREET MARKS PL New York NY 10003"
   },
   {
     "addressPK": 48,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7419488",
+    "long": "-73.9861549",
     "street": "51 East 25th Street",
     "city": "NY",
     "zipcode": [
       "10010"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "51 E 25TH ST New York NY 10010"
   },
   {
     "addressPK": 49,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7450587",
+    "long": "-73.9997029",
     "street": "315 West 22nd Street",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "315 W 22ND ST New York NY 10011"
   },
   {
     "addressPK": 50,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7337834",
+    "long": "-73.985098",
     "street": "15 Rutherford Place",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "15 RUTHERFORD PL New York NY 10003"
   },
   {
     "addressPK": 51,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.732373",
+    "long": "-73.989477",
     "street": "25 East 15t",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "25 E 15T New York NY 10003"
   },
   {
     "addressPK": 52,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.6717748",
+    "long": "-73.9913909",
     "street": "175 9th Avenue",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "175 9TH AVE New York NY 10011"
   },
   {
     "addressPK": 53,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7360864",
+    "long": "-73.9912277",
     "street": "19 Union Square West",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "19 UNION SQ W New York NY 10003"
   },
   {
     "addressPK": 54,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7368113",
+    "long": "-73.9772015",
     "street": "423 East 23rd Street",
     "city": "NY",
     "zipcode": [
       "10010"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "423 E 23RD ST New York NY 10010"
   },
   {
     "addressPK": 55,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.729824",
+    "long": "-73.982816",
     "street": "411 East 12th Street",
     "city": "NY",
     "zipcode": [
       "10009"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "411 E 12TH ST New York NY 10009"
   },
   {
     "addressPK": 56,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7369141",
+    "long": "-73.9823276",
     "street": "239 East 21st Street",
     "city": "NY",
     "zipcode": [
       "10009"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "239 E 21ST ST New York NY 10009"
   },
   {
     "addressPK": 57,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7348062",
+    "long": "-73.9951634",
     "street": "12 West 12th Street",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "12 W 12TH ST New York NY 10011"
   },
   {
     "addressPK": 58,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7341868",
+    "long": "-73.9957178",
     "street": "12 West 11th Street",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "12 W 11TH ST New York NY 10011"
   },
   {
     "addressPK": 59,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7355598",
+    "long": "-73.9990141",
     "street": "116 West 11th Street",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "116 W 11TH ST New York NY 10011"
   },
   {
     "addressPK": 60,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7358709",
+    "long": "-73.9939317",
     "street": "80 5th Avenue",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "80 5TH AVE New York NY 10011"
   },
   {
     "addressPK": 61,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.742272",
+    "long": "-73.987907",
     "street": "319 Eastr 24th Street",
     "city": "NY",
     "zipcode": [
       "10010"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "319 EASTR 24TH ST New York NY 10010"
   },
   {
     "addressPK": 62,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7348335",
+    "long": "-73.9897815",
     "street": "10 East Union Square",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "10 E UNION SQ New York NY 10003"
   },
   {
     "addressPK": 63,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7309636",
+    "long": "-73.9880637",
     "street": "206-208 East 11th Street",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "206 E 11TH ST New York NY 10003"
   },
   {
     "addressPK": 64,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7348335",
+    "long": "-73.9897815",
     "street": "10 Union Square East",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "10 UNION SQ E New York NY 10003"
   },
   {
     "addressPK": 65,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7431787",
+    "long": "-73.9952777",
     "street": "155 West 22nd Street",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "155 W 22ND ST New York NY 10011"
   },
   {
     "addressPK": 66,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7319436",
+    "long": "-73.9977667",
     "street": "20 Washington Square North",
     "city": "NY",
     "zipcode": [
       "10011"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "20 WASHINGTON SQ N New York NY 10011"
   },
   {
     "addressPK": 67,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7314102",
+    "long": "-73.9832013",
     "street": "344 East 14th Street",
     "city": "NY",
     "zipcode": [
       "10003"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "344 E 14TH ST New York NY 10003"
   },
   {
     "addressPK": 68,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7233431",
+    "long": "-73.9843062",
     "street": "173 East 3rd Street",
     "city": "NY",
     "zipcode": [
       "10009"
     ],
-    "zone": 3
+    "zone": 3,
+    "tamuAddress": "173 E 3RD ST New York NY 10009"
   },
   {
     "addressPK": 69,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7593831",
+    "long": "-73.9872329",
     "street": "252 West 46th Street",
     "city": "NY",
     "zipcode": [
       "10036"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "252 W 46TH ST New York NY 10036"
   },
   {
     "addressPK": 70,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7575385",
+    "long": "-73.9901368",
     "street": "303 West 42nd Street",
     "city": "NY",
     "zipcode": [
       "10036"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "303 W 42ND ST New York NY 10036"
   },
   {
     "addressPK": 71,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7467107",
+    "long": "-73.9935208",
     "street": "305 7th Avenue",
     "city": "NY",
     "zipcode": [
       "10001"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "305 7TH AVE New York NY 10001"
   },
   {
     "addressPK": 72,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7608523",
+    "long": "-73.9765938",
     "street": "1 West 53rd Street",
     "city": "NY",
     "zipcode": [
       "10019"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "1 W 53RD ST New York NY 10019"
   },
   {
     "addressPK": 73,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.6589343",
+    "long": "-73.9348705",
     "street": "133 West 46th Street",
     "city": "NY",
     "zipcode": [
       "10036"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "133 W 46TH ST New York NY 10036"
   },
   {
     "addressPK": 74,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7495486",
+    "long": "-74.0015106",
     "street": "441 West 26th Street",
     "city": "NY",
     "zipcode": [
       "10001"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "441 W 26TH ST New York NY 10001"
   },
   {
     "addressPK": 75,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.753496",
+    "long": "-73.9989428",
     "street": "446 West 33rd Street",
     "city": "NY",
     "zipcode": [
       "10001"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "446 W 33RD ST New York NY 10001"
   },
   {
     "addressPK": 76,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7612077",
+    "long": "-73.9891128",
     "street": "339 West 47th Street",
     "city": "NY",
     "zipcode": [
       "10036"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "339 W 47TH ST New York NY 10036"
   },
   {
     "addressPK": 77,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.647412",
+    "long": "-73.9480599",
     "street": "139 West 31st Street",
     "city": "NY",
     "zipcode": [
       "10001"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "139 W 31ST ST New York NY 10001"
   },
   {
     "addressPK": 78,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7682311",
+    "long": "-73.9868768",
     "street": "422 West 57th Street",
     "city": "NY",
     "zipcode": [
       "10019"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "422 W 57TH ST New York NY 10019"
   },
   {
     "addressPK": 79,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7486793956479",
+    "long": "-73.9927286472649",
     "street": "211 West 30th Street",
     "city": "NY",
     "zipcode": [
       "10001"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "211 W 30TH ST New York NY 10001"
   },
   {
     "addressPK": 80,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7618823",
+    "long": "-73.9751297",
     "street": "7 West 55th Street",
     "city": "NY",
     "zipcode": [
       "10019"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "7 W 55TH ST New York NY 10019"
   },
   {
     "addressPK": 81,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7601119",
+    "long": "-73.9837538",
     "street": "729 7th Avenue",
     "city": "NY",
     "zipcode": [
       "10019"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "729 7TH AVE New York NY 10019"
   },
   {
     "addressPK": 82,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7634021",
+    "long": "-73.9948352",
     "street": "538 West 47th Street",
     "city": "NY",
     "zipcode": [
       "10036"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "538 W 47TH ST New York NY 10036"
   },
   {
     "addressPK": 83,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7700536177104",
+    "long": "-73.9877635987168",
     "street": "1000 Tenth Avenue",
     "city": "NY",
     "zipcode": [
       "10019"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "1000 TENTH AVE New York NY 10019"
   },
   {
     "addressPK": 84,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7697538",
+    "long": "-73.9857965",
     "street": "405 West 59th Street",
     "city": "NY",
     "zipcode": [
       "10019"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "405 W 59TH ST New York NY 10019"
   },
   {
     "addressPK": 85,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7493539",
+    "long": "-73.998973",
     "street": "296 9th Avenue",
     "city": "NY",
     "zipcode": [
       "10001"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "296 9TH AVE New York NY 10001"
   },
   {
     "addressPK": 86,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7599913",
+    "long": "-73.9948326",
     "street": "484 West 43rd Street",
     "city": "NY",
     "zipcode": [
       "10036"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "484 W 43RD ST New York NY 10036"
   },
   {
     "addressPK": 87,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7543885",
+    "long": "-73.9812083",
     "street": "4 West 43rd Street",
     "city": "NY",
     "zipcode": [
       "10017"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "4 W 43RD ST New York NY 10017"
   },
   {
     "addressPK": 88,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7493539",
+    "long": "-73.998973",
     "street": "296 Ninth Avenue",
     "city": "NY",
     "zipcode": [
       "10001"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "296 NINTH AVE New York NY 10001"
   },
   {
     "addressPK": 89,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7434762",
+    "long": "-73.9789404",
     "street": "210 West 31st Street",
     "city": "NY",
     "zipcode": [
       "10001"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "210 W 31ST ST New York NY 10001"
   },
   {
     "addressPK": 90,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7472463",
+    "long": "-73.9917061",
     "street": "134 West 29th Street",
     "city": "NY",
     "zipcode": [
       "10001"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "134 W 29TH ST New York NY 10001"
   },
   {
     "addressPK": 91,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7614721",
+    "long": "-73.9916406",
     "street": "423 West 46th Street",
     "city": "NY",
     "zipcode": [
       "10036"
     ],
-    "zone": 4
+    "zone": 4,
+    "tamuAddress": "423 W 46TH ST New York NY 10036"
   },
   {
     "addressPK": 92,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7483929",
+    "long": "-73.9787906",
     "street": "122 East 37th Street",
     "city": "NY",
     "zipcode": [
       "10016"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "122 E 37TH ST New York NY 10016"
   },
   {
     "addressPK": 93,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7479892",
+    "long": "-73.9817564",
     "street": "30 East 35th Street",
     "city": "NY",
     "zipcode": [
       "10016"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "30 E 35TH ST New York NY 10016"
   },
   {
     "addressPK": 94,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.757654",
+    "long": "-73.963834",
     "street": "350 East 56th Street",
     "city": "NY",
     "zipcode": [
       "10022"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "350 E 56TH ST New York NY 10022"
   },
   {
     "addressPK": 95,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7588016",
+    "long": "-73.9704542",
     "street": "619 Lexington Avenue",
     "city": "NY",
     "zipcode": [
       "10022"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "619 LEXINGTON AVE New York NY 10022"
   },
   {
     "addressPK": 96,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.748023",
+    "long": "-73.9818371",
     "street": "28 East 35th Street",
     "city": "NY",
     "zipcode": [
       "10016"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "28 E 35TH ST New York NY 10016"
   },
   {
     "addressPK": 97,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7479969",
+    "long": "-73.9783809",
     "street": "283 Lexington Avenue",
     "city": "NY",
     "zipcode": [
       "10016"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "283 LEXINGTON AVE New York NY 10016"
   },
   {
     "addressPK": 98,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7518754",
+    "long": "-73.9747248",
     "street": "141 East 43rd Street",
     "city": "NY",
     "zipcode": [
       "10017"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "141 E 43RD ST New York NY 10017"
   },
   {
     "addressPK": 99,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7483929",
+    "long": "-73.9787906",
     "street": "122 E 37TH Street",
     "city": "NY",
     "zipcode": [
       "10016"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "122 E 37TH ST New York NY 10016"
   },
   {
     "addressPK": 100,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7486487",
+    "long": "-73.9821254",
     "street": "209 Madison Avenue",
     "city": "NY",
     "zipcode": [
       "10016"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "209 MADISON AVE New York NY 10016"
   },
   {
     "addressPK": 101,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7430963",
+    "long": "-73.9780494",
     "street": "240 East 31st Street",
     "city": "NY",
     "zipcode": [
       "10016"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "240 E 31ST ST New York NY 10016"
   },
   {
     "addressPK": 102,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7473169",
+    "long": "-73.9800724",
     "street": "114 East 35th Street",
     "city": "NY",
     "zipcode": [
       "10016"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "114 E 35TH ST New York NY 10016"
   },
   {
     "addressPK": 103,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7615607",
+    "long": "-73.9649474",
     "street": "230 East 60th Street",
     "city": "NY",
     "zipcode": [
       "10022"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "230 E 60TH ST New York NY 10022"
   },
   {
     "addressPK": 104,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7600925",
+    "long": "-73.9653811",
     "street": "244 East 58th Street",
     "city": "NY",
     "zipcode": [
       "10022"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "244 E 58TH ST New York NY 10022"
   },
   {
     "addressPK": 105,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7574552",
+    "long": "-73.9733937",
     "street": "325 Park Avenue",
     "city": "NY",
     "zipcode": [
       "10022"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "325 PARK AVE New York NY 10022"
   },
   {
     "addressPK": 106,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.74314",
+    "long": "-73.9781525",
     "street": "236 EAST 31st STREET",
     "city": "NY",
     "zipcode": [
       "10016"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "236 E 31ST ST New York NY 10016"
   },
   {
     "addressPK": 107,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7576943",
+    "long": "-73.9657436",
     "street": "308 East 55th Street",
     "city": "NY",
     "zipcode": [
       "10022"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "308 E 55TH ST New York NY 10022"
   },
   {
     "addressPK": 108,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7569178",
+    "long": "-73.97309",
     "street": "109 East 50th Street",
     "city": "NY",
     "zipcode": [
       "10022"
     ],
-    "zone": 5
+    "zone": 5,
+    "tamuAddress": "109 E 50TH ST New York NY 10022"
   },
   {
     "addressPK": 109,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7945161",
+    "long": "-73.9710419",
     "street": "207 West 96th Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "207 W 96TH ST New York NY 10025"
   },
   {
     "addressPK": 110,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7756982",
+    "long": "-73.9810333",
     "street": "120 West 69th Street",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "120 W 69TH ST New York NY 10023"
   },
   {
     "addressPK": 111,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7796117",
+    "long": "-73.9801807",
     "street": "164 West 74th Street",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "164 W 74TH ST New York NY 10023"
   },
   {
     "addressPK": 112,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7898068",
+    "long": "-73.9723737",
     "street": "144 West 90th Street",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "144 W 90TH ST New York NY 10024"
   },
   {
     "addressPK": 113,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7789036",
+    "long": "-73.9799533",
     "street": "141 West 73rd Street",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "141 W 73RD ST New York NY 10023"
   },
   {
     "addressPK": 114,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7787605",
+    "long": "-73.9745951",
     "street": "4 West 76th Street",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "4 W 76TH ST New York NY 10023"
   },
   {
     "addressPK": 115,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8017795",
+    "long": "-73.9665393",
     "street": "221 West 107th Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "221 W 107TH ST New York NY 10025"
   },
   {
     "addressPK": 116,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7852818734432",
+    "long": "-73.9771060064311",
     "street": "215 West 82nd Street",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "215 W 82ND ST New York NY 10024"
   },
   {
     "addressPK": 117,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8069051",
+    "long": "-73.965058",
     "street": "601 West 114th Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "601 W 114TH ST New York NY 10025"
   },
   {
     "addressPK": 118,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7708644",
+    "long": "-73.9806413",
     "street": "5 West 63rd Street",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "5 W 63RD ST New York NY 10023"
   },
   {
     "addressPK": 119,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7787712",
+    "long": "-73.9743066",
     "street": "160 Central Park West",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "160 CENTRAL PARK W New York NY 10023"
   },
   {
     "addressPK": 120,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7744405",
+    "long": "-73.9838262",
     "street": "152 West 66th Street",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "152 W 66TH ST New York NY 10023"
   },
   {
     "addressPK": 121,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7912379",
+    "long": "-73.9655109",
     "street": "3 West 95th Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "3 W 95TH ST New York NY 10025"
   },
   {
     "addressPK": 122,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7848713",
+    "long": "-73.9800524",
     "street": "251 West 80th Street",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "251 W 80TH ST New York NY 10024"
   },
   {
     "addressPK": 123,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7769516",
+    "long": "-73.9795507",
     "street": "111 West 71st Street",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "111 W 71ST ST New York NY 10023"
   },
   {
     "addressPK": 124,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7844228",
+    "long": "-73.9716168",
     "street": "26 West 84th Street",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "26 W 84TH ST New York NY 10024"
   },
   {
     "addressPK": 125,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7946604892952",
+    "long": "-73.9699229082063",
     "street": "200 West 97th Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "200 W 97TH ST New York NY 10025"
   },
   {
     "addressPK": 126,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8021037",
+    "long": "-73.9658778",
     "street": "218 West 108th Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "218 W 108TH ST New York NY 10025"
   },
   {
     "addressPK": 127,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7986785",
+    "long": "-73.9648897",
     "street": "125 West 104th Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "125 W 104TH ST New York NY 10025"
   },
   {
     "addressPK": 128,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7796494",
+    "long": "-73.982239",
     "street": "236 West 73rd Street",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "236 W 73RD ST New York NY 10023"
   },
   {
     "addressPK": 129,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7996866",
+    "long": "-73.9657282",
     "street": "165 West 105th Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "165 W 105TH ST New York NY 10025"
   },
   {
     "addressPK": 130,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7927534",
+    "long": "-73.972842",
     "street": "2504 Broadway",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "2504 BROADWAY New York NY 10025"
   },
   {
     "addressPK": 131,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8051126",
+    "long": "-73.9607974",
     "street": "405 West 114th Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "405 W 114TH ST New York NY 10025"
   },
   {
     "addressPK": 132,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.783225",
+    "long": "-73.9817572",
     "street": "368 West End Ave",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "368 W END AVE New York NY 10024"
   },
   {
     "addressPK": 133,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7964452",
+    "long": "-73.9694226",
     "street": "225 West 99th Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "225 W 99TH ST New York NY 10025"
   },
   {
     "addressPK": 134,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7977791",
+    "long": "-73.9709911",
     "street": "251 West 100th Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "251 W 100TH ST New York NY 10025"
   },
   {
     "addressPK": 135,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.78931",
+    "long": "-73.9773114",
     "street": "552 West End Avenue",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "552 W END AVE New York NY 10024"
   },
   {
     "addressPK": 136,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7796117",
+    "long": "-73.9801807",
     "street": "164 West 74 Street",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "164 W 74 ST New York NY 10024"
   },
   {
     "addressPK": 137,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7887343",
+    "long": "-73.9798639",
     "street": "340 West 85th Street",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "340 W 85TH ST New York NY 10024"
   },
   {
     "addressPK": 138,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.783225",
+    "long": "-73.9817572",
     "street": "368 West End Avenue",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "368 W END AVE New York NY 10024"
   },
   {
     "addressPK": 139,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7774259",
+    "long": "-73.9812051",
     "street": "152 West 71st Street",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "152 W 71ST ST New York NY 10023"
   },
   {
     "addressPK": 140,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7780247",
+    "long": "-73.9798344",
     "street": "131 West 72nd Street",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "131 W 72ND ST New York NY 10023"
   },
   {
     "addressPK": 141,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7740859",
+    "long": "-73.979107",
     "street": "30 West 68th Street",
     "city": "NY",
     "zipcode": [
       "10023"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "30 W 68TH ST New York NY 10023"
   },
   {
     "addressPK": 142,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7887918",
+    "long": "-73.9772649",
     "street": "263 West 86th Street",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "263 W 86TH ST New York NY 10024"
   },
   {
     "addressPK": 143,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7992334",
+    "long": "-73.9710638",
     "street": "306 West 102nd Street",
     "city": "NY",
     "zipcode": [
       "10025"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "306 W 102ND ST New York NY 10025"
   },
   {
     "addressPK": 144,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7879892",
+    "long": "-73.9707609",
     "street": "595 Columbus Avenue",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "595 COLUMBUS AVE New York NY 10024"
   },
   {
     "addressPK": 145,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7855603",
+    "long": "-73.9776992",
     "street": "213 West 82nd Street",
     "city": "NY",
     "zipcode": [
       "10024"
     ],
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "213 W 82ND ST New York NY 10024"
   },
   {
     "addressPK": 146,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7774259",
+    "long": "-73.9812051",
     "street": "152 west 71st street",
     "city": "NY",
     "zipcode": "10023",
-    "zone": 6
+    "zone": 6,
+    "tamuAddress": "152 W 71ST ST New York NY 10023"
   },
   {
     "addressPK": 147,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7694194",
+    "long": "-73.9555151",
     "street": "351 East 74th Street",
     "city": "NY",
     "zipcode": [
       "10021"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "351 E 74TH ST New York NY 10021"
   },
   {
     "addressPK": 148,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7767263",
+    "long": "-73.9612366",
     "street": "48 East 80th Street",
     "city": "NY",
     "zipcode": [
       "10021"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "48 E 80TH ST New York NY 10021"
   },
   {
     "addressPK": 149,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7725462",
+    "long": "-73.9594994",
     "street": "184 East 76th Street",
     "city": "NY",
     "zipcode": [
       "10021"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "184 E 76TH ST New York NY 10021"
   },
   {
     "addressPK": 150,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.768415",
+    "long": "-73.9528341",
     "street": "1393 York Avenue",
     "city": "NY",
     "zipcode": [
       "10021"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "1393 YORK AVE New York NY 10021"
   },
   {
     "addressPK": 151,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7639426",
+    "long": "-73.9700429",
     "street": "520 Park Avenue",
     "city": "NY",
     "zipcode": [
       "10021"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "520 PARK AVE New York NY 10021"
   },
   {
     "addressPK": 152,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7696836",
+    "long": "-73.9561119",
     "street": "337 E. 74th Street",
     "city": "NY",
     "zipcode": [
       "10021"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "337 E 74TH ST New York NY 10021"
   },
   {
     "addressPK": 153,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7754455",
+    "long": "-73.9583638",
     "street": "1157 Lexington Avenue",
     "city": "NY",
     "zipcode": [
       "10075"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "1157 LEXINGTON AVE New York NY 10075"
   },
   {
     "addressPK": 154,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7697705",
+    "long": "-73.9529077",
     "street": "420 East 76th Street",
     "city": "NY",
     "zipcode": [
       "10021"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "420 E 76TH ST New York NY 10021"
   },
   {
     "addressPK": 155,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.780841",
+    "long": "-73.9510956",
     "street": "230 East 90th Street",
     "city": "NY",
     "zipcode": [
       "10128"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "230 E 90TH ST New York NY 10128"
   },
   {
     "addressPK": 156,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.78259",
+    "long": "-73.9566571",
     "street": "65 East 89th Street",
     "city": "NY",
     "zipcode": [
       "10128"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "65 E 89TH ST New York NY 10128"
   },
   {
     "addressPK": 157,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7713251",
+    "long": "-73.9655852",
     "street": "865 Madison Avenue",
     "city": "NY",
     "zipcode": [
       "10021"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "865 MADISON AVE New York NY 10021"
   },
   {
     "addressPK": 158,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7803300287851",
+    "long": "-73.9550885355201",
     "street": "1296 Lexington Avenue",
     "city": "NY",
     "zipcode": [
       "10128"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "1296 LEXINGTON AVE New York NY 10128"
   },
   {
     "addressPK": 159,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7862757",
+    "long": "-73.951491",
     "street": "135 East 96th Street",
     "city": "NY",
     "zipcode": [
       "10128"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "135 E 96TH ST New York NY 10128"
   },
   {
     "addressPK": 160,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7836928",
+    "long": "-73.9578694",
     "street": "2 East 90th Street",
     "city": "NY",
     "zipcode": [
       "10128"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "2 E 90TH ST New York NY 10128"
   },
   {
     "addressPK": 161,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7843189",
+    "long": "-73.9560924",
     "street": "1285 Madison Avenue",
     "city": "NY",
     "zipcode": [
       "10128"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "1285 MADISON AVE New York NY 10128"
   },
   {
     "addressPK": 162,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7790604",
+    "long": "-73.9588788",
     "street": "48 East 84th Street",
     "city": "NY",
     "zipcode": [
       "10028"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "48 E 84TH ST New York NY 10028"
   },
   {
     "addressPK": 163,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7738528",
+    "long": "-73.9504699",
     "street": "408 East 82nd Street",
     "city": "NY",
     "zipcode": [
       "10028"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "408 E 82ND ST New York NY 10028"
   },
   {
     "addressPK": 164,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7790514",
+    "long": "-73.956386",
     "street": "125 East 85th Street",
     "city": "NY",
     "zipcode": [
       "10028"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "125 E 85TH ST New York NY 10028"
   },
   {
     "addressPK": 165,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7842393",
+    "long": "-73.955258",
     "street": "62 East 92nd Street",
     "city": "NY",
     "zipcode": [
       "10128"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "62 E 92ND ST New York NY 10128"
   },
   {
     "addressPK": 166,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7770465",
+    "long": "-73.9479432",
     "street": "420 East 87th Street",
     "city": "NY",
     "zipcode": [
       "10128"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "420 E 87TH ST New York NY 10128"
   },
   {
     "addressPK": 167,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.765841",
+    "long": "-73.9673386",
     "street": "593 Park Avenue",
     "city": "NY",
     "zipcode": [
       "10128"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "593 PARK AVE New York NY 10128"
   },
   {
     "addressPK": 168,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.760799",
+    "long": "-73.945729",
     "street": "Church of the Good Shepard",
     "city": "NY",
     "zipcode": [
       "10044"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "CHURCH OF THE GOOD SHEPARD New York NY 10044"
   },
   {
     "addressPK": 169,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7721222",
+    "long": "-73.9517608",
     "street": "413 East 79th Street",
     "city": "NY",
     "zipcode": [
       "10021"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "413 E 79TH ST New York NY 10021"
   },
   {
     "addressPK": 170,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7651821",
+    "long": "-73.9599207",
     "street": "310 East 67th Street",
     "city": "NY",
     "zipcode": [
       "10065"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "310 E 67TH ST New York NY 10065"
   },
   {
     "addressPK": 171,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.766948",
+    "long": "-73.9577722",
     "street": "331 E 70th St",
     "city": "NY",
     "zipcode": [
       "10021"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "331 E 70TH ST New York NY 10021"
   },
   {
     "addressPK": 172,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7651081",
+    "long": "-73.957215",
     "street": "411 East 68th Street",
     "city": "NY",
     "zipcode": [
       "10021"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "411 E 68TH ST New York NY 10021"
   },
   {
     "addressPK": 173,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7780211",
+    "long": "-73.9497263",
     "street": "341 East 87th Street",
     "city": "NY",
     "zipcode": [
       "10128"
     ],
-    "zone": 7
+    "zone": 7,
+    "tamuAddress": "341 E 87TH ST New York NY 10128"
   },
   {
     "addressPK": 174,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8106798",
+    "long": "-73.944244",
     "street": "109 West 129th Street",
     "city": "NY",
     "zipcode": [
       "10027"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "109 W 129TH ST New York NY 10027"
   },
   {
     "addressPK": 175,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8222189",
+    "long": "-73.9408621",
     "street": "240 West 145th Street",
     "city": "NY",
     "zipcode": [
       "10039"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "240 W 145TH ST New York NY 10039"
   },
   {
     "addressPK": 176,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8232166",
+    "long": "-73.9484769",
     "street": "469 West 142nd Street",
     "city": "NY",
     "zipcode": [
       "10031"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "469 W 142ND ST New York NY 10031"
   },
   {
     "addressPK": 177,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8147959",
+    "long": "-73.9448542",
     "street": "204 West 134th Street",
     "city": "NY",
     "zipcode": [
       "10030"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "204 W 134TH ST New York NY 10030"
   },
   {
     "addressPK": 178,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8072583",
+    "long": "-73.9499047",
     "street": "2044 Adam Clayton Powell Boulevard",
     "city": "NY",
     "zipcode": [
       "10027"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "2044 ADAM CLAYTON POWELL BLVD New York NY 10027"
   },
   {
     "addressPK": 179,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8148408",
+    "long": "-73.9561515",
     "street": "521 W 126th St",
     "city": "NY",
     "zipcode": [
       "10027"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "521 W 126TH ST New York NY 10027"
   },
   {
     "addressPK": 180,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8071759186691",
+    "long": "-73.9497519327616",
     "street": "2044 Seventh Avenue",
     "city": "NY",
     "zipcode": [
       "10027"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "2044 SEVENTH AVE New York NY 10027"
   },
   {
     "addressPK": 181,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8095378",
+    "long": "-73.9453852",
     "street": "127 West 127th Street",
     "city": "NY",
     "zipcode": [
       "10027"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "127 W 127TH ST New York NY 10027"
   },
   {
     "addressPK": 182,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8192096",
+    "long": "-73.9453784",
     "street": "310 West 139th Street",
     "city": "NY",
     "zipcode": [
       "10037"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "310 W 139TH ST New York NY 10037"
   },
   {
     "addressPK": 183,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8215113",
+    "long": "-73.9463991",
     "street": "409 West 141st Street",
     "city": "NY",
     "zipcode": [
       "10031"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "409 W 141ST ST New York NY 10031"
   },
   {
     "addressPK": 184,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8119559",
+    "long": "-73.9625116",
     "street": "91 Claremont Avenue",
     "city": "NY",
     "zipcode": [
       "10027"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "91 CLAREMONT AVE New York NY 10027"
   },
   {
     "addressPK": 185,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8255289",
+    "long": "-73.9471616",
     "street": "1727 Amsterdam Avenue",
     "city": "NY",
     "zipcode": [
       "10031"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "1727 AMSTERDAM AVE New York NY 10031"
   },
   {
     "addressPK": 186,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8138548",
+    "long": "-73.9459315",
     "street": "219 West 132nd Street",
     "city": "NY",
     "zipcode": [
       "10027"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "219 W 132ND ST New York NY 10027"
   },
   {
     "addressPK": 187,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8119105",
+    "long": "-73.9471217",
     "street": "211 West 129th Street",
     "city": "NY",
     "zipcode": [
       "10027"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "211 W 129TH ST New York NY 10027"
   },
   {
     "addressPK": 188,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8238524",
+    "long": "-73.9461167",
     "street": "425 West 144th Street",
     "city": "NY",
     "zipcode": [
       "10031"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "425 W 144TH ST New York NY 10031"
   },
   {
     "addressPK": 189,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8143457",
+    "long": "-73.9403066",
     "street": "506 Lenox Avenue",
     "city": "NY",
     "zipcode": [
       "10037"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "506 LENOX AVE New York NY 10037"
   },
   {
     "addressPK": 190,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8295902",
+    "long": "-73.9446541",
     "street": "1854 Amsterdam Avenue",
     "city": "NY",
     "zipcode": [
       "10031"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "1854 AMSTERDAM AVE New York NY 10031"
   },
   {
     "addressPK": 191,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8137051",
+    "long": "-73.9403147",
     "street": "58-66 West 135th Street",
     "city": "NY",
     "zipcode": [
       "10037"
     ],
-    "zone": 8
+    "zone": 8,
+    "tamuAddress": "58 W 135TH ST New York NY 10037"
   },
   {
     "addressPK": 192,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.805958",
+    "long": "-73.940763",
     "street": "35 East 125 Street",
     "city": "NY",
     "zipcode": [
       "10035"
     ],
-    "zone": 9
+    "zone": 9,
+    "tamuAddress": "35 E 125 ST New York NY 10035"
   },
   {
     "addressPK": 193,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7982106",
+    "long": "-73.9382769",
     "street": "223 East 117th Street",
     "city": "NY",
     "zipcode": [
       "10035"
     ],
-    "zone": 9
+    "zone": 9,
+    "tamuAddress": "223 E 117TH ST New York NY 10035"
   },
   {
     "addressPK": 194,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.7927121",
+    "long": "-73.94069",
     "street": "2126 2nd Avenue",
     "city": "NY",
     "zipcode": [
       "10029"
     ],
-    "zone": 9
+    "zone": 9,
+    "tamuAddress": "2126 2ND AVE New York NY 10029"
   },
   {
     "addressPK": 195,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8021458",
+    "long": "-73.9442327",
     "street": "22 East 119th Street",
     "city": "NY",
     "zipcode": [
       "10035"
     ],
-    "zone": 9
+    "zone": 9,
+    "tamuAddress": "22 E 119TH ST New York NY 10035"
   },
   {
     "addressPK": 196,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8424566",
+    "long": "-73.9424508",
     "street": "701 West 168th Street",
     "city": "NY",
     "zipcode": [
       "10032"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "701 W 168TH ST New York NY 10032"
   },
   {
     "addressPK": 197,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8492702",
+    "long": "-73.9382266",
     "street": "715 West 179th Street",
     "city": "NY",
     "zipcode": [
       "10033"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "715 W 179TH ST New York NY 10033"
   },
   {
     "addressPK": 198,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8620966104922",
+    "long": "-73.9190004613749",
     "street": "431 West 204th Street",
     "city": "NY",
     "zipcode": [
       "10034"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "431 W 204TH ST New York NY 10034"
   },
   {
     "addressPK": 199,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8321452",
+    "long": "-73.9448547",
     "street": "550 West 155th Street",
     "city": "NY",
     "zipcode": [
       "10032"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "550 W 155TH ST New York NY 10032"
   },
   {
     "addressPK": 200,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8333254",
+    "long": "-73.9446563",
     "street": "557 West 156th Street",
     "city": "NY",
     "zipcode": [
       "10032"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "557 W 156TH ST New York NY 10032"
   },
   {
     "addressPK": 201,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8626147",
+    "long": "-73.9263819",
     "street": "35 Thayer Street",
     "city": "NY",
     "zipcode": [
       "10040"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "35 THAYER ST New York NY 10040"
   },
   {
     "addressPK": 202,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.83668",
+    "long": "-73.939944",
     "street": "502 West165th Street",
     "city": "NY",
     "zipcode": [
       "10032"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "502 WEST165TH ST New York NY 10032"
   },
   {
     "addressPK": 203,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8639073",
+    "long": "-73.9282532",
     "street": "91 Arden Street",
     "city": "NY",
     "zipcode": [
       "10034"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "91 ARDEN ST New York NY 10034"
   },
   {
     "addressPK": 204,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8664723",
+    "long": "-73.9264521",
     "street": "20 Cumming Street",
     "city": "NY",
     "zipcode": [
       "10034"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "20 CUMMING ST New York NY 10034"
   },
   {
     "addressPK": 205,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.86596",
+    "long": "-73.9231447",
     "street": "84 Vermilyea Avenue",
     "city": "NY",
     "zipcode": [
       "10034"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "84 VERMILYEA AVE New York NY 10034"
   },
   {
     "addressPK": 206,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8692449",
+    "long": "-73.9206611",
     "street": "620 Isham Street",
     "city": "NY",
     "zipcode": [
       "10034"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "620 ISHAM ST New York NY 10034"
   },
   {
     "addressPK": 207,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8342553",
+    "long": "-73.9407968",
     "street": "2005 Amsterdam Avenue",
     "city": "NY",
     "zipcode": [
       "10032"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "2005 AMSTERDAM AVE New York NY 10032"
   },
   {
     "addressPK": 208,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8560069",
+    "long": "-73.9342762",
     "street": "178 Bennett Avenue",
     "city": "NY",
     "zipcode": [
       "10040"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "178 BENNETT AVE New York NY 10040"
   },
   {
     "addressPK": 209,
-    "lat": 0,
-    "long": 0,
+    "lat": "40.8664723",
+    "long": "-73.9264521",
     "street": "20 Cummings Street",
     "city": "NY",
     "zipcode": [
       "10034"
     ],
-    "zone": 10
+    "zone": 10,
+    "tamuAddress": "20 CUMMINGS ST New York NY 10034"
   }
 ]
