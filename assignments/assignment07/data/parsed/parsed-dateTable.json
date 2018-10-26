@@ -1,0 +1,9610 @@
+[
+  {
+    "datePK": 1,
+    "day": "Thursdays",
+    "start": "7:00 AM",
+    "end": "8:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 2,
+    "day": "Tuesdays",
+    "start": "7:00 AM",
+    "end": "8:00 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 3,
+    "day": "Mondays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 4,
+    "day": "Wednesdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 5,
+    "day": "Thursdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 6,
+    "day": "Fridays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 7,
+    "day": "Tuesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 8,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 9,
+    "day": "Mondays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 10,
+    "day": "Tuesdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 11,
+    "day": "Thursdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 12,
+    "day": "Mondays",
+    "start": "1:30 PM",
+    "end": "2:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 13,
+    "day": "Thursdays",
+    "start": "1:30 PM",
+    "end": "2:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 14,
+    "day": "Mondays",
+    "start": "6:30 AM",
+    "end": "7:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Topic"
+  },
+  {
+    "datePK": 15,
+    "day": "Tuesdays",
+    "start": "6:30 AM",
+    "end": "7:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 16,
+    "day": "Wednesdays",
+    "start": "6:30 AM",
+    "end": "7:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Topic"
+  },
+  {
+    "datePK": 17,
+    "day": "Thursdays",
+    "start": "6:30 AM",
+    "end": "7:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 18,
+    "day": "Fridays",
+    "start": "6:30 AM",
+    "end": "7:30 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 19,
+    "day": "Mondays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 20,
+    "day": "Tuesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 21,
+    "day": "Wednesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 22,
+    "day": "Thursdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 23,
+    "day": "Fridays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 24,
+    "day": "Sundays",
+    "start": "7:45 AM",
+    "end": "8:45 AM",
+    "meetingType": "OD",
+    "specialInterest": "Round-Robin Meeting Format"
+  },
+  {
+    "datePK": 25,
+    "day": "Saturdays",
+    "start": "7:45 AM",
+    "end": "8:45 AM",
+    "meetingType": "OD",
+    "specialInterest": "Round-Robin Meeting Format"
+  },
+  {
+    "datePK": 26,
+    "day": "Fridays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 27,
+    "day": "Fridays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 28,
+    "day": "Sundays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 29,
+    "day": "Mondays",
+    "start": "1:15 PM",
+    "end": "2:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 30,
+    "day": "Tuesdays",
+    "start": "1:15 PM",
+    "end": "2:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 31,
+    "day": "Wednesdays",
+    "start": "1:15 PM",
+    "end": "2:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 32,
+    "day": "Thursdays",
+    "start": "1:15 PM",
+    "end": "2:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 33,
+    "day": "Fridays",
+    "start": "1:15 PM",
+    "end": "2:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 34,
+    "day": "Thursdays",
+    "start": "7:30 PM",
+    "end": "8:45 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 35,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Mental Health Issues in Sobriety"
+  },
+  {
+    "datePK": 36,
+    "day": "Saturdays",
+    "start": "2:00 PM",
+    "end": "3:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 37,
+    "day": "Tuesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 38,
+    "day": "Thursdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 39,
+    "day": "Fridays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 40,
+    "day": "Mondays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "S",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 41,
+    "day": "Wednesdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 42,
+    "day": "Tuesdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 43,
+    "day": "Wednesdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 44,
+    "day": "Sundays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 45,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 46,
+    "day": "Mondays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 47,
+    "day": "Thursdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 48,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 49,
+    "day": "Saturdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 50,
+    "day": "Tuesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 51,
+    "day": "Thursdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 52,
+    "day": "Mondays",
+    "start": "7:45 PM",
+    "end": "8:45 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 53,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 54,
+    "day": "Wednesdays",
+    "start": "1:15 PM",
+    "end": "2:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 55,
+    "day": "Wednesdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 56,
+    "day": "Tuesdays",
+    "start": "7:45 PM",
+    "end": "8:45 PM",
+    "meetingType": "C",
+    "specialInterest": "Young People"
+  },
+  {
+    "datePK": 57,
+    "day": "Saturdays",
+    "start": "7:00 PM",
+    "end": "8:15 PM",
+    "meetingType": "B",
+    "specialInterest": "Young People"
+  },
+  {
+    "datePK": 58,
+    "day": "Fridays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 59,
+    "day": "Thursdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 60,
+    "day": "Saturdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 61,
+    "day": "Sundays",
+    "start": "6:30 PM",
+    "end": "7:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 62,
+    "day": "Sundays",
+    "start": "10:30 AM",
+    "end": "12:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 63,
+    "day": "Mondays",
+    "start": "5:15 PM",
+    "end": "6:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "Meditation at Meeting"
+  },
+  {
+    "datePK": 64,
+    "day": "Fridays",
+    "start": "6:45 PM",
+    "end": "8:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Agnostic"
+  },
+  {
+    "datePK": 65,
+    "day": "Mondays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 66,
+    "day": "Tuesdays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 67,
+    "day": "Wednesdays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 68,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 69,
+    "day": "Mondays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "S",
+    "specialInterest": "Steps 1-2-3"
+  },
+  {
+    "datePK": 70,
+    "day": "Sundays",
+    "start": "3:00 PM",
+    "end": "4:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 71,
+    "day": "Tuesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 72,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 73,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay Men"
+  },
+  {
+    "datePK": 74,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 75,
+    "day": "Mondays",
+    "start": "12:00 AM",
+    "end": "1:15 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 76,
+    "day": "Sundays",
+    "start": "12:00 AM",
+    "end": "1:15 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 77,
+    "day": "Wednesdays",
+    "start": "12:00 AM",
+    "end": "1:15 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 78,
+    "day": "Saturdays",
+    "start": "12:00 AM",
+    "end": "1:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 79,
+    "day": "Tuesdays",
+    "start": "12:00 AM",
+    "end": "1:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 80,
+    "day": "Fridays",
+    "start": "12:00 AM",
+    "end": "1:15 AM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 81,
+    "day": "Thursdays",
+    "start": "12:00 AM",
+    "end": "1:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 82,
+    "day": "Saturdays",
+    "start": "2:00 AM",
+    "end": "3:15 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 83,
+    "day": "Tuesdays",
+    "start": "2:00 AM",
+    "end": "3:15 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 84,
+    "day": "Fridays",
+    "start": "2:00 AM",
+    "end": "3:15 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 85,
+    "day": "Mondays",
+    "start": "2:00 AM",
+    "end": "3:15 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 86,
+    "day": "Thursdays",
+    "start": "2:00 AM",
+    "end": "3:15 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 87,
+    "day": "Sundays",
+    "start": "2:00 AM",
+    "end": "3:15 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 88,
+    "day": "Wednesdays",
+    "start": "2:00 AM",
+    "end": "3:15 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 89,
+    "day": "Saturdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 90,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 91,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 92,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 93,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 94,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Topic"
+  },
+  {
+    "datePK": 95,
+    "day": "Sundays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 96,
+    "day": "Tuesdays",
+    "start": "5:15 PM",
+    "end": "6:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 97,
+    "day": "Fridays",
+    "start": "5:15 PM",
+    "end": "6:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 98,
+    "day": "Thursdays",
+    "start": "5:15 PM",
+    "end": "6:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 99,
+    "day": "Sundays",
+    "start": "5:15 PM",
+    "end": "6:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 100,
+    "day": "Wednesdays",
+    "start": "5:15 PM",
+    "end": "6:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 101,
+    "day": "Mondays",
+    "start": "5:15 PM",
+    "end": "6:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 102,
+    "day": "Wednesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 103,
+    "day": "Saturdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 104,
+    "day": "Tuesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 105,
+    "day": "Fridays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 106,
+    "day": "Mondays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 107,
+    "day": "Thursdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 108,
+    "day": "Sundays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 109,
+    "day": "Sundays",
+    "start": "8:00 PM",
+    "end": "9:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 110,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 111,
+    "day": "Saturdays",
+    "start": "8:00 PM",
+    "end": "9:15 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 112,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 113,
+    "day": "Mondays",
+    "start": "8:00 PM",
+    "end": "9:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Topic"
+  },
+  {
+    "datePK": 114,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 115,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "9:15 PM",
+    "meetingType": "B",
+    "specialInterest": "Under Six Months Sober"
+  },
+  {
+    "datePK": 116,
+    "day": "Sundays",
+    "start": "10:00 PM",
+    "end": "11:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 117,
+    "day": "Wednesdays",
+    "start": "10:00 PM",
+    "end": "11:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 118,
+    "day": "Saturdays",
+    "start": "10:00 PM",
+    "end": "11:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 119,
+    "day": "Tuesdays",
+    "start": "10:00 PM",
+    "end": "11:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 120,
+    "day": "Mondays",
+    "start": "10:00 PM",
+    "end": "11:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 121,
+    "day": "Fridays",
+    "start": "10:00 PM",
+    "end": "11:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 122,
+    "day": "Thursdays",
+    "start": "10:00 PM",
+    "end": "11:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Topic"
+  },
+  {
+    "datePK": 123,
+    "day": "Sundays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "O",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 124,
+    "day": "Wednesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 125,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 126,
+    "day": "Wednesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 127,
+    "day": "Tuesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 128,
+    "day": "Mondays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 129,
+    "day": "Sundays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 130,
+    "day": "Saturdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 131,
+    "day": "Fridays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 132,
+    "day": "Thursdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 133,
+    "day": "Thursdays",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 134,
+    "day": "Wednesdays",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 135,
+    "day": "Tuesdays",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 136,
+    "day": "Mondays",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 137,
+    "day": "Sundays",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 138,
+    "day": "Fridays",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 139,
+    "day": "Saturdays",
+    "start": "9:30 AM",
+    "end": "10:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 140,
+    "day": "Fridays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 141,
+    "day": "Sundays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 142,
+    "day": "Saturdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 143,
+    "day": "Fridays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 144,
+    "day": "Thursdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 145,
+    "day": "Wednesdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 146,
+    "day": "Tuesdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 147,
+    "day": "Mondays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 148,
+    "day": "Sundays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Children Welcome"
+  },
+  {
+    "datePK": 149,
+    "day": "Saturdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 150,
+    "day": "Fridays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 151,
+    "day": "Thursdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 152,
+    "day": "Tuesdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 153,
+    "day": "Mondays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 154,
+    "day": "Wednesdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 155,
+    "day": "Sundays",
+    "start": "3:00 PM",
+    "end": "4:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 156,
+    "day": "Mondays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 157,
+    "day": "Saturdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 158,
+    "day": "Thursdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 159,
+    "day": "Wednesdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 160,
+    "day": "Tuesdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 161,
+    "day": "Fridays",
+    "start": "4:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 162,
+    "day": "Thursdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 163,
+    "day": "Mondays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 164,
+    "day": "Saturdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 165,
+    "day": "Sundays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 166,
+    "day": "Fridays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 167,
+    "day": "Wednesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 168,
+    "day": "Tuesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 169,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 170,
+    "day": "Tuesdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 171,
+    "day": "Mondays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 172,
+    "day": "Saturdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 173,
+    "day": "Sundays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 174,
+    "day": "Thursdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 175,
+    "day": "Fridays",
+    "start": "8:30 PM",
+    "end": "10:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 176,
+    "day": "Wednesdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 177,
+    "day": "Tuesdays",
+    "start": "10:15 PM",
+    "end": "11:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 178,
+    "day": "Mondays",
+    "start": "10:15 PM",
+    "end": "11:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 179,
+    "day": "Thursdays",
+    "start": "10:15 PM",
+    "end": "11:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 180,
+    "day": "Wednesdays",
+    "start": "10:15 PM",
+    "end": "11:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 181,
+    "day": "Sundays",
+    "start": "10:30 PM",
+    "end": "11:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 182,
+    "day": "Saturdays",
+    "start": "11:00 PM",
+    "end": "12:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 183,
+    "day": "Fridays",
+    "start": "11:00 PM",
+    "end": "12:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 184,
+    "day": "Thursdays",
+    "start": "6:30 PM",
+    "end": "7:45 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 185,
+    "day": "Tuesdays",
+    "start": "6:30 PM",
+    "end": "7:45 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 186,
+    "day": "Sundays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 187,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 188,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 189,
+    "day": "Sundays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 190,
+    "day": "Fridays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 191,
+    "day": "Mondays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 192,
+    "day": "Tuesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 193,
+    "day": "Wednesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 194,
+    "day": "Thursdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 195,
+    "day": "Fridays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 196,
+    "day": "Sundays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "none",
+    "specialInterest": "Topic"
+  },
+  {
+    "datePK": 197,
+    "day": "Saturdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "none",
+    "specialInterest": "Topic"
+  },
+  {
+    "datePK": 198,
+    "day": "Saturdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "B",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 199,
+    "day": "Fridays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Interpreted for the Deaf"
+  },
+  {
+    "datePK": 200,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 201,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 202,
+    "day": "Mondays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 203,
+    "day": "Sundays",
+    "start": "11:00 AM",
+    "end": "12:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Eleventh Step"
+  },
+  {
+    "datePK": 204,
+    "day": "Mondays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "none",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 205,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 206,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 207,
+    "day": "Tuesdays",
+    "start": "6:45 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 208,
+    "day": "Wednesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 209,
+    "day": "Thursdays",
+    "start": "6:30 PM",
+    "end": "7:45 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 210,
+    "day": "Saturdays",
+    "start": "4:45 PM",
+    "end": "5:45 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 211,
+    "day": "Fridays",
+    "start": "6:15 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Lesbian"
+  },
+  {
+    "datePK": 212,
+    "day": "Wednesdays",
+    "start": "8:15 PM",
+    "end": "9:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 213,
+    "day": "Thursdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 214,
+    "day": "Fridays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 215,
+    "day": "Mondays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 216,
+    "day": "Tuesdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "B",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 217,
+    "day": "Wednesdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 218,
+    "day": "Thursdays",
+    "start": "6:00 PM",
+    "end": "7:15 PM",
+    "meetingType": "none",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 219,
+    "day": "Sundays",
+    "start": "7:00 PM",
+    "end": "8:30 PM",
+    "meetingType": "none",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 220,
+    "day": "Thursdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Agnostic"
+  },
+  {
+    "datePK": 221,
+    "day": "Saturdays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 222,
+    "day": "Wednesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 223,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 224,
+    "day": "Sundays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 225,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 226,
+    "day": "Thursdays",
+    "start": "7:45 PM",
+    "end": "8:45 PM",
+    "meetingType": "BB",
+    "specialInterest": "Big Book Topic"
+  },
+  {
+    "datePK": 227,
+    "day": "Tuesdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 228,
+    "day": "Mondays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 229,
+    "day": "Wednesdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 230,
+    "day": "Thursdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 231,
+    "day": "Fridays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "C",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 232,
+    "day": "Saturdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 233,
+    "day": "Tuesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 234,
+    "day": "Thursdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 235,
+    "day": "Wednesdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 236,
+    "day": "Mondays",
+    "start": "6:45 PM",
+    "end": "8:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 237,
+    "day": "Saturdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 238,
+    "day": "Sundays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 239,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 240,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 241,
+    "day": "Saturdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 242,
+    "day": "Saturdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 243,
+    "day": "Sundays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 244,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 245,
+    "day": "Tuesdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 246,
+    "day": "Saturdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 247,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 248,
+    "day": "Mondays",
+    "start": "8:15 AM",
+    "end": "9:15 AM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 249,
+    "day": "Tuesdays",
+    "start": "8:15 AM",
+    "end": "9:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 250,
+    "day": "Thursdays",
+    "start": "8:15 AM",
+    "end": "9:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 251,
+    "day": "Mondays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 252,
+    "day": "Thursdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 253,
+    "day": "Mondays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 254,
+    "day": "Fridays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 255,
+    "day": "Tuesdays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 256,
+    "day": "Thursdays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "none",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 257,
+    "day": "Sundays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "O",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 258,
+    "day": "Wednesdays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 259,
+    "day": "Mondays",
+    "start": "6:15 PM",
+    "end": "7:00 PM",
+    "meetingType": "S",
+    "specialInterest": "Fourth Step Workshop"
+  },
+  {
+    "datePK": 260,
+    "day": "Sundays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 261,
+    "day": "Mondays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 262,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 263,
+    "day": "Tuesdays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 264,
+    "day": "Sundays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "O",
+    "specialInterest": "Interpreted for the Deaf"
+  },
+  {
+    "datePK": 265,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 266,
+    "day": "Saturdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 267,
+    "day": "Thursdays",
+    "start": "12:00 PM",
+    "end": "1:00 AM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 268,
+    "day": "Mondays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 269,
+    "day": "Tuesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 270,
+    "day": "Wednesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 271,
+    "day": "Fridays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 272,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 273,
+    "day": "Saturdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 274,
+    "day": "Sundays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 275,
+    "day": "Sundays",
+    "start": "10:15 AM",
+    "end": "11:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 276,
+    "day": "Thursdays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 277,
+    "day": "Saturdays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 278,
+    "day": "Mondays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 279,
+    "day": "Tuesdays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 280,
+    "day": "Wednesdays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 281,
+    "day": "Fridays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 282,
+    "day": "Sundays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 283,
+    "day": "Saturdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 284,
+    "day": "Wednesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "B",
+    "specialInterest": "Beginners Workshop"
+  },
+  {
+    "datePK": 285,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 286,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "Fourth Step Workshop"
+  },
+  {
+    "datePK": 287,
+    "day": "Sundays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "S",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 288,
+    "day": "Sundays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 289,
+    "day": "Wednesdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 290,
+    "day": "Thursdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 291,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 292,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 293,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 294,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 295,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 296,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 297,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 298,
+    "day": "Fridays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 299,
+    "day": "Mondays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 300,
+    "day": "Tuesdays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 301,
+    "day": "Wednesdays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 302,
+    "day": "Thursdays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 303,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Young People"
+  },
+  {
+    "datePK": 304,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 305,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 306,
+    "day": "Fridays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 307,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 308,
+    "day": "Fridays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 309,
+    "day": "Fridays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 310,
+    "day": "Fridays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Eleventh Step Meditation"
+  },
+  {
+    "datePK": 311,
+    "day": "Fridays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 312,
+    "day": "Fridays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "C",
+    "specialInterest": "H.I.V Positive"
+  },
+  {
+    "datePK": 313,
+    "day": "Fridays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 314,
+    "day": "Fridays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 315,
+    "day": "Fridays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 316,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 317,
+    "day": "Mondays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "B",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 318,
+    "day": "Mondays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "BB",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 319,
+    "day": "Tuesdays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "S",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 320,
+    "day": "Thursdays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "C",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 321,
+    "day": "Tuesdays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "C",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 322,
+    "day": "Saturdays",
+    "start": "9:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 323,
+    "day": "Mondays",
+    "start": "6:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 324,
+    "day": "Tuesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 325,
+    "day": "Wednesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 326,
+    "day": "Thursdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 327,
+    "day": "Fridays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 328,
+    "day": "Sundays",
+    "start": "1:30 PM",
+    "end": "2:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 329,
+    "day": "Saturdays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 330,
+    "day": "Saturdays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 331,
+    "day": "Saturdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 332,
+    "day": "Fridays",
+    "start": "6:30 PM",
+    "end": "7:45 PM",
+    "meetingType": "B",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 333,
+    "day": "Tuesdays",
+    "start": "7:15 PM",
+    "end": "8:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 334,
+    "day": "Sundays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 335,
+    "day": "Saturdays",
+    "start": "9:30 PM",
+    "end": "10:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "Special Purpose Groups"
+  },
+  {
+    "datePK": 336,
+    "day": "Mondays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 337,
+    "day": "Tuesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 338,
+    "day": "Wednesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 339,
+    "day": "Thursdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 340,
+    "day": "Fridays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 341,
+    "day": "Saturdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 342,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 343,
+    "day": "Saturdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 344,
+    "day": "Sundays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 345,
+    "day": "Sundays",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "meetingType": "C",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 346,
+    "day": "Sundays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 347,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Special Purpose Groups"
+  },
+  {
+    "datePK": 348,
+    "day": "Sundays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 349,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 350,
+    "day": "Tuesdays",
+    "start": "9:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 351,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 352,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 353,
+    "day": "Sundays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 354,
+    "day": "Fridays",
+    "start": "8:45 PM",
+    "end": "9:45 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 355,
+    "day": "Wednesdays",
+    "start": "6:15 AM",
+    "end": "7:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 356,
+    "day": "Thursdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 357,
+    "day": "Wednesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 358,
+    "day": "Tuesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 359,
+    "day": "Mondays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 360,
+    "day": "Saturdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 361,
+    "day": "Fridays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 362,
+    "day": "Sundays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 363,
+    "day": "Saturdays",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 364,
+    "day": "Sundays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 365,
+    "day": "Fridays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 366,
+    "day": "Thursdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 367,
+    "day": "Wednesdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 368,
+    "day": "Tuesdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 369,
+    "day": "Mondays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "S",
+    "specialInterest": "Steps 1-2-3"
+  },
+  {
+    "datePK": 370,
+    "day": "Saturdays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 371,
+    "day": "Sundays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 372,
+    "day": "Mondays",
+    "start": "11:15 AM",
+    "end": "12:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 373,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 374,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 375,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 376,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 377,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 378,
+    "day": "Saturdays",
+    "start": "1:15 PM",
+    "end": "2:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Sponsorship Workshop"
+  },
+  {
+    "datePK": 379,
+    "day": "Sundays",
+    "start": "1:30 PM",
+    "end": "2:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 380,
+    "day": "Mondays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 381,
+    "day": "Fridays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 382,
+    "day": "Thursdays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 383,
+    "day": "Wednesdays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 384,
+    "day": "Tuesdays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 385,
+    "day": "Saturdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 386,
+    "day": "Sundays",
+    "start": "3:00 PM",
+    "end": "4:00 PM",
+    "meetingType": "S",
+    "specialInterest": "Fourth Step Workshop"
+  },
+  {
+    "datePK": 387,
+    "day": "Mondays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 388,
+    "day": "Fridays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 389,
+    "day": "Thursdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 390,
+    "day": "Wednesdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 391,
+    "day": "Tuesdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 392,
+    "day": "Saturdays",
+    "start": "4:30 PM",
+    "end": "5:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 393,
+    "day": "Sundays",
+    "start": "4:30 PM",
+    "end": "5:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 394,
+    "day": "Mondays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 395,
+    "day": "Fridays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 396,
+    "day": "Thursdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 397,
+    "day": "Wednesdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 398,
+    "day": "Tuesdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "S",
+    "specialInterest": "First Step Workshop"
+  },
+  {
+    "datePK": 399,
+    "day": "Saturdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 400,
+    "day": "Sundays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Gay Men"
+  },
+  {
+    "datePK": 401,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 402,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "T",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 403,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 404,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 405,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 406,
+    "day": "Sundays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 407,
+    "day": "Saturdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 408,
+    "day": "Mondays",
+    "start": "8:15 PM",
+    "end": "9:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 409,
+    "day": "Thursdays",
+    "start": "8:15 PM",
+    "end": "9:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 410,
+    "day": "Wednesdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 411,
+    "day": "Tuesdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 412,
+    "day": "Fridays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "B",
+    "specialInterest": "First Step Workshop"
+  },
+  {
+    "datePK": 413,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 414,
+    "day": "Sundays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 415,
+    "day": "Fridays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 416,
+    "day": "Sundays",
+    "start": "12:45 PM",
+    "end": "1:45 PM",
+    "meetingType": "S",
+    "specialInterest": "Eleventh Step"
+  },
+  {
+    "datePK": 417,
+    "day": "Sundays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Agnostic"
+  },
+  {
+    "datePK": 418,
+    "day": "Sundays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "S",
+    "specialInterest": "Agnostic"
+  },
+  {
+    "datePK": 419,
+    "day": "Tuesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 420,
+    "day": "Thursdays",
+    "start": "3:30 PM",
+    "end": "4:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 421,
+    "day": "Sundays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 422,
+    "day": "Tuesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 423,
+    "day": "Tuesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 424,
+    "day": "Thursdays",
+    "start": "9:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 425,
+    "day": "Tuesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 426,
+    "day": "Tuesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 427,
+    "day": "Saturdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Lesbian"
+  },
+  {
+    "datePK": 428,
+    "day": "Saturdays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 429,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "AA Literature"
+  },
+  {
+    "datePK": 430,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Young People"
+  },
+  {
+    "datePK": 431,
+    "day": "Sundays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 432,
+    "day": "Mondays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 433,
+    "day": "Tuesdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 434,
+    "day": "Wednesdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 435,
+    "day": "Thursdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 436,
+    "day": "Fridays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 437,
+    "day": "Saturdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 438,
+    "day": "Mondays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 439,
+    "day": "Wednesdays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "C",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 440,
+    "day": "Thursdays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 441,
+    "day": "Fridays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 442,
+    "day": "Saturdays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 443,
+    "day": "Sundays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "Beginners Workshop"
+  },
+  {
+    "datePK": 444,
+    "day": "Tuesdays",
+    "start": "9:15 PM",
+    "end": "10:30 PM",
+    "meetingType": "S",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 445,
+    "day": "Wednesdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 446,
+    "day": "Thursdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "C",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 447,
+    "day": "Fridays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "T",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 448,
+    "day": "Saturdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 449,
+    "day": "Sundays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 450,
+    "day": "Mondays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 451,
+    "day": "Tuesdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 452,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 453,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "O",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 454,
+    "day": "Mondays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 455,
+    "day": "Thursdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 456,
+    "day": "Saturdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 457,
+    "day": "Tuesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 458,
+    "day": "Sundays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 459,
+    "day": "Wednesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 460,
+    "day": "Fridays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 461,
+    "day": "Sundays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 462,
+    "day": "Mondays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 463,
+    "day": "Saturdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 464,
+    "day": "Thursdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 465,
+    "day": "Tuesdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 466,
+    "day": "Wednesdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 467,
+    "day": "Fridays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 468,
+    "day": "Mondays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 469,
+    "day": "Saturdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 470,
+    "day": "Thursdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 471,
+    "day": "Tuesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 472,
+    "day": "Sundays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 473,
+    "day": "Wednesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 474,
+    "day": "Fridays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 475,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 476,
+    "day": "Mondays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 477,
+    "day": "Saturdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 478,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 479,
+    "day": "Sundays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 480,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 481,
+    "day": "Mondays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 482,
+    "day": "Tuesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 483,
+    "day": "Wednesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 484,
+    "day": "Thursdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 485,
+    "day": "Fridays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 486,
+    "day": "Saturdays",
+    "start": "3:00 PM",
+    "end": "4:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 487,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 488,
+    "day": "Tuesdays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Special Purpose Groups"
+  },
+  {
+    "datePK": 489,
+    "day": "Mondays",
+    "start": "1:30 PM",
+    "end": "2:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 490,
+    "day": "Tuesdays",
+    "start": "1:30 PM",
+    "end": "2:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 491,
+    "day": "Wednesdays",
+    "start": "1:30 PM",
+    "end": "2:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 492,
+    "day": "Thursdays",
+    "start": "1:30 PM",
+    "end": "2:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 493,
+    "day": "Fridays",
+    "start": "1:30 PM",
+    "end": "2:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 494,
+    "day": "Saturdays",
+    "start": "1:30 PM",
+    "end": "2:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 495,
+    "day": "Sundays",
+    "start": "2:45 PM",
+    "end": "3:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 496,
+    "day": "Mondays",
+    "start": "2:45 PM",
+    "end": "3:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 497,
+    "day": "Tuesdays",
+    "start": "2:45 PM",
+    "end": "3:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 498,
+    "day": "Wednesdays",
+    "start": "2:45 PM",
+    "end": "3:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 499,
+    "day": "Thursdays",
+    "start": "2:45 PM",
+    "end": "3:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 500,
+    "day": "Fridays",
+    "start": "2:45 PM",
+    "end": "3:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 501,
+    "day": "Saturdays",
+    "start": "2:45 PM",
+    "end": "3:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 502,
+    "day": "Wednesdays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 503,
+    "day": "Fridays",
+    "start": "4:30 PM",
+    "end": "5:30 AM",
+    "meetingType": "none",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 504,
+    "day": "Tuesdays",
+    "start": "4:30 PM",
+    "end": "4:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 505,
+    "day": "Wednesdays",
+    "start": "4:30 PM",
+    "end": "5:30 PM",
+    "meetingType": "none",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 506,
+    "day": "Thursdays",
+    "start": "4:30 PM",
+    "end": "5:30 PM",
+    "meetingType": "none",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 507,
+    "day": "Saturdays",
+    "start": "4:30 PM",
+    "end": "5:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 508,
+    "day": "Mondays",
+    "start": "4:30 PM",
+    "end": "5:30 PM",
+    "meetingType": "none",
+    "specialInterest": "Came To Believe"
+  },
+  {
+    "datePK": 509,
+    "day": "Mondays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 510,
+    "day": "Wednesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 511,
+    "day": "Fridays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 512,
+    "day": "Sundays",
+    "start": "5:00 PM",
+    "end": "5:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 513,
+    "day": "Sundays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 514,
+    "day": "Wednesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 515,
+    "day": "Mondays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 516,
+    "day": "Saturdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 517,
+    "day": "Saturdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 518,
+    "day": "Wednesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 519,
+    "day": "Thursdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 520,
+    "day": "Fridays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 521,
+    "day": "Mondays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 522,
+    "day": "Tuesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 523,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 524,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 525,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 526,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 527,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 528,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 529,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 530,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 531,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 532,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 533,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 534,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 535,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 536,
+    "day": "Saturdays",
+    "start": "10:30 PM",
+    "end": "11:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 537,
+    "day": "Sundays",
+    "start": "10:30 PM",
+    "end": "11:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 538,
+    "day": "Mondays",
+    "start": "10:30 PM",
+    "end": "11:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 539,
+    "day": "Tuesdays",
+    "start": "10:30 PM",
+    "end": "11:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 540,
+    "day": "Wednesdays",
+    "start": "10:30 PM",
+    "end": "11:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 541,
+    "day": "Thursdays",
+    "start": "10:30 PM",
+    "end": "11:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 542,
+    "day": "Fridays",
+    "start": "10:30 PM",
+    "end": "11:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 543,
+    "day": "Thursdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Special Purpose Groups"
+  },
+  {
+    "datePK": 544,
+    "day": "Mondays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 545,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 546,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 547,
+    "day": "Mondays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 548,
+    "day": "Thursdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 549,
+    "day": "Tuesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 550,
+    "day": "Mondays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 551,
+    "day": "Wednesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 552,
+    "day": "Thursdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 553,
+    "day": "Fridays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 554,
+    "day": "Mondays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 555,
+    "day": "Tuesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 556,
+    "day": "Wednesdays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 557,
+    "day": "Sundays",
+    "start": "12:00 AM",
+    "end": "1:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 558,
+    "day": "Mondays",
+    "start": "12:00 AM",
+    "end": "1:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 559,
+    "day": "Tuesdays",
+    "start": "12:00 AM",
+    "end": "1:00 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 560,
+    "day": "Wednesdays",
+    "start": "12:00 AM",
+    "end": "1:00 AM",
+    "meetingType": "C",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 561,
+    "day": "Thursdays",
+    "start": "12:00 AM",
+    "end": "1:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 562,
+    "day": "Fridays",
+    "start": "12:00 AM",
+    "end": "1:00 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 563,
+    "day": "Saturdays",
+    "start": "12:00 AM",
+    "end": "1:00 AM",
+    "meetingType": "O",
+    "specialInterest": "Eleventh Step"
+  },
+  {
+    "datePK": 564,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 565,
+    "day": "Thursdays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 566,
+    "day": "Tuesdays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 567,
+    "day": "Saturdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 568,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 569,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 570,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "Steps 1-2-3"
+  },
+  {
+    "datePK": 571,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 572,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 573,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 574,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 575,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 576,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 577,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 578,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 579,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 580,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 581,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 582,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 583,
+    "day": "Sundays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 584,
+    "day": "Wednesdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 585,
+    "day": "Mondays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 586,
+    "day": "Thursdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 587,
+    "day": "Tuesdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 588,
+    "day": "Fridays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 589,
+    "day": "Sundays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 590,
+    "day": "Mondays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 591,
+    "day": "Tuesdays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 592,
+    "day": "Wednesdays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 593,
+    "day": "Thursdays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 594,
+    "day": "Fridays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 595,
+    "day": "Saturdays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 596,
+    "day": "Wednesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 597,
+    "day": "Mondays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 598,
+    "day": "Wednesdays",
+    "start": "7:30 PM",
+    "end": "8:45 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 599,
+    "day": "Mondays",
+    "start": "7:45 PM",
+    "end": "8:45 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 600,
+    "day": "Wednesdays",
+    "start": "9:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "B",
+    "specialInterest": "First Step Workshop"
+  },
+  {
+    "datePK": 601,
+    "day": "Mondays",
+    "start": "9:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 602,
+    "day": "Sundays",
+    "start": "6:00 PM",
+    "end": "7:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 603,
+    "day": "Thursdays",
+    "start": "6:00 PM",
+    "end": "7:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 604,
+    "day": "Saturdays",
+    "start": "6:00 PM",
+    "end": "7:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 605,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 606,
+    "day": "Saturdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 607,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 608,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 609,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 610,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 611,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 612,
+    "day": "Thursdays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 613,
+    "day": "Saturdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 614,
+    "day": "Wednesdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 615,
+    "day": "Sundays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "S",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 616,
+    "day": "Thursdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 617,
+    "day": "Mondays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 618,
+    "day": "Fridays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 619,
+    "day": "Tuesdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 620,
+    "day": "Saturdays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "B",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 621,
+    "day": "Wednesdays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "OD",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 622,
+    "day": "Sundays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 623,
+    "day": "Mondays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "OD",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 624,
+    "day": "Fridays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "OD",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 625,
+    "day": "Tuesdays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "OD",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 626,
+    "day": "Thursdays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "OD",
+    "specialInterest": "H.I.V Positive"
+  },
+  {
+    "datePK": 627,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 628,
+    "day": "Saturdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 629,
+    "day": "Sundays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 630,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 631,
+    "day": "Mondays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 632,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "S",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 633,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 634,
+    "day": "Mondays",
+    "start": "12:30 AM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 635,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 636,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 637,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 638,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 639,
+    "day": "Saturdays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 640,
+    "day": "Fridays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "Spiritual Workshop"
+  },
+  {
+    "datePK": 641,
+    "day": "Tuesdays",
+    "start": "7:45 AM",
+    "end": "8:45 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 642,
+    "day": "Tuesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 643,
+    "day": "Thursdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 644,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 645,
+    "day": "Sundays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 646,
+    "day": "Tuesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Agnostic"
+  },
+  {
+    "datePK": 647,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 648,
+    "day": "Fridays",
+    "start": "6:30 PM",
+    "end": "7:45 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 649,
+    "day": "Sundays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 650,
+    "day": "Fridays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "Young People"
+  },
+  {
+    "datePK": 651,
+    "day": "Sundays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 652,
+    "day": "Tuesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 653,
+    "day": "Wednesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 654,
+    "day": "Thursdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 655,
+    "day": "Fridays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 656,
+    "day": "Mondays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 657,
+    "day": "Mondays",
+    "start": "5:45 PM",
+    "end": "6:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 658,
+    "day": "Wednesdays",
+    "start": "5:45 PM",
+    "end": "6:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 659,
+    "day": "Thursdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 660,
+    "day": "Mondays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 661,
+    "day": "Wednesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 662,
+    "day": "Fridays",
+    "start": "7:45 AM",
+    "end": "8:45 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 663,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 664,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 665,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 666,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 667,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 668,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 669,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 670,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 671,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 672,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 673,
+    "day": "Sundays",
+    "start": "12:45 PM",
+    "end": "1:45 PM",
+    "meetingType": "S",
+    "specialInterest": "First Step Workshop"
+  },
+  {
+    "datePK": 674,
+    "day": "Sundays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 675,
+    "day": "Sundays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 676,
+    "day": "Mondays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 677,
+    "day": "Tuesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 678,
+    "day": "Tuesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 679,
+    "day": "Wednesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 680,
+    "day": "Wednesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 681,
+    "day": "Thursdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 682,
+    "day": "Fridays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 683,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 684,
+    "day": "Mondays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 685,
+    "day": "Wednesdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 686,
+    "day": "Fridays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 687,
+    "day": "Sundays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 688,
+    "day": "Sundays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 689,
+    "day": "Tuesdays",
+    "start": "5:45 PM",
+    "end": "6:45 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 690,
+    "day": "Mondays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 691,
+    "day": "Tuesdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 692,
+    "day": "Fridays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "C",
+    "specialInterest": "First Step Workshop"
+  },
+  {
+    "datePK": 693,
+    "day": "Wednesdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 694,
+    "day": "Thursdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 695,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 696,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 697,
+    "day": "Mondays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 698,
+    "day": "Fridays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 699,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 700,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 701,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 702,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 703,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 704,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:15 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 705,
+    "day": "Saturdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "none",
+    "specialInterest": "Eleventh Step Meditation"
+  },
+  {
+    "datePK": 706,
+    "day": "Mondays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 707,
+    "day": "Thursdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 708,
+    "day": "Mondays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 709,
+    "day": "Mondays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 710,
+    "day": "Tuesdays",
+    "start": "6:15 AM",
+    "end": "7:15 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 711,
+    "day": "Thursdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 712,
+    "day": "Wednesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 713,
+    "day": "Thursdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 714,
+    "day": "Wednesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 715,
+    "day": "Tuesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 716,
+    "day": "Mondays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 717,
+    "day": "Tuesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 718,
+    "day": "Sundays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 719,
+    "day": "Mondays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 720,
+    "day": "Fridays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 721,
+    "day": "Thursdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 722,
+    "day": "Saturdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 723,
+    "day": "Saturdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 724,
+    "day": "Thursdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 725,
+    "day": "Sundays",
+    "start": "8:15 AM",
+    "end": "9:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 726,
+    "day": "Thursdays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 727,
+    "day": "Wednesdays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 728,
+    "day": "Tuesdays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 729,
+    "day": "Mondays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 730,
+    "day": "Sundays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 731,
+    "day": "Sundays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 732,
+    "day": "Saturdays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 733,
+    "day": "Fridays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 734,
+    "day": "Saturdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 735,
+    "day": "Sundays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 736,
+    "day": "Fridays",
+    "start": "11:30 AM",
+    "end": "12:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 737,
+    "day": "Thursdays",
+    "start": "11:30 AM",
+    "end": "12:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 738,
+    "day": "Wednesdays",
+    "start": "11:30 AM",
+    "end": "12:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 739,
+    "day": "Tuesdays",
+    "start": "11:30 AM",
+    "end": "12:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 740,
+    "day": "Mondays",
+    "start": "11:30 AM",
+    "end": "12:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 741,
+    "day": "Saturdays",
+    "start": "12:45 PM",
+    "end": "1:45 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 742,
+    "day": "Fridays",
+    "start": "12:45 PM",
+    "end": "1:45 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 743,
+    "day": "Thursdays",
+    "start": "12:45 PM",
+    "end": "1:45 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 744,
+    "day": "Wednesdays",
+    "start": "12:45 PM",
+    "end": "1:45 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 745,
+    "day": "Tuesdays",
+    "start": "12:45 PM",
+    "end": "1:45 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 746,
+    "day": "Mondays",
+    "start": "12:45 PM",
+    "end": "1:45 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 747,
+    "day": "Sundays",
+    "start": "12:45 PM",
+    "end": "1:45 PM",
+    "meetingType": "S",
+    "specialInterest": "First Step Workshop"
+  },
+  {
+    "datePK": 748,
+    "day": "Sundays",
+    "start": "3:00 PM",
+    "end": "4:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 749,
+    "day": "Fridays",
+    "start": "3:15 PM",
+    "end": "4:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 750,
+    "day": "Thursdays",
+    "start": "3:15 PM",
+    "end": "4:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 751,
+    "day": "Wednesdays",
+    "start": "3:15 PM",
+    "end": "4:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 752,
+    "day": "Tuesdays",
+    "start": "3:15 PM",
+    "end": "4:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 753,
+    "day": "Mondays",
+    "start": "3:15 PM",
+    "end": "4:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 754,
+    "day": "Saturdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 755,
+    "day": "Sundays",
+    "start": "6:15 PM",
+    "end": "7:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 756,
+    "day": "Fridays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 757,
+    "day": "Thursdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 758,
+    "day": "Wednesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 759,
+    "day": "Tuesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 760,
+    "day": "Wednesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 761,
+    "day": "Mondays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 762,
+    "day": "Tuesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 763,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 764,
+    "day": "Saturdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "none",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 765,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 766,
+    "day": "Sundays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 767,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 768,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 769,
+    "day": "Mondays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "B",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 770,
+    "day": "Fridays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 771,
+    "day": "Tuesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 772,
+    "day": "Saturdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 773,
+    "day": "Saturdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 774,
+    "day": "Tuesdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 775,
+    "day": "Fridays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 776,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 777,
+    "day": "Tuesdays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 778,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 779,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 780,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 781,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 782,
+    "day": "Saturdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 783,
+    "day": "Saturdays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 784,
+    "day": "Saturdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 785,
+    "day": "Wednesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 786,
+    "day": "Tuesdays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 787,
+    "day": "Thursdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 788,
+    "day": "Wednesdays",
+    "start": "5:45 PM",
+    "end": "7:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 789,
+    "day": "Mondays",
+    "start": "3:00 PM",
+    "end": "4:00 PM",
+    "meetingType": "C",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 790,
+    "day": "Wednesdays",
+    "start": "3:00 PM",
+    "end": "4:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 791,
+    "day": "Fridays",
+    "start": "7:45 PM",
+    "end": "8:45 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 792,
+    "day": "Fridays",
+    "start": "9:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 793,
+    "day": "Tuesdays",
+    "start": "6:30 PM",
+    "end": "7:45 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 794,
+    "day": "Thursdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "AA Literature"
+  },
+  {
+    "datePK": 795,
+    "day": "Fridays",
+    "start": "9:30 PM",
+    "end": "10:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 796,
+    "day": "Saturdays",
+    "start": "1:00 PM",
+    "end": "2:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 797,
+    "day": "Saturdays",
+    "start": "2:30 PM",
+    "end": "4:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 798,
+    "day": "Mondays",
+    "start": "4:00 PM",
+    "end": "5:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 799,
+    "day": "Tuesdays",
+    "start": "4:00 PM",
+    "end": "5:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 800,
+    "day": "Wednesdays",
+    "start": "4:00 PM",
+    "end": "5:30 PM",
+    "meetingType": "O",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 801,
+    "day": "Fridays",
+    "start": "4:00 PM",
+    "end": "5:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 802,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 803,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 804,
+    "day": "Tuesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 805,
+    "day": "Tuesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 806,
+    "day": "Mondays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 807,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 808,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 809,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 810,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 811,
+    "day": "Tuesdays",
+    "start": "8:15 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 812,
+    "day": "Mondays",
+    "start": "7:30 PM",
+    "end": "8:45 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 813,
+    "day": "Mondays",
+    "start": "9:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 814,
+    "day": "Mondays",
+    "start": "10:15 PM",
+    "end": "11:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Topic"
+  },
+  {
+    "datePK": 815,
+    "day": "Fridays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 816,
+    "day": "Sundays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 817,
+    "day": "Sundays",
+    "start": "6:15 PM",
+    "end": "7:45 PM",
+    "meetingType": "S",
+    "specialInterest": "Twelve Steps"
+  },
+  {
+    "datePK": 818,
+    "day": "Saturdays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Children Welcome"
+  },
+  {
+    "datePK": 819,
+    "day": "Sundays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Children Welcome"
+  },
+  {
+    "datePK": 820,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Topic"
+  },
+  {
+    "datePK": 821,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:45 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 822,
+    "day": "Fridays",
+    "start": "7:00 AM",
+    "end": "8:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 823,
+    "day": "Mondays",
+    "start": "7:00 AM",
+    "end": "8:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 824,
+    "day": "Tuesdays",
+    "start": "7:00 AM",
+    "end": "8:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 825,
+    "day": "Wednesdays",
+    "start": "7:00 AM",
+    "end": "8:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 826,
+    "day": "Thursdays",
+    "start": "7:00 AM",
+    "end": "8:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 827,
+    "day": "Fridays",
+    "start": "8:15 AM",
+    "end": "9:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 828,
+    "day": "Mondays",
+    "start": "8:15 AM",
+    "end": "9:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 829,
+    "day": "Tuesdays",
+    "start": "8:15 AM",
+    "end": "9:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 830,
+    "day": "Wednesdays",
+    "start": "8:15 AM",
+    "end": "9:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 831,
+    "day": "Thursdays",
+    "start": "8:15 AM",
+    "end": "9:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 832,
+    "day": "Sundays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 833,
+    "day": "Saturdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 834,
+    "day": "Saturdays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "S",
+    "specialInterest": "First Step Workshop"
+  },
+  {
+    "datePK": 835,
+    "day": "Sundays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 836,
+    "day": "Saturdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 837,
+    "day": "Mondays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 838,
+    "day": "Wednesdays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 839,
+    "day": "Saturdays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 840,
+    "day": "Thursdays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "S",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 841,
+    "day": "Sundays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 842,
+    "day": "Tuesdays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 843,
+    "day": "Fridays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 844,
+    "day": "Fridays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 845,
+    "day": "Wednesdays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 846,
+    "day": "Saturdays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 847,
+    "day": "Mondays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 848,
+    "day": "Thursdays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 849,
+    "day": "Sundays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 850,
+    "day": "Tuesdays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 851,
+    "day": "Fridays",
+    "start": "8:45 AM",
+    "end": "9:45 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 852,
+    "day": "Wednesdays",
+    "start": "8:45 AM",
+    "end": "9:45 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 853,
+    "day": "Saturdays",
+    "start": "8:45 AM",
+    "end": "9:45 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 854,
+    "day": "Mondays",
+    "start": "8:45 AM",
+    "end": "9:45 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 855,
+    "day": "Thursdays",
+    "start": "8:45 AM",
+    "end": "9:45 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 856,
+    "day": "Sundays",
+    "start": "8:45 AM",
+    "end": "9:45 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 857,
+    "day": "Tuesdays",
+    "start": "8:45 AM",
+    "end": "9:45 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 858,
+    "day": "Tuesdays",
+    "start": "10:15 AM",
+    "end": "11:15 AM",
+    "meetingType": "C",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 859,
+    "day": "Fridays",
+    "start": "10:15 AM",
+    "end": "11:15 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 860,
+    "day": "Wednesdays",
+    "start": "10:15 AM",
+    "end": "11:15 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 861,
+    "day": "Saturdays",
+    "start": "10:15 AM",
+    "end": "11:15 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 862,
+    "day": "Mondays",
+    "start": "10:15 AM",
+    "end": "11:15 AM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 863,
+    "day": "Thursdays",
+    "start": "10:15 AM",
+    "end": "11:15 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 864,
+    "day": "Sundays",
+    "start": "10:15 AM",
+    "end": "11:15 AM",
+    "meetingType": "T",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 865,
+    "day": "Fridays",
+    "start": "6:30 PM",
+    "end": "7:45 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 866,
+    "day": "Sundays",
+    "start": "4:30 PM",
+    "end": "5:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 867,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 868,
+    "day": "Mondays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 869,
+    "day": "Wednesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 870,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 871,
+    "day": "Sundays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 872,
+    "day": "Tuesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 873,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 874,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 875,
+    "day": "Thursdays",
+    "start": "8:15 PM",
+    "end": "9:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 876,
+    "day": "Saturdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "S",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 877,
+    "day": "Wednesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Interpreted for the Deaf"
+  },
+  {
+    "datePK": 878,
+    "day": "Wednesdays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "B",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 879,
+    "day": "Wednesdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 880,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 881,
+    "day": "Sundays",
+    "start": "5:45 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 882,
+    "day": "Fridays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 883,
+    "day": "Mondays",
+    "start": "1:00 PM",
+    "end": "2:15 PM",
+    "meetingType": "S",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 884,
+    "day": "Tuesdays",
+    "start": "1:00 PM",
+    "end": "2:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 885,
+    "day": "Wednesdays",
+    "start": "1:00 PM",
+    "end": "2:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 886,
+    "day": "Thursdays",
+    "start": "1:00 PM",
+    "end": "2:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 887,
+    "day": "Saturdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 888,
+    "day": "Saturdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 889,
+    "day": "Saturdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 890,
+    "day": "Saturdays",
+    "start": "9:15 PM",
+    "end": "10:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 891,
+    "day": "Wednesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 892,
+    "day": "Fridays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 893,
+    "day": "Tuesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 894,
+    "day": "Mondays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 895,
+    "day": "Thursdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 896,
+    "day": "Sundays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "T",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 897,
+    "day": "Mondays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 898,
+    "day": "Tuesdays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 899,
+    "day": "Wednesdays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 900,
+    "day": "Thursdays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 901,
+    "day": "Saturdays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "C",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 902,
+    "day": "Fridays",
+    "start": "11:00 PM",
+    "end": "12:00 AM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 903,
+    "day": "Mondays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Interpreted for the Deaf"
+  },
+  {
+    "datePK": 904,
+    "day": "Wednesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "O",
+    "specialInterest": "Interpreted for the Deaf"
+  },
+  {
+    "datePK": 905,
+    "day": "Thursdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 906,
+    "day": "Saturdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 907,
+    "day": "Sundays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 908,
+    "day": "Saturdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 909,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 910,
+    "day": "Wednesdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 911,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 912,
+    "day": "Wednesdays",
+    "start": "8:15 PM",
+    "end": "9:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 913,
+    "day": "Saturdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "S",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 914,
+    "day": "Sundays",
+    "start": "10:30 AM",
+    "end": "11:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 915,
+    "day": "Sundays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 916,
+    "day": "Thursdays",
+    "start": "3:30 PM",
+    "end": "4:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 917,
+    "day": "Tuesdays",
+    "start": "3:30 PM",
+    "end": "4:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 918,
+    "day": "Tuesdays",
+    "start": "4:30 PM",
+    "end": "5:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 919,
+    "day": "Thursdays",
+    "start": "4:30 PM",
+    "end": "5:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 920,
+    "day": "Fridays",
+    "start": "4:30 PM",
+    "end": "5:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 921,
+    "day": "Saturdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "C",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 922,
+    "day": "Saturdays",
+    "start": "11:15 AM",
+    "end": "12:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 923,
+    "day": "Thursdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Agnostic"
+  },
+  {
+    "datePK": 924,
+    "day": "Wednesdays",
+    "start": "4:45 PM",
+    "end": "5:45 PM",
+    "meetingType": "OD",
+    "specialInterest": "Medication"
+  },
+  {
+    "datePK": 925,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 926,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 927,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 928,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 929,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 930,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 931,
+    "day": "Saturdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "Young People"
+  },
+  {
+    "datePK": 932,
+    "day": "Saturdays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Agnostic"
+  },
+  {
+    "datePK": 933,
+    "day": "Wednesdays",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 934,
+    "day": "Saturdays",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 935,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 936,
+    "day": "Thursdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 937,
+    "day": "Mondays",
+    "start": "12:00 PM",
+    "end": "1:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 938,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 939,
+    "day": "Mondays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 940,
+    "day": "Mondays",
+    "start": "12:00 PM",
+    "end": "1:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 941,
+    "day": "Tuesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 942,
+    "day": "Wednesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Special Purpose Groups"
+  },
+  {
+    "datePK": 943,
+    "day": "Saturdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 944,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "T",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 945,
+    "day": "Wednesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 946,
+    "day": "Mondays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 947,
+    "day": "Tuesdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 948,
+    "day": "Wednesdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 949,
+    "day": "Thursdays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 950,
+    "day": "Fridays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 951,
+    "day": "Mondays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 952,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 953,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 954,
+    "day": "Saturdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 955,
+    "day": "Fridays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 956,
+    "day": "Sundays",
+    "start": "3:30 PM",
+    "end": "4:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 957,
+    "day": "Tuesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 958,
+    "day": "Sundays",
+    "start": "5:00 PM",
+    "end": "5:45 PM",
+    "meetingType": "O",
+    "specialInterest": "Meditation"
+  },
+  {
+    "datePK": 959,
+    "day": "Sundays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 960,
+    "day": "Sundays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 961,
+    "day": "Sundays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 962,
+    "day": "Mondays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 963,
+    "day": "Tuesdays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 964,
+    "day": "Wednesdays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 965,
+    "day": "Thursdays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 966,
+    "day": "Fridays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 967,
+    "day": "Sundays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 968,
+    "day": "Saturdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 969,
+    "day": "Fridays",
+    "start": "6:15 PM",
+    "end": "7:30 PM",
+    "meetingType": "S",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 970,
+    "day": "Sundays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 971,
+    "day": "Wednesdays",
+    "start": "7:30 PM",
+    "end": "9:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 972,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "9:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 973,
+    "day": "Sundays",
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 974,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 975,
+    "day": "Fridays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 976,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "S",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 977,
+    "day": "Fridays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "S",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 978,
+    "day": "Mondays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "none",
+    "specialInterest": "Agnostic"
+  },
+  {
+    "datePK": 979,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 980,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 981,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 982,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 983,
+    "day": "Saturdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 984,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 985,
+    "day": "Wednesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "S",
+    "specialInterest": "Big Book Workshop"
+  },
+  {
+    "datePK": 986,
+    "day": "Saturdays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 987,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 988,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 989,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 990,
+    "day": "Thursdays",
+    "start": "8:15 PM",
+    "end": "9:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 991,
+    "day": "Mondays",
+    "start": "8:15 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 992,
+    "day": "Wednesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "S",
+    "specialInterest": "Twelve Steps"
+  },
+  {
+    "datePK": 993,
+    "day": "Tuesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 994,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 995,
+    "day": "Tuesdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 996,
+    "day": "Saturdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 997,
+    "day": "Saturdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 998,
+    "day": "Thursdays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 999,
+    "day": "Fridays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1000,
+    "day": "Mondays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1001,
+    "day": "Tuesdays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1002,
+    "day": "Wednesdays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1003,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1004,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1005,
+    "day": "Saturdays",
+    "start": "3:15 PM",
+    "end": "4:15 PM",
+    "meetingType": "S",
+    "specialInterest": "First Step Workshop"
+  },
+  {
+    "datePK": 1006,
+    "day": "Sundays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1007,
+    "day": "Tuesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "none",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1008,
+    "day": "Sundays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1009,
+    "day": "Tuesdays",
+    "start": "7:45 PM",
+    "end": "8:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1010,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1011,
+    "day": "Mondays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 1012,
+    "day": "Wednesdays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 1013,
+    "day": "Thursdays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 1014,
+    "day": "Fridays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 1015,
+    "day": "Mondays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 1016,
+    "day": "Tuesdays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 1017,
+    "day": "Mondays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1018,
+    "day": "Wednesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1019,
+    "day": "Mondays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1020,
+    "day": "Saturdays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "S",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 1021,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1022,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1023,
+    "day": "Fridays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1024,
+    "day": "Tuesdays",
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1025,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1026,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1027,
+    "day": "Saturdays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1028,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1029,
+    "day": "Wednesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1030,
+    "day": "Thursdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1031,
+    "day": "Mondays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1032,
+    "day": "Thursdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1033,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1034,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1035,
+    "day": "Saturdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1036,
+    "day": "Tuesdays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1037,
+    "day": "Mondays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "C",
+    "specialInterest": "Daily Reflections"
+  },
+  {
+    "datePK": 1038,
+    "day": "Fridays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1039,
+    "day": "Thursdays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1040,
+    "day": "Wednesdays",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "meetingType": "C",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 1041,
+    "day": "Tuesdays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1042,
+    "day": "Mondays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1043,
+    "day": "Fridays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1044,
+    "day": "Thursdays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1045,
+    "day": "Wednesdays",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1046,
+    "day": "Saturdays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1047,
+    "day": "Sundays",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1048,
+    "day": "Wednesdays",
+    "start": "8:30 AM",
+    "end": "9:30 AM",
+    "meetingType": "T",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1049,
+    "day": "Tuesdays",
+    "start": "8:30 AM",
+    "end": "9:30 AM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 1050,
+    "day": "Mondays",
+    "start": "8:30 AM",
+    "end": "9:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1051,
+    "day": "Fridays",
+    "start": "8:30 AM",
+    "end": "9:30 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1052,
+    "day": "Thursdays",
+    "start": "8:30 AM",
+    "end": "9:30 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1053,
+    "day": "Thursdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "T",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1054,
+    "day": "Wednesdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1055,
+    "day": "Tuesdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1056,
+    "day": "Mondays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1057,
+    "day": "Saturdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "C",
+    "specialInterest": "Children Welcome"
+  },
+  {
+    "datePK": 1058,
+    "day": "Sundays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1059,
+    "day": "Fridays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1060,
+    "day": "Thursdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1061,
+    "day": "Wednesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1062,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1063,
+    "day": "Mondays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1064,
+    "day": "Saturdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1065,
+    "day": "Sundays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1066,
+    "day": "Fridays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1067,
+    "day": "Saturdays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 1068,
+    "day": "Sundays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 1069,
+    "day": "Fridays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "S",
+    "specialInterest": "First Step Workshop"
+  },
+  {
+    "datePK": 1070,
+    "day": "Thursdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1071,
+    "day": "Wednesdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1072,
+    "day": "Tuesdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1073,
+    "day": "Mondays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1074,
+    "day": "Saturdays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "S",
+    "specialInterest": "Steps 1-2-3"
+  },
+  {
+    "datePK": 1075,
+    "day": "Sundays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "C",
+    "specialInterest": "As Bill Sees It"
+  },
+  {
+    "datePK": 1076,
+    "day": "Fridays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Children Welcome"
+  },
+  {
+    "datePK": 1077,
+    "day": "Thursdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1078,
+    "day": "Wednesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1079,
+    "day": "Tuesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1080,
+    "day": "Mondays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "T",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1081,
+    "day": "Saturdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1082,
+    "day": "Sundays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1083,
+    "day": "Sundays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Promises"
+  },
+  {
+    "datePK": 1084,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1085,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1086,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Sponsorship Workshop"
+  },
+  {
+    "datePK": 1087,
+    "day": "Saturdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1088,
+    "day": "Saturdays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1089,
+    "day": "Sundays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1090,
+    "day": "Fridays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1091,
+    "day": "Thursdays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1092,
+    "day": "Tuesdays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1093,
+    "day": "Mondays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1094,
+    "day": "Wednesdays",
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1095,
+    "day": "Saturdays",
+    "start": "9:15 AM",
+    "end": "10:15 AM",
+    "meetingType": "C",
+    "specialInterest": "Women"
+  },
+  {
+    "datePK": 1096,
+    "day": "Saturdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1097,
+    "day": "Sundays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1098,
+    "day": "Saturdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1099,
+    "day": "Tuesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1100,
+    "day": "Thursdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1101,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1102,
+    "day": "Tuesdays",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1103,
+    "day": "Fridays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1104,
+    "day": "Tuesdays",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1105,
+    "day": "Wednesdays",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "meetingType": "C",
+    "specialInterest": "Agnostic"
+  },
+  {
+    "datePK": 1106,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1107,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1108,
+    "day": "Wednesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1109,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1110,
+    "day": "Wednesdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1111,
+    "day": "Thursdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1112,
+    "day": "Fridays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1113,
+    "day": "Tuesdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1114,
+    "day": "Saturdays",
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1115,
+    "day": "Saturdays",
+    "start": "11:30 AM",
+    "end": "1:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1116,
+    "day": "Mondays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1117,
+    "day": "Wednesdays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1118,
+    "day": "Fridays",
+    "start": "12:15 PM",
+    "end": "1:15 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1119,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1120,
+    "day": "Mondays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "O",
+    "specialInterest": "Agnostic"
+  },
+  {
+    "datePK": 1121,
+    "day": "Sundays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1122,
+    "day": "Sundays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1123,
+    "day": "Thursdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1124,
+    "day": "Sundays",
+    "start": "6:00 PM",
+    "end": "7:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1125,
+    "day": "Mondays",
+    "start": "4:30 PM",
+    "end": "5:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1126,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1127,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1128,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1129,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1130,
+    "day": "Sundays",
+    "start": "3:00 PM",
+    "end": "4:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1131,
+    "day": "Sundays",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1132,
+    "day": "Sundays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1133,
+    "day": "Saturdays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 1134,
+    "day": "Mondays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1135,
+    "day": "Saturdays",
+    "start": "3:00 PM",
+    "end": "4:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1136,
+    "day": "Saturdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1137,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "none",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1138,
+    "day": "Wednesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1139,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 1140,
+    "day": "Sundays",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1141,
+    "day": "Thursdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1142,
+    "day": "Sundays",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1143,
+    "day": "Fridays",
+    "start": "5:30 PM",
+    "end": "6:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1144,
+    "day": "Tuesdays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1145,
+    "day": "Saturdays",
+    "start": "9:30 AM",
+    "end": "11:00 AM",
+    "meetingType": "BB",
+    "specialInterest": "Big Book Workshop"
+  },
+  {
+    "datePK": 1146,
+    "day": "Tuesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1147,
+    "day": "Saturdays",
+    "start": "4:15 PM",
+    "end": "5:30 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1148,
+    "day": "Tuesdays",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 1149,
+    "day": "Sundays",
+    "start": "5:00 PM",
+    "end": "6:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1150,
+    "day": "Mondays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1151,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1152,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1153,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1154,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1155,
+    "day": "Saturdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1156,
+    "day": "Sundays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "T",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1157,
+    "day": "Mondays",
+    "start": "1:00 PM",
+    "end": "2:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1158,
+    "day": "Thursdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1159,
+    "day": "Fridays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 1160,
+    "day": "Mondays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1161,
+    "day": "Tuesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1162,
+    "day": "Wednesdays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1163,
+    "day": "Mondays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1164,
+    "day": "Tuesdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "B",
+    "specialInterest": "Living Sober"
+  },
+  {
+    "datePK": 1165,
+    "day": "Wednesdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1166,
+    "day": "Thursdays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1167,
+    "day": "Fridays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1168,
+    "day": "Sundays",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1169,
+    "day": "Sundays",
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1170,
+    "day": "Wednesdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "S",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1171,
+    "day": "Saturdays",
+    "start": "12:30 PM",
+    "end": "2:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay Men"
+  },
+  {
+    "datePK": 1172,
+    "day": "Wednesdays",
+    "start": "8:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1173,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1174,
+    "day": "Sundays",
+    "start": "5:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1175,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1176,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1177,
+    "day": "Saturdays",
+    "start": "8:00 PM",
+    "end": "10:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1178,
+    "day": "Tuesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1179,
+    "day": "Thursdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1180,
+    "day": "Thursdays",
+    "start": "9:30 PM",
+    "end": "10:30 AM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1181,
+    "day": "Tuesdays",
+    "start": "9:30 PM",
+    "end": "10:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1182,
+    "day": "Sundays",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1183,
+    "day": "Tuesdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1184,
+    "day": "Thursdays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1185,
+    "day": "Mondays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1186,
+    "day": "Fridays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1187,
+    "day": "Sundays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "C",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 1188,
+    "day": "Wednesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "B",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "datePK": 1189,
+    "day": "Saturdays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "B",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1190,
+    "day": "Saturdays",
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1191,
+    "day": "Tuesdays",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1192,
+    "day": "Mondays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1193,
+    "day": "Fridays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1194,
+    "day": "Mondays",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "meetingType": "C",
+    "specialInterest": "Men"
+  },
+  {
+    "datePK": 1195,
+    "day": "Fridays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1196,
+    "day": "Thursdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "OD",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1197,
+    "day": "Saturdays",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1198,
+    "day": "Tuesdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "O",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1199,
+    "day": "Thursdays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1200,
+    "day": "Sundays",
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "meetingType": "C",
+    "specialInterest": "none"
+  },
+  {
+    "datePK": 1201,
+    "day": "Mondays",
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "meetingType": "BB",
+    "specialInterest": "none"
+  }
+]

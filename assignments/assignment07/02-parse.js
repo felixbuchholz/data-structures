@@ -117,12 +117,13 @@ async function processFiles(paths) {
           // CREATE DATE OBJECT
             const date = {
               datePK: datePK,
-              day: dateElem.match(/[SMTWF]\w+?days/g),
+              day: dateElem.match(/[SMTWF]\w+?days/g)[0],
               start: dateElem.match(/\d\d?:\d\d [A|P]M/g)[0],
               end: dateElem.match(/\d\d?:\d\d [A|P]M/g)[1],
-              meetingType: dateElem.match(/(?<=Meeting Type\<\/b\> )[A-Z]{1,2}/g),
-              specialInterest: dateElem.match(/(?<=Special Interest\<\/b\> )(.*)/g)
+              meetingType: dateElem.match(/(?<=Meeting Type\<\/b\> )[A-Z]{1,2}/g) ? dateElem.match(/(?<=Meeting Type\<\/b\> )[A-Z]{1,2}/g)[0] : 'none',
+              specialInterest: dateElem.match(/(?<=Special Interest\<\/b\> )(.*)/g) ? dateElem.match(/(?<=Special Interest\<\/b\> )(.*)/g)[0] : 'none'
             }
+            dateTable.push(date);
 
             // CREATE ADDRESS OBJECT
             let address;
@@ -248,6 +249,7 @@ async function processFiles(paths) {
   writeFile('data/parsed/parsed-groupTable.json', JSON.stringify(groupTable, null, 2));
   writeFile('data/parsed/parsed-addressTable.json', JSON.stringify(addressTable, null, 2));
   writeFile('data/parsed/parsed-locationTable.json', JSON.stringify(locationTable, null, 2));
+  writeFile('data/parsed/parsed-dateTable.json', JSON.stringify(dateTable, null, 2));
   // console.log('Done!');
 }
 
