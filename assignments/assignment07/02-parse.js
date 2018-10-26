@@ -11,7 +11,7 @@ const paths = getPaths();
 
 function getPaths() {
   let paths = [];
-  for (var i = 1; i <= 1; i++) {
+  for (var i = 1; i <= 10; i++) {
     i = (i < 10) ? i = '0' + i : i;
     const path = `data/text/aa-meetings${i}.txt`
     paths.push(path)
@@ -124,8 +124,6 @@ async function processFiles(paths) {
               specialInterest: dateElem.match(/(?<=Special Interest\<\/b\> )(.*)/g)
             }
 
-
-
             // CREATE ADDRESS OBJECT
             let address;
             if (!addressTable.some(e => e.street === getStreet(delArr))) {
@@ -159,14 +157,20 @@ async function processFiles(paths) {
             // CREATE LOCATION OBJECT
             let location;
             let equalDetails;
+            let equalAddress;
+            let equalLocation;
             let tableIndex = -1
             for (var i = 0; i < locationTable.length; i++) {
               if (locationTable[i].details.join() == getDetails('location', firstTD).join()) {
                 equalDetails = true;
-                tableIndex = i;
+                if (locationTable[i].addressFK == address.addressPK) {
+                  equalAddress = true;
+                  tableIndex = i;
+                }
               }
             }
-            if (!equalDetails) {
+            equalLocation = equalDetails && equalAddress;
+            if (!equalLocation) {
                 locationPK++;
                 console.log('new', locationPK);
                 location = {

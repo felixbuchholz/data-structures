@@ -193,6 +193,13 @@
   {
     "locationPK": 20,
     "name": "Hazelden Center",
+    "details": [],
+    "wheelchairAccess": false,
+    "addressFK": 6
+  },
+  {
+    "locationPK": 21,
+    "name": "Hazelden Center",
     "details": [
       "Between West Broadway and Canal Street"
     ],
@@ -200,12 +207,3045 @@
     "addressFK": 6
   },
   {
-    "locationPK": 21,
+    "locationPK": 22,
     "name": "Hazelden Center",
     "details": [
       "At Canal Street"
     ],
     "wheelchairAccess": true,
     "addressFK": 6
+  },
+  {
+    "locationPK": 23,
+    "name": "University Settlement",
+    "details": [
+      "Downstairs",
+      "@ Houston Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 9
+  },
+  {
+    "locationPK": 24,
+    "name": "Manhattan Seventh-Day Adventist Church",
+    "details": [
+      "Off 7th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 10
+  },
+  {
+    "locationPK": 25,
+    "name": "Hazelden Center",
+    "details": [
+      "@ Canal Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 6
+  },
+  {
+    "locationPK": 26,
+    "name": "Seventh Day Adventist Church",
+    "details": [
+      "Between Waverly and West 4th Streets"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 10
+  },
+  {
+    "locationPK": 27,
+    "name": "",
+    "details": [
+      "2nd Floor",
+      "Between 6th Avenue and Varick Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 11
+  },
+  {
+    "locationPK": 28,
+    "name": "Golden Bridge Yoga Center",
+    "details": [
+      "3rd Floor",
+      "@ Broome Street",
+      "No shoes worn in meeting location"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 12
+  },
+  {
+    "locationPK": 29,
+    "name": "University Settlement (The Chinatown YMCA)",
+    "details": [
+      "@ Houston Street",
+      "Ask front desk for meeting location"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 9
+  },
+  {
+    "locationPK": 30,
+    "name": "St. Luke's Episcopal School",
+    "details": [
+      "Basement",
+      "South of Christopher Street - behind church"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 13
+  },
+  {
+    "locationPK": 31,
+    "name": "St. Augustine's Church",
+    "details": [
+      "Basement",
+      "A la isquierda de la iglesia"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 14
+  },
+  {
+    "locationPK": 32,
+    "name": "Manhattan Church of The Seventh-day Adventist",
+    "details": [
+      "Between Waverly Place and West 4th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 10
+  },
+  {
+    "locationPK": 33,
+    "name": "Church of Saint Theresa Rectory",
+    "details": [
+      "1st Floor",
+      "Between Henry and Rutgers Streets"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 15
+  },
+  {
+    "locationPK": 34,
+    "name": "St. John's Lutheran Church",
+    "details": [
+      "Left of Church",
+      "West of 7th Avenue, Enter Left, Red Door, Ring Buzzer"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 16
+  },
+  {
+    "locationPK": 35,
+    "name": "",
+    "details": [
+      "Ground Floor",
+      "Between 7th Avenue South and West 4th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 17
+  },
+  {
+    "locationPK": 36,
+    "name": "Seventh Day Adventist Church",
+    "details": [
+      "Off 7th Ave, downstairs in Junior Room"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 10
+  },
+  {
+    "locationPK": 37,
+    "name": "St. John's Episcopal Church",
+    "details": [
+      "1st floor event room",
+      "@ 11th Street and 7th Avenue South"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 18
+  },
+  {
+    "locationPK": 38,
+    "name": "St. Anthony's of Padua",
+    "details": [
+      "Enter on Sullivan Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 19
+  },
+  {
+    "locationPK": 39,
+    "name": "Chinatown YMCA",
+    "details": [],
+    "wheelchairAccess": true,
+    "addressFK": 20
+  },
+  {
+    "locationPK": 40,
+    "name": "St. Joseph's Church",
+    "details": [
+      "Basement",
+      "@ Corner of 6th Avenue and Washington Place"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 21
+  },
+  {
+    "locationPK": 41,
+    "name": "St. Anthony of Padua Church",
+    "details": [
+      "Basement",
+      "@ Houston Street",
+      "Friday Meeting occasionally changes the location",
+      "Please call New York Inter-Group to confirm meeting location"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 22
+  },
+  {
+    "locationPK": 42,
+    "name": "The Bronfman Cernter @ NYU",
+    "details": [
+      "@ Houston Street",
+      "Lower level"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 23
+  },
+  {
+    "locationPK": 43,
+    "name": "Seventh Adventist Church",
+    "details": [
+      "Basement",
+      "Waverly Place @ 7th Avenue South"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 10
+  },
+  {
+    "locationPK": 44,
+    "name": "St. John's Lutheran Church",
+    "details": [
+      "Enter at 83, basement",
+      "Please ring Meeting Bell only"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 24
+  },
+  {
+    "locationPK": 45,
+    "name": "Manhattan Seventh-Day Adventist Church",
+    "details": [
+      "Just off of 7th avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 10
+  },
+  {
+    "locationPK": 46,
+    "name": "Manhattan Church of The Seventh-day Adventist",
+    "details": [
+      "Between 7th Avenue and West 4th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 10
+  },
+  {
+    "locationPK": 47,
+    "name": "St. John's Lutheran Church",
+    "details": [
+      "Basement",
+      "Between Bleeker and 7th Avenue",
+      "Enter through Red Door left of church, Buzzer-Meeting Room"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 16
+  },
+  {
+    "locationPK": 48,
+    "name": "University Settlement @ Houston Street Center",
+    "details": [
+      "Classroom Floor",
+      "@ The corner of Houston Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 9
+  },
+  {
+    "locationPK": 49,
+    "name": "N.Y.U Bronfman Center",
+    "details": [
+      "2nd Floor"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 25
+  },
+  {
+    "locationPK": 50,
+    "name": "Gustavus Adolphus Church",
+    "details": [
+      "Basement",
+      "Between Lexington and 3rd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 26
+  },
+  {
+    "locationPK": 51,
+    "name": "Three Jewels Community Center",
+    "details": [
+      "3rd Floor",
+      "9th and 10th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 27
+  },
+  {
+    "locationPK": 52,
+    "name": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "details": [
+      "3rd Floor, Room #312",
+      "Between 7th and 8th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 28
+  },
+  {
+    "locationPK": 53,
+    "name": "Seafarers & Intl House",
+    "details": [
+      "2nd Floor Conference Room",
+      "@ Irving Place"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 29
+  },
+  {
+    "locationPK": 54,
+    "name": "Calvary Church Parish House",
+    "details": [
+      "Between Park and Lexington Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 30
+  },
+  {
+    "locationPK": 55,
+    "name": "Gustavus Adolphus Lutheran Church",
+    "details": [
+      "Ground Floor",
+      "Between Lexington and 3rd Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 26
+  },
+  {
+    "locationPK": 56,
+    "name": "Mabel Bacon High School of the Future",
+    "details": [
+      "2nd Floor Auditorium",
+      "Between Lexington and Park Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 31
+  },
+  {
+    "locationPK": 57,
+    "name": "Trinity Lower East Side Lutheran Parish",
+    "details": [
+      "@ Avenue B",
+      "Ground Floor"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 32
+  },
+  {
+    "locationPK": 58,
+    "name": "McBurney YMCA",
+    "details": [
+      "Kuttner Room",
+      "Between 6th and 7th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 33
+  },
+  {
+    "locationPK": 59,
+    "name": "St. Peters Episcopal Church- Rectory",
+    "details": [
+      "Between 8th and 9th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 34
+  },
+  {
+    "locationPK": 60,
+    "name": "McBurney YMCA",
+    "details": [
+      "Ground Floor",
+      "Between 6th and 7th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 33
+  },
+  {
+    "locationPK": 61,
+    "name": "Our Lady of Immaculate Conception",
+    "details": [
+      "Auditorium",
+      "Between 1st Avenue and Avenue A"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 35
+  },
+  {
+    "locationPK": 62,
+    "name": "Fulton Senior Center",
+    "details": [
+      "Between 17th and 18th Streets",
+      "Auditorium"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 36
+  },
+  {
+    "locationPK": 63,
+    "name": "Christopher House",
+    "details": [
+      "Mezzanine",
+      "Between 7th and 8th Avenues",
+      "Check in at front desk"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 37
+  },
+  {
+    "locationPK": 64,
+    "name": "Brotherhood Synagogue",
+    "details": [
+      "1st Floor",
+      "East 20th Street @ Irving Place"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 38
+  },
+  {
+    "locationPK": 65,
+    "name": "Middle Collegiate Church",
+    "details": [
+      "3rd and 4th floors",
+      "@2nd Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 39
+  },
+  {
+    "locationPK": 66,
+    "name": "University Settlement House",
+    "details": [
+      "2nd Floor Classroom",
+      "Southeast corner of Houston Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 9
+  },
+  {
+    "locationPK": 67,
+    "name": "Grace Church Office Building",
+    "details": [
+      "3rd Floor Conference Room",
+      "@ 10th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 40
+  },
+  {
+    "locationPK": 68,
+    "name": "Brothhood Synagogue",
+    "details": [
+      "2nd floor",
+      "East 20th Street between 3rd Avenue and Irving Place"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 41
+  },
+  {
+    "locationPK": 69,
+    "name": "Saint George Episcopal Church",
+    "details": [
+      "Basement",
+      "Between 3rd Avenue and Rutherford Place",
+      "Tuesday Topic = Gratitude, Thursday = 11th Step Meditation Meeting"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 42
+  },
+  {
+    "locationPK": 70,
+    "name": "Church of the Nativity",
+    "details": [
+      "Main Floor",
+      "Between East 2nd and 3rd Streets"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 43
+  },
+  {
+    "locationPK": 71,
+    "name": "Our Lady of Guadalupe Church",
+    "details": [
+      "Between 7th and 8th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 44
+  },
+  {
+    "locationPK": 72,
+    "name": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "details": [
+      "Between 7th and 8th Avenues",
+      "Check listing at the center for the room number"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 28
+  },
+  {
+    "locationPK": 73,
+    "name": "Brotherhood Synagogue",
+    "details": [
+      "@ East 20th Street and Irving Place"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 38
+  },
+  {
+    "locationPK": 74,
+    "name": "Lesbian, Gay, Bisexual, & Transgender Community Center",
+    "details": [
+      "Room 212",
+      "Between 7th Avenue and Greenwich Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 45
+  },
+  {
+    "locationPK": 75,
+    "name": "The Upright Citizens Brigade Theatre",
+    "details": [
+      "At 8th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 46
+  },
+  {
+    "locationPK": 76,
+    "name": "St. Columba Church",
+    "details": [
+      "Downstairs"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 47
+  },
+  {
+    "locationPK": 77,
+    "name": "Theatre 80",
+    "details": [
+      "2nd Floor",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 48
+  },
+  {
+    "locationPK": 78,
+    "name": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "details": [
+      "Between 7th and 8th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 28
+  },
+  {
+    "locationPK": 79,
+    "name": "Intercare",
+    "details": [
+      "Lower Level",
+      "Between Madison and Park Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 49
+  },
+  {
+    "locationPK": 80,
+    "name": "Gustavus Adolphus Church",
+    "details": [
+      "Basement",
+      "Between 3rd and Lex Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 26
+  },
+  {
+    "locationPK": 81,
+    "name": "Bronfman Center",
+    "details": [
+      "2nd Floor Note: A photo ID is required to enter the building",
+      "Between 5th Avenue and University Place"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 25
+  },
+  {
+    "locationPK": 82,
+    "name": "German Evangelist Lutheran Church of St. Paul",
+    "details": [
+      "1st Floor",
+      "Between 8th and 9th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 50
+  },
+  {
+    "locationPK": 83,
+    "name": "Friends Meeting House",
+    "details": [
+      "Basement",
+      "Between 2nd and 3rd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 51
+  },
+  {
+    "locationPK": 84,
+    "name": "The Realization Center",
+    "details": [],
+    "wheelchairAccess": false,
+    "addressFK": 52
+  },
+  {
+    "locationPK": 85,
+    "name": "General Theological Seminary",
+    "details": [
+      "1st and 2nd Floor",
+      "Enter through gate on 21st Street between 9th and 10th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 53
+  },
+  {
+    "locationPK": 86,
+    "name": "The Realization Center",
+    "details": [
+      "7th Floor, Conference Room B",
+      "Between 5th Avenue and Broadway"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 54
+  },
+  {
+    "locationPK": 87,
+    "name": "Gustavus Adolphus Church",
+    "details": [
+      "1st Floor",
+      "Between Lexington and 3rd Avenues",
+      "Monday BB Meeting is in the basement, Tuesday 6:45pm = Tradition meeting Last Tuesday",
+      "Basement is not Wheel Chair Accessible"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 26
+  },
+  {
+    "locationPK": 88,
+    "name": "Veterans Administration Hospital",
+    "details": [
+      "3rd fl, Conference Room 3076 south",
+      "@ Main entrance is East of 1st Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 55
+  },
+  {
+    "locationPK": 89,
+    "name": "St. George's Church",
+    "details": [
+      "Olmstead Hall",
+      "Between 3rd Avenue and Rutherford Place"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 42
+  },
+  {
+    "locationPK": 90,
+    "name": "",
+    "details": [
+      "Between 1st Avenue and Avenue A"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 56
+  },
+  {
+    "locationPK": 91,
+    "name": "St. George's Church",
+    "details": [
+      "Between 3rd Avenue and Rutherford Place",
+      "Beginners meeting meets in Olmsted Hall",
+      "Big Book topic meeting meets in the Music Room"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 42
+  },
+  {
+    "locationPK": 92,
+    "name": "Epiphany Roman Catholic Church",
+    "details": [
+      "Church Rectory",
+      "Between 2nd and 3rd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 57
+  },
+  {
+    "locationPK": 93,
+    "name": "First Presbyterian Church",
+    "details": [
+      "6th Floor-Roof Level",
+      "Between 5th and 6th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 58
+  },
+  {
+    "locationPK": 94,
+    "name": "Church of the Nativity",
+    "details": [
+      "Between East 2nd and 3rd Streets"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 43
+  },
+  {
+    "locationPK": 95,
+    "name": "Church of the Ascension Parish House",
+    "details": [
+      "Ground Floor",
+      "Between 5th Avenue and Avenue of the Americas"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 59
+  },
+  {
+    "locationPK": 96,
+    "name": "PS 41 Elementary School",
+    "details": [],
+    "wheelchairAccess": false,
+    "addressFK": 60
+  },
+  {
+    "locationPK": 97,
+    "name": "",
+    "details": [
+      "14th Floor, Room #1408C",
+      "@ 14th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 61
+  },
+  {
+    "locationPK": 98,
+    "name": "P.S. 41 (see footnote re: temp location)",
+    "details": [
+      "Cafeteria",
+      "Between 6th and 7th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 60
+  },
+  {
+    "locationPK": 99,
+    "name": "Gustavus Adolphus Church",
+    "details": [
+      "Between Lexington Avenue and Third Avenue",
+      "Meeting In Basement"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 26
+  },
+  {
+    "locationPK": 100,
+    "name": "East Midtown Plaza (Community Room H)",
+    "details": [
+      "Between First aqnd Second Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 62
+  },
+  {
+    "locationPK": 101,
+    "name": "Beth Israel Hospital @ Karpas Cancer Center Library",
+    "details": [
+      "4th Floor, Conf.Rm.#4A18",
+      "@14th Street",
+      "Enter through Room 4A to go to #4A18"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 63
+  },
+  {
+    "locationPK": 102,
+    "name": "All Saints Ukrainian Orthodox Church",
+    "details": [
+      "Between 2nd and 3rd Avenues",
+      "Ground Floor"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 64
+  },
+  {
+    "locationPK": 103,
+    "name": "Seafarers & International House",
+    "details": [
+      "2nd Floor",
+      "@ Irving Place"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 29
+  },
+  {
+    "locationPK": 104,
+    "name": "",
+    "details": [
+      "Basement",
+      "Between 1st Avenue and Avenue A",
+      "Monday 5:30 = Gratitude and Saturday 7:30am = AA Grapevine"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 56
+  },
+  {
+    "locationPK": 105,
+    "name": "McBurney YMCA",
+    "details": [
+      "1st Floor Meeting Room",
+      "Between 6th and 7th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 33
+  },
+  {
+    "locationPK": 106,
+    "name": "LGBT Community Center",
+    "details": [
+      "Between 7th Ave and Greenwich Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 28
+  },
+  {
+    "locationPK": 107,
+    "name": "Beth Israel Phillips Ambulatory Center",
+    "details": [
+      "2nd Floor, Conference Room #3",
+      "Between 14th and 15th Streets @ 4th Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 65
+  },
+  {
+    "locationPK": 108,
+    "name": "St. Francis Residence",
+    "details": [
+      "1st Floor",
+      "Between 6th and 7th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 66
+  },
+  {
+    "locationPK": 109,
+    "name": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "details": [
+      "Between 7th and 8th Avenues",
+      "No Prayers - All Welcome - Check listing for Room #"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 28
+  },
+  {
+    "locationPK": 110,
+    "name": "First Presbyterian Church",
+    "details": [
+      "Third Floor",
+      "At 5th Avenue between 11th and 12th Streets"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 58
+  },
+  {
+    "locationPK": 111,
+    "name": "The Caring Community",
+    "details": [
+      "2nd Floor",
+      "5th Avenue and MacDougal Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 67
+  },
+  {
+    "locationPK": 112,
+    "name": "14th Street Y",
+    "details": [
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 68
+  },
+  {
+    "locationPK": 113,
+    "name": "St. Francis Residence",
+    "details": [
+      "1st Floor",
+      "Off of 7th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 66
+  },
+  {
+    "locationPK": 114,
+    "name": "Trinity Lutheran Church",
+    "details": [
+      "Ground Floor",
+      "@ Avenue B"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 32
+  },
+  {
+    "locationPK": 115,
+    "name": "Realization Center",
+    "details": [
+      "7th Floor, Ask for room #",
+      "Enter on 15th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 54
+  },
+  {
+    "locationPK": 116,
+    "name": "Most Holy Redeemer Church",
+    "details": [
+      "Between Avenues A and B"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 69
+  },
+  {
+    "locationPK": 117,
+    "name": "Middle Collegiate Church ",
+    "details": [
+      "Between 1st and 2nd Avenue",
+      "Basement"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 39
+  },
+  {
+    "locationPK": 118,
+    "name": "46th Street Club House",
+    "details": [
+      "3rd Floor",
+      "Between Broadway and 8th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 70
+  },
+  {
+    "locationPK": 119,
+    "name": "",
+    "details": [
+      "Room #404",
+      "Between 8th and 9th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 71
+  },
+  {
+    "locationPK": 120,
+    "name": "",
+    "details": [
+      "3rd Floor, Room #306",
+      "Between 8th and 9th Avenues",
+      "Sunday = 11th Step, Wednesday = Gratitude, Thursday = Daily Reflections"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 71
+  },
+  {
+    "locationPK": 121,
+    "name": "S.A.G.E.",
+    "details": [
+      "6th Floor",
+      "Between 27th and 28th Streets"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 72
+  },
+  {
+    "locationPK": 122,
+    "name": "Saint Thomas Church",
+    "details": [
+      "3rd Floor, Andrew Hall",
+      "Between 5th and 6th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 73
+  },
+  {
+    "locationPK": 123,
+    "name": "",
+    "details": [
+      "3rd Floor, Room #306",
+      "@ Corner of 8th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 71
+  },
+  {
+    "locationPK": 124,
+    "name": "St. Mary the Virgin Church",
+    "details": [
+      "3rd Floor",
+      "Between 6th and 7th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 74
+  },
+  {
+    "locationPK": 125,
+    "name": "Hudson Guild",
+    "details": [
+      "2nd Fl., Activity Room A",
+      "Between 9th and 10th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 75
+  },
+  {
+    "locationPK": 126,
+    "name": "GMHC",
+    "details": [
+      "6th Floor, Room #6046",
+      "@ 10th Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 76
+  },
+  {
+    "locationPK": 127,
+    "name": "46th Street Clubhouse",
+    "details": [
+      "3rd Floor",
+      "Between 7th and 8th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 70
+  },
+  {
+    "locationPK": 128,
+    "name": "The Actor's Temple",
+    "details": [
+      "Between 8th and 9th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 77
+  },
+  {
+    "locationPK": 129,
+    "name": "",
+    "details": [
+      "8th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 71
+  },
+  {
+    "locationPK": 130,
+    "name": "St. Francis of Assisi Education Center",
+    "details": [
+      "3rd Floor",
+      "Between 6th and 7th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 78
+  },
+  {
+    "locationPK": 131,
+    "name": "Trinity Presbyterian Church",
+    "details": [
+      "Upstairs",
+      "Between 9th and 10th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 79
+  },
+  {
+    "locationPK": 132,
+    "name": "St. John's Hall",
+    "details": [
+      "Between 7th and 8th Avenues, Basement"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 80
+  },
+  {
+    "locationPK": 133,
+    "name": "St. Thomas Church",
+    "details": [
+      "3rd Floor",
+      "Between 5th and 6th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 73
+  },
+  {
+    "locationPK": 134,
+    "name": "Trinity Presbyterian Church",
+    "details": [
+      "Between 9th and 10th Avenues",
+      "Beginners upstairs",
+      "Other meetings in the chapel"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 79
+  },
+  {
+    "locationPK": 135,
+    "name": "Fifth Av Presbyterian Church",
+    "details": [
+      "5th Floor",
+      "@ 5th Avenue",
+      "Monday through Thursday Beginners Meeting 5th floor",
+      "Monday through Thursday Open Discussion 3rd floor"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 81
+  },
+  {
+    "locationPK": 136,
+    "name": "46th Street Club House",
+    "details": [
+      "Between Broadway and 8th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 70
+  },
+  {
+    "locationPK": 137,
+    "name": "The Actors Fund of America",
+    "details": [
+      "10th Floor small conference room",
+      "@ 49th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 82
+  },
+  {
+    "locationPK": 138,
+    "name": "Apartment Building",
+    "details": [
+      "Between 10th and 11th Avenuess"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 83
+  },
+  {
+    "locationPK": 139,
+    "name": "Mount Sinai - Roosevelt Hospital",
+    "details": [
+      "8th Floor Room #8G49",
+      "Between 58th and 59th Streets",
+      "NOTE: On legal holidays, the meeting meets on the 1st Floor Ask for the room at the reception desk"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 84
+  },
+  {
+    "locationPK": 140,
+    "name": "Upright Citizens Brigade Theatre",
+    "details": [
+      "26th Street and 8th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 46
+  },
+  {
+    "locationPK": 141,
+    "name": "St. Paul's Episcopal Parish House",
+    "details": [
+      "Ninth Avenue",
+      "Room LL2"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 85
+  },
+  {
+    "locationPK": 142,
+    "name": "",
+    "details": [
+      "Between 8th and 9th Avenues - Room 404",
+      "Last Saturday meets at 252 West 46th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 71
+  },
+  {
+    "locationPK": 143,
+    "name": "Trinity Presbyterian Church ",
+    "details": [
+      "Between 9th and 10th Aves",
+      "Second Floor"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 79
+  },
+  {
+    "locationPK": 144,
+    "name": "St. Mary the Virgin Church",
+    "details": [
+      "2nd and 3rd Floor",
+      "Between 6th and 7th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 74
+  },
+  {
+    "locationPK": 145,
+    "name": "",
+    "details": [
+      "Room #306",
+      "Between 8th and 9th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 71
+  },
+  {
+    "locationPK": 146,
+    "name": "Holy Apostles Church Rectory",
+    "details": [
+      "2nd Floor",
+      "Corner of West 28th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 86
+  },
+  {
+    "locationPK": 147,
+    "name": "St. Thomas Church",
+    "details": [
+      "3rd Floor"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 73
+  },
+  {
+    "locationPK": 148,
+    "name": "Manhattan Plaza Health Club",
+    "details": [
+      "1st Floor",
+      "@ 43rd Street and 10th Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 87
+  },
+  {
+    "locationPK": 149,
+    "name": "Fifth Av Presbyterian Church",
+    "details": [
+      "@ 5th Av"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 81
+  },
+  {
+    "locationPK": 150,
+    "name": "46th Street Club House",
+    "details": [
+      "3rd Floor",
+      "Between Broadway and 8 Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 70
+  },
+  {
+    "locationPK": 151,
+    "name": "The Learning Center",
+    "details": [
+      "Off of 5th Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 88
+  },
+  {
+    "locationPK": 152,
+    "name": "Church of The Holy Apostles",
+    "details": [
+      "Rectory, 1st Floor",
+      "@28th street, Enter at 9th avenue, small building south of the church"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 89
+  },
+  {
+    "locationPK": 153,
+    "name": "St. Thomas Church Parish House",
+    "details": [
+      "3rd Floor",
+      "@ 5th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 73
+  },
+  {
+    "locationPK": 154,
+    "name": "St. John the Baptist Church",
+    "details": [
+      "Basement On Left",
+      "Between 7th and 8th Aves"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 90
+  },
+  {
+    "locationPK": 155,
+    "name": "Trinity Presbyterian Church",
+    "details": [
+      "Between 9th and 10th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 79
+  },
+  {
+    "locationPK": 156,
+    "name": "",
+    "details": [],
+    "wheelchairAccess": true,
+    "addressFK": 91
+  },
+  {
+    "locationPK": 157,
+    "name": "Mount Sinai - Roosevelt Hospital",
+    "details": [
+      "8th Fl, Room #8G-49",
+      "Between 58th and 59th Streets"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 84
+  },
+  {
+    "locationPK": 158,
+    "name": "GMHC",
+    "details": [
+      "Between 9th and 10th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 76
+  },
+  {
+    "locationPK": 159,
+    "name": "St. Clements Church",
+    "details": [
+      "Between 9th and 10th",
+      "Downstairs"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 92
+  },
+  {
+    "locationPK": 160,
+    "name": "46th Street Club House",
+    "details": [
+      "3rd Floor",
+      "Between 7th and 8th Avenues @ 46th Street Clubhouse"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 70
+  },
+  {
+    "locationPK": 161,
+    "name": "",
+    "details": [
+      "Basement",
+      "Between Park and Lexington Avenues",
+      "FRONT BASEMENTER ONLY"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 93
+  },
+  {
+    "locationPK": 162,
+    "name": "",
+    "details": [
+      "Between Madison and Park Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 94
+  },
+  {
+    "locationPK": 163,
+    "name": "Cathedral High School",
+    "details": [
+      "Between 1st and 2nd Avenues",
+      "3rd Floor library"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 95
+  },
+  {
+    "locationPK": 164,
+    "name": "St. Peter's Lutheran Church @ Citicorp Center",
+    "details": [
+      "Lower Level Music Rooms",
+      "Enter on 54th Street, between Lexington and 3rd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 96
+  },
+  {
+    "locationPK": 165,
+    "name": "",
+    "details": [
+      "Basement",
+      "Between Park and Lexington Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 93
+  },
+  {
+    "locationPK": 166,
+    "name": "J.H. Holmes Community House",
+    "details": [
+      "Upstairs, through red door, 1st room on right"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 97
+  },
+  {
+    "locationPK": 167,
+    "name": "Cathedral High School ",
+    "details": [
+      "56th Street and First Avenue, 3rd Floor Library"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 95
+  },
+  {
+    "locationPK": 168,
+    "name": "Soldiers, Sailors, Marines & Airmen's Club",
+    "details": [
+      "2nd Floor",
+      "Between 36th and 37th Streets"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 98
+  },
+  {
+    "locationPK": 169,
+    "name": "St. Peter's Lutheran Church @ CitiCorp Center",
+    "details": [
+      "Lower Level 2 in The Studio",
+      "Enter on 54th Street, between Lexington and 3rd Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 96
+  },
+  {
+    "locationPK": 170,
+    "name": "Saint Agnes Church",
+    "details": [
+      "Basement Hall, elevator is available",
+      "Between Lexington and 3rd Avenues",
+      "Enter main Church entrance, turn left, meeting is downstairs"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 99
+  },
+  {
+    "locationPK": 171,
+    "name": "MUSTARD SEED",
+    "details": [
+      "Between Park and Lexington"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 100
+  },
+  {
+    "locationPK": 172,
+    "name": "Mustard Seed",
+    "details": [
+      "Between Park and Lexington Avenues",
+      "ENTER BASEMENT ONLY"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 93
+  },
+  {
+    "locationPK": 173,
+    "name": "St. Agnes Church",
+    "details": [
+      "Between Lexington and 3rd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 99
+  },
+  {
+    "locationPK": 174,
+    "name": "Church of the Incarnation",
+    "details": [
+      "2nd Floor",
+      "Enter through side door @ 35th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 101
+  },
+  {
+    "locationPK": 175,
+    "name": "",
+    "details": [
+      "Basement",
+      "Between Park and Lexington Avenues",
+      "Thursday 8am back room, Gratitude"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 93
+  },
+  {
+    "locationPK": 176,
+    "name": "St. Peter's Lutheran Church @ CitiCorp Center",
+    "details": [
+      "Lower Level",
+      "Enter on 54th Street, between Lexington and 3rd Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 96
+  },
+  {
+    "locationPK": 177,
+    "name": "Church of the Good Shepherd",
+    "details": [],
+    "wheelchairAccess": true,
+    "addressFK": 102
+  },
+  {
+    "locationPK": 178,
+    "name": "The New York New Church",
+    "details": [
+      "2nd Floor",
+      "Between Park and Lexington Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 103
+  },
+  {
+    "locationPK": 179,
+    "name": "ALL SAINTS CHURCH",
+    "details": [
+      "Between 2nd and 3rd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 104
+  },
+  {
+    "locationPK": 180,
+    "name": "Caron Foundation",
+    "details": [
+      "Between 2nd and 3rd Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 105
+  },
+  {
+    "locationPK": 181,
+    "name": "St. Bartholomew's Church",
+    "details": [
+      "Between East 50th and 51st Streets",
+      "NOTE: Monday and Wednesday in Choir Room. Friday in Vestry Room. Also check the Board at Church entrance"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 106
+  },
+  {
+    "locationPK": 182,
+    "name": "CHURCH OF THE GOOD SHEPARD",
+    "details": [
+      "Basement",
+      "Between 2nd and 3rd AVENUES"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 107
+  },
+  {
+    "locationPK": 183,
+    "name": "Conservative Synagogue",
+    "details": [
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 108
+  },
+  {
+    "locationPK": 184,
+    "name": "Caron Foundation",
+    "details": [
+      "Lower Level",
+      "Between 2nd and 3rd Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 105
+  },
+  {
+    "locationPK": 185,
+    "name": "",
+    "details": [
+      "Between Park and Lexington"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 109
+  },
+  {
+    "locationPK": 186,
+    "name": "Holy Name Church",
+    "details": [
+      "Basement",
+      "Between Amsterdam Avenue and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 110
+  },
+  {
+    "locationPK": 187,
+    "name": "Christ & St. Stephen's Church",
+    "details": [
+      "Basement",
+      "Between Columbus Avenue and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 111
+  },
+  {
+    "locationPK": 188,
+    "name": "Trinity Presbyterian Church",
+    "details": [
+      "Between 9th and 10th Ave"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 79
+  },
+  {
+    "locationPK": 189,
+    "name": "Phoenix House",
+    "details": [
+      "1st floor"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 112
+  },
+  {
+    "locationPK": 190,
+    "name": "Holy Name Church",
+    "details": [
+      "Little Room Basement",
+      "Between Amsterdam Avenue and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 110
+  },
+  {
+    "locationPK": 191,
+    "name": "St. Gregory's Church",
+    "details": [
+      "Basement",
+      "Between Columbus and Amsterdam Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 113
+  },
+  {
+    "locationPK": 192,
+    "name": "Hamilton House",
+    "details": [
+      "Between Columbus and Amsterdam Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 114
+  },
+  {
+    "locationPK": 193,
+    "name": "Fourth Universalist Church",
+    "details": [
+      "Between Central Park West and Columbus Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 115
+  },
+  {
+    "locationPK": 194,
+    "name": "Church of the Ascension",
+    "details": [
+      "Basement",
+      "Between Amsterdam Avenue and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 116
+  },
+  {
+    "locationPK": 195,
+    "name": "Holy Name Church",
+    "details": [
+      "Basement, Little Room",
+      "Between Amsterdam and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 110
+  },
+  {
+    "locationPK": 196,
+    "name": "Holy Trinity Rectory",
+    "details": [
+      "Between Amsterdam Avenue and Broadway"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 117
+  },
+  {
+    "locationPK": 197,
+    "name": "Broadway Presbyterian Church",
+    "details": [
+      "2nd Red Door"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 118
+  },
+  {
+    "locationPK": 198,
+    "name": "Universalist Church",
+    "details": [
+      "Enter on 76th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 119
+  },
+  {
+    "locationPK": 199,
+    "name": "West Side YMCA at 63rd Street",
+    "details": [
+      "Downstairs in large meeting room",
+      "Between Central Park West and Broadway"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 120
+  },
+  {
+    "locationPK": 200,
+    "name": "Universalist Church",
+    "details": [
+      "In the gym",
+      "Between Columbus Avenue and Central Park West"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 119
+  },
+  {
+    "locationPK": 201,
+    "name": "Fourth Universalist Society",
+    "details": [
+      "Gym basement",
+      "@ 76th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 121
+  },
+  {
+    "locationPK": 202,
+    "name": "Good Shepherd Faith Church",
+    "details": [
+      "Basement Level Chapel",
+      "Between Broadway and Amsterdam Avenue",
+      "Enter basement level @ red door on left side of the building"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 122
+  },
+  {
+    "locationPK": 203,
+    "name": "Second Presbyterian Church",
+    "details": [
+      "Lower Level Auditorium",
+      "Between Central Park West and Columbus Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 123
+  },
+  {
+    "locationPK": 204,
+    "name": "All Angels Church",
+    "details": [],
+    "wheelchairAccess": true,
+    "addressFK": 124
+  },
+  {
+    "locationPK": 205,
+    "name": "Hargrave House",
+    "details": [
+      "@ Columbus Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 125
+  },
+  {
+    "locationPK": 206,
+    "name": "West Side YMCA",
+    "details": [
+      "1st Floor",
+      "Between Central Park West and Broadway"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 120
+  },
+  {
+    "locationPK": 207,
+    "name": "West Side YMCA",
+    "details": [
+      "Between Central Park West and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 120
+  },
+  {
+    "locationPK": 208,
+    "name": "Holy Name Church",
+    "details": [
+      "Basement, Little Room",
+      "Between Amsterdam Avenue and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 110
+  },
+  {
+    "locationPK": 209,
+    "name": "Church of St. Matthew and St. Timothy",
+    "details": [
+      "Between Columbus Avenue and Central Park West",
+      "Up concrete steps, take stairs on left, 2nd Floor Sandford Hall"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 126
+  },
+  {
+    "locationPK": 210,
+    "name": "Holy Name School",
+    "details": [
+      "Basement",
+      "@ Amsterdam Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 127
+  },
+  {
+    "locationPK": 211,
+    "name": "Grace House",
+    "details": [
+      "Main Floor",
+      "Between Amsterdam Avenue and Broadway"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 128
+  },
+  {
+    "locationPK": 212,
+    "name": "Iglesia Metodista Grace",
+    "details": [
+      "1st Floor",
+      "Between Columbus and Amsterdam Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 129
+  },
+  {
+    "locationPK": 213,
+    "name": "Rutgers Church",
+    "details": [
+      "5th Floor",
+      "West of Broadway"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 130
+  },
+  {
+    "locationPK": 214,
+    "name": "West End Presbyterian Church",
+    "details": [
+      "Basement",
+      "@ Amsterdam Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 131
+  },
+  {
+    "locationPK": 215,
+    "name": "Holy Name Church",
+    "details": [
+      "Between Amsterdam Avenue and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 110
+  },
+  {
+    "locationPK": 216,
+    "name": "Advent Lutheran Church",
+    "details": [
+      "Basement",
+      "@ 93rd Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 132
+  },
+  {
+    "locationPK": 217,
+    "name": "Church of Notre Dame",
+    "details": [
+      "Merton Room",
+      "1 Block East of Amsterdam Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 133
+  },
+  {
+    "locationPK": 218,
+    "name": "West End Collegiate Church",
+    "details": [
+      "1st floor",
+      "@77th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 134
+  },
+  {
+    "locationPK": 219,
+    "name": "St. Michael's Parish House",
+    "details": [
+      "1st Floor",
+      "Between Amsterdam Avenue and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 135
+  },
+  {
+    "locationPK": 220,
+    "name": "Anshe Chesed Synagogue",
+    "details": [
+      "@ West End Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 136
+  },
+  {
+    "locationPK": 221,
+    "name": "Church of St. Matthew & St. Timothy",
+    "details": [
+      "Between Central Park West and Columbus Avenue",
+      "On Ground Floor Monday and Wednesday",
+      "Basement on Thursday"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 126
+  },
+  {
+    "locationPK": 222,
+    "name": "West Side YMCA",
+    "details": [
+      "Basement, Room D",
+      "Between Central Park West and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 120
+  },
+  {
+    "locationPK": 223,
+    "name": "St. Ignatius Church",
+    "details": [
+      "Basement",
+      "Between Broadway and West End Avenue, Enter on 87th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 137
+  },
+  {
+    "locationPK": 224,
+    "name": "Phoenix House",
+    "details": [
+      "1st Floor, ask at Front Desk",
+      "Between Columbus and Amsterdam Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 138
+  },
+  {
+    "locationPK": 225,
+    "name": "Volunteers of America",
+    "details": [
+      "Basement",
+      "Between West End Avenue and Riverside Drive"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 139
+  },
+  {
+    "locationPK": 226,
+    "name": "West End Collegiate Church",
+    "details": [
+      "1st Floor",
+      "@ West 77th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 140
+  },
+  {
+    "locationPK": 227,
+    "name": "Blessed Sacrament Church Rectory",
+    "details": [
+      "Between Columbus Avenue and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 141
+  },
+  {
+    "locationPK": 228,
+    "name": "",
+    "details": [
+      "3rd Floor, Room #2F",
+      "Between Columbus and Amsterdam Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 142
+  },
+  {
+    "locationPK": 229,
+    "name": "Blessed Sacrament Church Rectory",
+    "details": [
+      "Ring Bell",
+      "Between Columbus Avenue and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 141
+  },
+  {
+    "locationPK": 230,
+    "name": "Stephen Wise Free Synagogue",
+    "details": [
+      "Check security desk for Room #",
+      "Between Central Park West and Columbus Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 143
+  },
+  {
+    "locationPK": 231,
+    "name": "Holy Name Church",
+    "details": [
+      "Basement, Little Room"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 110
+  },
+  {
+    "locationPK": 232,
+    "name": "Church of St. Paul & St. Andrew",
+    "details": [
+      "1st Floor",
+      "@Corner of West End Avenue and 86th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 144
+  },
+  {
+    "locationPK": 233,
+    "name": "Addiction Institute",
+    "details": [
+      "2nd Floor",
+      "Between West End Avenue and Riverside Drive"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 145
+  },
+  {
+    "locationPK": 234,
+    "name": "Blessed Sacrament Church Rectory",
+    "details": [],
+    "wheelchairAccess": false,
+    "addressFK": 141
+  },
+  {
+    "locationPK": 235,
+    "name": "Church of St.Matthew & St. Timothy",
+    "details": [
+      "Stanford Room blue door",
+      "Between Columbus Avenue and Central Park West"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 126
+  },
+  {
+    "locationPK": 236,
+    "name": "Goddard Riverside Community Center",
+    "details": [
+      "88th Street, Ground Level, Art Room"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 146
+  },
+  {
+    "locationPK": 237,
+    "name": "Trinity Halfway House",
+    "details": [
+      "2nd Floor",
+      "Between Riverside Drive and West End Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 145
+  },
+  {
+    "locationPK": 238,
+    "name": "Holy Trinity Church",
+    "details": [
+      "Between Amsterdam Avenue and Broadway"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 147
+  },
+  {
+    "locationPK": 239,
+    "name": "Blessed Sacrament (Rectory)",
+    "details": [
+      "Between Broadway and Columbus Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 141
+  },
+  {
+    "locationPK": 240,
+    "name": "",
+    "details": [
+      "Between Broadway and Columbus Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 148
+  },
+  {
+    "locationPK": 241,
+    "name": "Blessed Sacrament (Rectory)",
+    "details": [
+      "Between Broadway and Columbus Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 141
+  },
+  {
+    "locationPK": 242,
+    "name": "Universalist Church",
+    "details": [
+      "Downstairs",
+      "Enter through side door on 76th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 121
+  },
+  {
+    "locationPK": 243,
+    "name": "Jan Hus Church",
+    "details": [
+      "2nd Floor",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 149
+  },
+  {
+    "locationPK": 244,
+    "name": "Manhattan Church of Christ",
+    "details": [
+      "2nd Floor Library, Ring Bell Next to Sign",
+      "Between Park and Madison Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 150
+  },
+  {
+    "locationPK": 245,
+    "name": "St. Jean Baptiste Church",
+    "details": [
+      "Basement",
+      "Between Lexington and 3rd Avenues - Ring Bell"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 151
+  },
+  {
+    "locationPK": 246,
+    "name": "Church of the Epiphany",
+    "details": [
+      "@ 74th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 152
+  },
+  {
+    "locationPK": 247,
+    "name": "Christ United Methodist Church",
+    "details": [
+      "@ 60th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 153
+  },
+  {
+    "locationPK": 248,
+    "name": "Archdiocian Cathedral of the Holy Trinity",
+    "details": [
+      "Between First and Second Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 154
+  },
+  {
+    "locationPK": 249,
+    "name": "All Souls Church",
+    "details": [
+      "Between 79th and 80th Streets"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 155
+  },
+  {
+    "locationPK": 250,
+    "name": "Gracie Square Hospital",
+    "details": [
+      "Between 1st and York Avenues",
+      "Check with front desk security for meeting room location"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 156
+  },
+  {
+    "locationPK": 251,
+    "name": "Our Lady of Good Counsel Church",
+    "details": [
+      "Downstairs",
+      "Between 2nd and 3rd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 157
+  },
+  {
+    "locationPK": 252,
+    "name": "St. Thomas More Church",
+    "details": [
+      "Basement",
+      "@ Park and Madison Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 158
+  },
+  {
+    "locationPK": 253,
+    "name": "St. James Episcopal Church",
+    "details": [
+      "Basement",
+      "@ East 71st Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 159
+  },
+  {
+    "locationPK": 254,
+    "name": "Immanuel Lutheran Church",
+    "details": [
+      "Basement",
+      "Enter through red door on Lexington Avenue, between 87th and 88th Streets"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 160
+  },
+  {
+    "locationPK": 255,
+    "name": "Jan Hus Church",
+    "details": [
+      "Mazaryk Room",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 149
+  },
+  {
+    "locationPK": 256,
+    "name": "All Souls Uniterian Church",
+    "details": [
+      "1st Floor",
+      "@ East 80th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 155
+  },
+  {
+    "locationPK": 257,
+    "name": "St. Thomas More Church Rectory",
+    "details": [
+      "Between Madison and Park Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 158
+  },
+  {
+    "locationPK": 258,
+    "name": "Church of Saint Thomas Moore",
+    "details": [],
+    "wheelchairAccess": false,
+    "addressFK": 158
+  },
+  {
+    "locationPK": 259,
+    "name": "St. Francis de Sales Church",
+    "details": [
+      "Between Lexington and Park Avenues",
+      "Lower level"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 161
+  },
+  {
+    "locationPK": 260,
+    "name": "Jan Hus Presbyterian Church",
+    "details": [
+      "2nd Floor Kitchen",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 149
+  },
+  {
+    "locationPK": 261,
+    "name": "Church of the Heavenly Rest",
+    "details": [
+      "Between 5th and Madison Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 162
+  },
+  {
+    "locationPK": 262,
+    "name": "All Souls Uniterian Church",
+    "details": [
+      "Between 79th and 80th Streets",
+      "Southside Chapel"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 155
+  },
+  {
+    "locationPK": 263,
+    "name": "Gracie Square Hospital",
+    "details": [
+      "Between 1st and York Avenues",
+      "Thurs = Topic Meeting, Check in with security at front desk"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 156
+  },
+  {
+    "locationPK": 264,
+    "name": "Jan Hus Church",
+    "details": [
+      "2nd Floor Chapel Room",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 149
+  },
+  {
+    "locationPK": 265,
+    "name": "Philomathist Center",
+    "details": [
+      "Ring Bell for entry"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 163
+  },
+  {
+    "locationPK": 266,
+    "name": "St. Ignatius Loyola School",
+    "details": [
+      "Between Madison and Park Avenues, On Saturday enter via Park Avenue Entrance",
+      "Tuesday 6:30 = Literature Topic, Saturday = Meets in the Rectory"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 164
+  },
+  {
+    "locationPK": 267,
+    "name": "St. Stephen of Hungary Church",
+    "details": [
+      "Rectory",
+      "Between 1st and York Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 165
+  },
+  {
+    "locationPK": 268,
+    "name": "Jan Hus Church",
+    "details": [
+      "2nd Floor Front Room",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 149
+  },
+  {
+    "locationPK": 269,
+    "name": "Jan Hus Church",
+    "details": [
+      "2nd Floor - Front Room",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 149
+  },
+  {
+    "locationPK": 270,
+    "name": "Congregational Kehilath Jeshurun",
+    "details": [
+      "Ramaz School Entrance",
+      "@ Lexington Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 166
+  },
+  {
+    "locationPK": 271,
+    "name": "Jan Hus Church",
+    "details": [
+      "2nd Floor, Library Room",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 149
+  },
+  {
+    "locationPK": 272,
+    "name": "St. James Church",
+    "details": [
+      "3rd Floor",
+      "Between 71st and 72nd Streets"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 159
+  },
+  {
+    "locationPK": 273,
+    "name": "Brick Church Parish House",
+    "details": [
+      "Basement",
+      "Between Madison and Park Avenues",
+      "Church Closed Friday"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 167
+  },
+  {
+    "locationPK": 274,
+    "name": "St. Joseph's School",
+    "details": [
+      "Basement",
+      "Between 1st and York Avenues",
+      "Enter through Red Door"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 168
+  },
+  {
+    "locationPK": 275,
+    "name": "Central Presbyterian Church",
+    "details": [
+      "5th Floor Library",
+      "@ 64th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 169
+  },
+  {
+    "locationPK": 276,
+    "name": "St. Thomas More Church",
+    "details": [
+      "Ring Red Buzzer, Chelsea Room",
+      "Between Park and Madison Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 158
+  },
+  {
+    "locationPK": 277,
+    "name": "",
+    "details": [
+      "543 Main Street, Basement"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 170
+  },
+  {
+    "locationPK": 278,
+    "name": "St. Monica's Church",
+    "details": [
+      "Basement",
+      "Between 1st and York Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 171
+  },
+  {
+    "locationPK": 279,
+    "name": "Jan Hus Church",
+    "details": [
+      "Sanctuary",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 149
+  },
+  {
+    "locationPK": 280,
+    "name": "New York Blood Center",
+    "details": [
+      "Auditorium",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 172
+  },
+  {
+    "locationPK": 281,
+    "name": "Lenox Hill Neighborhood House",
+    "details": [
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 173
+  },
+  {
+    "locationPK": 282,
+    "name": "Church of St. Catherine of Siena",
+    "details": [
+      "Between York and 1st Avenues",
+      "Enter through Parish House"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 174
+  },
+  {
+    "locationPK": 283,
+    "name": "Church of the Heavenly Rest",
+    "details": [
+      "Basement",
+      "Enter through the Family Chapel on 5th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 162
+  },
+  {
+    "locationPK": 284,
+    "name": "Holy Trinity Church",
+    "details": [
+      "Choir Room Ring Bell",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 175
+  },
+  {
+    "locationPK": 285,
+    "name": "Jan Hus Church",
+    "details": [
+      "2nd Floor Museum Room",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 149
+  },
+  {
+    "locationPK": 286,
+    "name": "Jan Hus Church",
+    "details": [
+      "2nd Floor, Masaryk Room",
+      "Between 1st and 2nd Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 149
+  },
+  {
+    "locationPK": 287,
+    "name": "SRO Building",
+    "details": [
+      "Basement",
+      "@ Lenox Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 176
+  },
+  {
+    "locationPK": 288,
+    "name": "Union Baptist Church",
+    "details": [
+      "Between 7th and 8th Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 177
+  },
+  {
+    "locationPK": 289,
+    "name": "Our Lady of Lourdes Church",
+    "details": [
+      "Basement",
+      "Between Convent and Amsterdam Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 178
+  },
+  {
+    "locationPK": 290,
+    "name": "St. Phillip Church",
+    "details": [
+      "1st Floor",
+      "Between 7th and 8th Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 179
+  },
+  {
+    "locationPK": 291,
+    "name": "Spiritual Renewal Church",
+    "details": [
+      "@ 122nd Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 180
+  },
+  {
+    "locationPK": 292,
+    "name": "",
+    "details": [
+      "1st Floor",
+      "Between Amsterdam and Convent Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 178
+  },
+  {
+    "locationPK": 293,
+    "name": "St. Mary's Episcopal",
+    "details": [
+      "Amsterdam and Old Broadway",
+      "Contact in Advance for Wheelchair Accessibility"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 181
+  },
+  {
+    "locationPK": 294,
+    "name": "SRO Building Community Room",
+    "details": [
+      "Basement",
+      "Between Lenox Avenue and Adam Clayton Powell Blvd"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 176
+  },
+  {
+    "locationPK": 295,
+    "name": "",
+    "details": [],
+    "wheelchairAccess": true,
+    "addressFK": 182
+  },
+  {
+    "locationPK": 296,
+    "name": "S.A.G.E.",
+    "details": [
+      "Between 7th and Lenox"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 183
+  },
+  {
+    "locationPK": 297,
+    "name": "Grace Congregational Baptist Church",
+    "details": [
+      "Basement",
+      "Between Eighth and Edgecombe Avenues"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 184
+  },
+  {
+    "locationPK": 298,
+    "name": "St. James Church",
+    "details": [
+      "Basement",
+      "@ Street Nicholas Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 185
+  },
+  {
+    "locationPK": 299,
+    "name": "Riverside Church",
+    "details": [
+      "4th Floor, Room 414",
+      "Between Broadway and Riverside Drive"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 186
+  },
+  {
+    "locationPK": 300,
+    "name": "Upper Manhattan Mental Health Center",
+    "details": [
+      "1st Floor in the rear",
+      "@ 145th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 187
+  },
+  {
+    "locationPK": 301,
+    "name": "Riverside Church",
+    "details": [
+      "@ The Cloisters Club Room",
+      "1 Block West of Broadway and 1/2 Block North of 120th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 186
+  },
+  {
+    "locationPK": 302,
+    "name": "St. Aloysius School",
+    "details": [
+      "Cafeteria",
+      "Between Adam Clayton Powell Boulevard and F. Douglass Blvd"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 188
+  },
+  {
+    "locationPK": 303,
+    "name": "Salem United Methodist Church Community Center",
+    "details": [
+      "Downstairs in the Gym",
+      "@ Adam Clayton Powell Boulevard"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 189
+  },
+  {
+    "locationPK": 304,
+    "name": "Convent Baptist Church Education Building",
+    "details": [
+      "1st Floor",
+      "Between Convent Avenue and Hamilton Terrace"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 190
+  },
+  {
+    "locationPK": 305,
+    "name": "St. Phillip's Church",
+    "details": [
+      "Basement",
+      "Between Adam C. Powell and Frederick Douglas Blvds"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 179
+  },
+  {
+    "locationPK": 306,
+    "name": "Harlem Hospital King Pavilion",
+    "details": [
+      "Room #3101, 3rd Floor",
+      "@ 135 Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 191
+  },
+  {
+    "locationPK": 307,
+    "name": "Council Center for Problems of Living",
+    "details": [
+      "1st floor in the rear",
+      "@ 145th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 187
+  },
+  {
+    "locationPK": 308,
+    "name": "",
+    "details": [
+      "Corner of 152nd Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 192
+  },
+  {
+    "locationPK": 309,
+    "name": "Metropolitan AME Church",
+    "details": [
+      "Between Malcolm X Boulevard and 5th Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 193
+  },
+  {
+    "locationPK": 310,
+    "name": "Harlem Children's Zone Admin. Offices",
+    "details": [
+      "1st Floor Conference Room",
+      "@ Madison Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 194
+  },
+  {
+    "locationPK": 311,
+    "name": "Peter Jay Sharpe Building",
+    "details": [
+      "1st Floor Dining Room",
+      "Between 2nd and 3rd Avenues"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 195
+  },
+  {
+    "locationPK": 312,
+    "name": "",
+    "details": [
+      "1st Floor",
+      "Between 109th and 110th Streets"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 196
+  },
+  {
+    "locationPK": 313,
+    "name": "Veterans Residence",
+    "details": [
+      "1st Floor Cafeteria",
+      "Between Madison and 5th Avenues",
+      "ID REQUIRED TO ENTERER BUILDING"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 197
+  },
+  {
+    "locationPK": 314,
+    "name": "Columbia Presbyterian Hospital",
+    "details": [
+      "Hammer Health and Science Library",
+      "Check with Security for Room #"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 198
+  },
+  {
+    "locationPK": 315,
+    "name": "Holy Rood Church",
+    "details": [
+      "Between Broadway and Fort Washington Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 199
+  },
+  {
+    "locationPK": 316,
+    "name": "Holy Rood Church",
+    "details": [
+      "Corner of Fort Washington Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 199
+  },
+  {
+    "locationPK": 317,
+    "name": "St. Jude's School",
+    "details": [
+      "Basement",
+      "Off of 10th Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 200
+  },
+  {
+    "locationPK": 318,
+    "name": "Church of the Intercession",
+    "details": [
+      "2nd Floor Guild Room",
+      "Between Amsterdam Avenue and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 201
+  },
+  {
+    "locationPK": 319,
+    "name": "Casita Esperanza",
+    "details": [],
+    "wheelchairAccess": true,
+    "addressFK": 202
+  },
+  {
+    "locationPK": 320,
+    "name": "",
+    "details": [
+      "Basement",
+      "@ 200th Street, behind Dyckman Avenue"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 203
+  },
+  {
+    "locationPK": 321,
+    "name": "Episcopal Holy Rood Church",
+    "details": [
+      "1st Floor"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 199
+  },
+  {
+    "locationPK": 322,
+    "name": "Church Santa Rosa de Lima",
+    "details": [
+      "Basement",
+      "Between Street Nicholas and Amsterdam Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 204
+  },
+  {
+    "locationPK": 323,
+    "name": "Our Lady Queen of Martyrs",
+    "details": [
+      "2 blocks South of Dyckman Street, between Broadway and Sherman Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 205
+  },
+  {
+    "locationPK": 324,
+    "name": "Holy Trinity Episcopal Church",
+    "details": [
+      "@Seaman Avenue",
+      "Sunday meeting in Sanctuary",
+      "Wednesday meeting in Auditorium"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 206
+  },
+  {
+    "locationPK": 325,
+    "name": "Mount Washington Presbyterian Church",
+    "details": [
+      "@ 204th Street, 1 Block East of Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 207
+  },
+  {
+    "locationPK": 326,
+    "name": "Church of the Good Shepherd",
+    "details": [
+      "Between Cooper Street and Seaman Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 208
+  },
+  {
+    "locationPK": 327,
+    "name": "COATHA Church on the Hill Senior Center",
+    "details": [
+      "@ 159th Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 209
+  },
+  {
+    "locationPK": 328,
+    "name": "Our Saviour's Atonement Lutheran Church",
+    "details": [
+      "2nd Floor Lorenz Library",
+      "@ 189th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 210
+  },
+  {
+    "locationPK": 329,
+    "name": "Our Saviour's Atonement Church",
+    "details": [
+      "2nd Floor",
+      "@ 189th Street",
+      "South Entrance"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 210
+  },
+  {
+    "locationPK": 330,
+    "name": "Holy Trinity Church",
+    "details": [
+      "Between Broadway and Seaman Avenue"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 211
+  },
+  {
+    "locationPK": 331,
+    "name": "Holy Rood Church",
+    "details": [
+      "@ Fort Washington"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 199
+  },
+  {
+    "locationPK": 332,
+    "name": "Cornerstone Center",
+    "details": [
+      "Kitchen",
+      "@ North Building"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 210
+  },
+  {
+    "locationPK": 333,
+    "name": "The Corner Stone Center",
+    "details": [
+      "2nd Floor",
+      "@ 189th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 210
+  },
+  {
+    "locationPK": 334,
+    "name": "Cornerstone Center",
+    "details": [
+      "Kitchen",
+      "@ 189th Street"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 210
   }
 ]

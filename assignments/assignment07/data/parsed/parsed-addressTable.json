@@ -76,5 +76,2033 @@
     "zipcode": [
       "10006"
     ]
+  },
+  {
+    "addressPK": 9,
+    "lat": 0,
+    "long": 0,
+    "street": "273 Bowery",
+    "city": "NY",
+    "zipcode": [
+      "10002"
+    ]
+  },
+  {
+    "addressPK": 10,
+    "lat": 0,
+    "long": 0,
+    "street": "232 West 11th Street",
+    "city": "NY",
+    "zipcode": [
+      "10014"
+    ]
+  },
+  {
+    "addressPK": 11,
+    "lat": 0,
+    "long": 0,
+    "street": "220 West Houston Street",
+    "city": "NY",
+    "zipcode": [
+      "10014"
+    ]
+  },
+  {
+    "addressPK": 12,
+    "lat": 0,
+    "long": 0,
+    "street": "253 Center Street",
+    "city": "NY",
+    "zipcode": [
+      "10013"
+    ]
+  },
+  {
+    "addressPK": 13,
+    "lat": 0,
+    "long": 0,
+    "street": "487 Hudson Street",
+    "city": "NY",
+    "zipcode": [
+      "10014"
+    ]
+  },
+  {
+    "addressPK": 14,
+    "lat": 0,
+    "long": 0,
+    "street": "292 Henry Street",
+    "city": "NY",
+    "zipcode": [
+      "10002"
+    ]
+  },
+  {
+    "addressPK": 15,
+    "lat": 0,
+    "long": 0,
+    "street": "141 Henry Street",
+    "city": "NY",
+    "zipcode": [
+      "10002"
+    ]
+  },
+  {
+    "addressPK": 16,
+    "lat": 0,
+    "long": 0,
+    "street": "83 Christopher Street",
+    "city": "NY",
+    "zipcode": [
+      "10014"
+    ]
+  },
+  {
+    "addressPK": 17,
+    "lat": 0,
+    "long": 0,
+    "street": "50 Perry Street",
+    "city": "NY",
+    "zipcode": [
+      "10014"
+    ]
+  },
+  {
+    "addressPK": 18,
+    "lat": 0,
+    "long": 0,
+    "street": "224 Waverly Place",
+    "city": "NY",
+    "zipcode": [
+      "10014"
+    ]
+  },
+  {
+    "addressPK": 19,
+    "lat": 0,
+    "long": 0,
+    "street": "154 Sullivan Street",
+    "city": "NY",
+    "zipcode": [
+      "10012"
+    ]
+  },
+  {
+    "addressPK": 20,
+    "lat": 0,
+    "long": 0,
+    "street": "273 Bowery Street",
+    "city": "NY",
+    "zipcode": [
+      "10012"
+    ]
+  },
+  {
+    "addressPK": 21,
+    "lat": 0,
+    "long": 0,
+    "street": "371 6th Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10014"
+    ]
+  },
+  {
+    "addressPK": 22,
+    "lat": 0,
+    "long": 0,
+    "street": "155 Sullivan Street",
+    "city": "NY",
+    "zipcode": [
+      "10012"
+    ]
+  },
+  {
+    "addressPK": 23,
+    "lat": 0,
+    "long": 0,
+    "street": "7 East 10th Strert",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 24,
+    "lat": 0,
+    "long": 0,
+    "street": "81 Christopher Street",
+    "city": "NY",
+    "zipcode": [
+      "10014"
+    ]
+  },
+  {
+    "addressPK": 25,
+    "lat": 0,
+    "long": 0,
+    "street": "7 East 10th Street",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 26,
+    "lat": 0,
+    "long": 0,
+    "street": "155 East 22nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10010"
+    ]
+  },
+  {
+    "addressPK": 27,
+    "lat": 0,
+    "long": 0,
+    "street": "61 Fourth Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 28,
+    "lat": 0,
+    "long": 0,
+    "street": "208 West 13th Street",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 29,
+    "lat": 0,
+    "long": 0,
+    "street": "123 East 15th Street",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 30,
+    "lat": 0,
+    "long": 0,
+    "street": "61 Gramercy Park North",
+    "city": "NY",
+    "zipcode": [
+      "10010"
+    ]
+  },
+  {
+    "addressPK": 31,
+    "lat": 0,
+    "long": 0,
+    "street": "127 East 22nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10010"
+    ]
+  },
+  {
+    "addressPK": 32,
+    "lat": 0,
+    "long": 0,
+    "street": "602 East 9th Street",
+    "city": "NY",
+    "zipcode": [
+      "10009"
+    ]
+  },
+  {
+    "addressPK": 33,
+    "lat": 0,
+    "long": 0,
+    "street": "125 West 14th Street",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 34,
+    "lat": 0,
+    "long": 0,
+    "street": "346 West 20th Street",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 35,
+    "lat": 0,
+    "long": 0,
+    "street": "414 East 14th Street",
+    "city": "NY",
+    "zipcode": [
+      "10009"
+    ]
+  },
+  {
+    "addressPK": 36,
+    "lat": 0,
+    "long": 0,
+    "street": "119 Ninth Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 37,
+    "lat": 0,
+    "long": 0,
+    "street": "202 West 24 Street",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 38,
+    "lat": 0,
+    "long": 0,
+    "street": "28 Gramercy Park South",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 39,
+    "lat": 0,
+    "long": 0,
+    "street": "50 East 7th Street",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 40,
+    "lat": 0,
+    "long": 0,
+    "street": "802 Broadway",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 41,
+    "lat": 0,
+    "long": 0,
+    "street": "28 Grammercy Park South",
+    "city": "NY",
+    "zipcode": [
+      "10010"
+    ]
+  },
+  {
+    "addressPK": 42,
+    "lat": 0,
+    "long": 0,
+    "street": "209 East 16th Street",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 43,
+    "lat": 0,
+    "long": 0,
+    "street": "44 2nd Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 44,
+    "lat": 0,
+    "long": 0,
+    "street": "229 West 14th Street",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 45,
+    "lat": 0,
+    "long": 0,
+    "street": "208 W 13th Street",
+    "city": "NY",
+    "zipcode": [
+      "10001"
+    ]
+  },
+  {
+    "addressPK": 46,
+    "lat": 0,
+    "long": 0,
+    "street": "307 West 26th Street",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 47,
+    "lat": 0,
+    "long": 0,
+    "street": "343 West 25th Street",
+    "city": "NY",
+    "zipcode": [
+      "10001"
+    ]
+  },
+  {
+    "addressPK": 48,
+    "lat": 0,
+    "long": 0,
+    "street": "80 Street Mark’s Place",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 49,
+    "lat": 0,
+    "long": 0,
+    "street": "51 East 25th Street",
+    "city": "NY",
+    "zipcode": [
+      "10010"
+    ]
+  },
+  {
+    "addressPK": 50,
+    "lat": 0,
+    "long": 0,
+    "street": "315 West 22nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 51,
+    "lat": 0,
+    "long": 0,
+    "street": "15 Rutherford Place",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 52,
+    "lat": 0,
+    "long": 0,
+    "street": "25 East 15t",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 53,
+    "lat": 0,
+    "long": 0,
+    "street": "175 9th Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 54,
+    "lat": 0,
+    "long": 0,
+    "street": "19 Union Square West",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 55,
+    "lat": 0,
+    "long": 0,
+    "street": "423 East 23rd Street",
+    "city": "NY",
+    "zipcode": [
+      "10010"
+    ]
+  },
+  {
+    "addressPK": 56,
+    "lat": 0,
+    "long": 0,
+    "street": "411 East 12th Street",
+    "city": "NY",
+    "zipcode": [
+      "10009"
+    ]
+  },
+  {
+    "addressPK": 57,
+    "lat": 0,
+    "long": 0,
+    "street": "239 East 21st Street",
+    "city": "NY",
+    "zipcode": [
+      "10009"
+    ]
+  },
+  {
+    "addressPK": 58,
+    "lat": 0,
+    "long": 0,
+    "street": "12 West 12th Street",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 59,
+    "lat": 0,
+    "long": 0,
+    "street": "12 West 11th Street",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 60,
+    "lat": 0,
+    "long": 0,
+    "street": "116 West 11th Street",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 61,
+    "lat": 0,
+    "long": 0,
+    "street": "80 5th Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 62,
+    "lat": 0,
+    "long": 0,
+    "street": "319 Eastr 24th Street",
+    "city": "NY",
+    "zipcode": [
+      "10010"
+    ]
+  },
+  {
+    "addressPK": 63,
+    "lat": 0,
+    "long": 0,
+    "street": "10 East Union Square",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 64,
+    "lat": 0,
+    "long": 0,
+    "street": "206-208 East 11th Street",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 65,
+    "lat": 0,
+    "long": 0,
+    "street": "10 Union Square East",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 66,
+    "lat": 0,
+    "long": 0,
+    "street": "155 West 22nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 67,
+    "lat": 0,
+    "long": 0,
+    "street": "20 Washington Square North",
+    "city": "NY",
+    "zipcode": [
+      "10011"
+    ]
+  },
+  {
+    "addressPK": 68,
+    "lat": 0,
+    "long": 0,
+    "street": "344 East 14th Street",
+    "city": "NY",
+    "zipcode": [
+      "10003"
+    ]
+  },
+  {
+    "addressPK": 69,
+    "lat": 0,
+    "long": 0,
+    "street": "173 East 3rd Stree",
+    "city": "NY",
+    "zipcode": [
+      "10009"
+    ]
+  },
+  {
+    "addressPK": 70,
+    "lat": 0,
+    "long": 0,
+    "street": "252 West 46th Street",
+    "city": "NY",
+    "zipcode": [
+      "10036"
+    ]
+  },
+  {
+    "addressPK": 71,
+    "lat": 0,
+    "long": 0,
+    "street": "303 West 42nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10036"
+    ]
+  },
+  {
+    "addressPK": 72,
+    "lat": 0,
+    "long": 0,
+    "street": "305 7th Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10001"
+    ]
+  },
+  {
+    "addressPK": 73,
+    "lat": 0,
+    "long": 0,
+    "street": "1 West 53rd Street",
+    "city": "NY",
+    "zipcode": [
+      "10019"
+    ]
+  },
+  {
+    "addressPK": 74,
+    "lat": 0,
+    "long": 0,
+    "street": "133 West 46th Street",
+    "city": "NY",
+    "zipcode": [
+      "10036"
+    ]
+  },
+  {
+    "addressPK": 75,
+    "lat": 0,
+    "long": 0,
+    "street": "441 West 26th Street",
+    "city": "NY",
+    "zipcode": [
+      "10001"
+    ]
+  },
+  {
+    "addressPK": 76,
+    "lat": 0,
+    "long": 0,
+    "street": "446 West 33rd Street",
+    "city": "NY",
+    "zipcode": [
+      "10001"
+    ]
+  },
+  {
+    "addressPK": 77,
+    "lat": 0,
+    "long": 0,
+    "street": "339 West 47th Street",
+    "city": "NY",
+    "zipcode": [
+      "10036"
+    ]
+  },
+  {
+    "addressPK": 78,
+    "lat": 0,
+    "long": 0,
+    "street": "139 West 31st Street",
+    "city": "NY",
+    "zipcode": [
+      "10001"
+    ]
+  },
+  {
+    "addressPK": 79,
+    "lat": 0,
+    "long": 0,
+    "street": "422 West 57th Street",
+    "city": "NY",
+    "zipcode": [
+      "10019"
+    ]
+  },
+  {
+    "addressPK": 80,
+    "lat": 0,
+    "long": 0,
+    "street": "211 West 30th Street",
+    "city": "NY",
+    "zipcode": [
+      "10001"
+    ]
+  },
+  {
+    "addressPK": 81,
+    "lat": 0,
+    "long": 0,
+    "street": "7 West 55th Street",
+    "city": "NY",
+    "zipcode": [
+      "10019"
+    ]
+  },
+  {
+    "addressPK": 82,
+    "lat": 0,
+    "long": 0,
+    "street": "729 7th Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10019"
+    ]
+  },
+  {
+    "addressPK": 83,
+    "lat": 0,
+    "long": 0,
+    "street": "538 West 47th Street",
+    "city": "NY",
+    "zipcode": [
+      "10036"
+    ]
+  },
+  {
+    "addressPK": 84,
+    "lat": 0,
+    "long": 0,
+    "street": "1000 Tenth Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10019"
+    ]
+  },
+  {
+    "addressPK": 85,
+    "lat": 0,
+    "long": 0,
+    "street": "405 West 59th Street",
+    "city": "NY",
+    "zipcode": [
+      "10019"
+    ]
+  },
+  {
+    "addressPK": 86,
+    "lat": 0,
+    "long": 0,
+    "street": "296 9th Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10001"
+    ]
+  },
+  {
+    "addressPK": 87,
+    "lat": 0,
+    "long": 0,
+    "street": "484 West 43rd Street",
+    "city": "NY",
+    "zipcode": [
+      "10036"
+    ]
+  },
+  {
+    "addressPK": 88,
+    "lat": 0,
+    "long": 0,
+    "street": "4 West 43rd Street",
+    "city": "NY",
+    "zipcode": [
+      "10017"
+    ]
+  },
+  {
+    "addressPK": 89,
+    "lat": 0,
+    "long": 0,
+    "street": "296 Ninth Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10001"
+    ]
+  },
+  {
+    "addressPK": 90,
+    "lat": 0,
+    "long": 0,
+    "street": "210 West 31st Street",
+    "city": "NY",
+    "zipcode": [
+      "10001"
+    ]
+  },
+  {
+    "addressPK": 91,
+    "lat": 0,
+    "long": 0,
+    "street": "134 West 29th Street",
+    "city": "NY",
+    "zipcode": [
+      "10001"
+    ]
+  },
+  {
+    "addressPK": 92,
+    "lat": 0,
+    "long": 0,
+    "street": "423 West 46th Street",
+    "city": "NY",
+    "zipcode": [
+      "10036"
+    ]
+  },
+  {
+    "addressPK": 93,
+    "lat": 0,
+    "long": 0,
+    "street": "122 East 37th Street",
+    "city": "NY",
+    "zipcode": [
+      "10016"
+    ]
+  },
+  {
+    "addressPK": 94,
+    "lat": 0,
+    "long": 0,
+    "street": "30 East 35th Street",
+    "city": "NY",
+    "zipcode": [
+      "10016"
+    ]
+  },
+  {
+    "addressPK": 95,
+    "lat": 0,
+    "long": 0,
+    "street": "350 East 56th Street",
+    "city": "NY",
+    "zipcode": [
+      "10022"
+    ]
+  },
+  {
+    "addressPK": 96,
+    "lat": 0,
+    "long": 0,
+    "street": "619 Lexington Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10022"
+    ]
+  },
+  {
+    "addressPK": 97,
+    "lat": 0,
+    "long": 0,
+    "street": "28 East 35th Street",
+    "city": "NY",
+    "zipcode": [
+      "10016"
+    ]
+  },
+  {
+    "addressPK": 98,
+    "lat": 0,
+    "long": 0,
+    "street": "283 Lexington Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10016"
+    ]
+  },
+  {
+    "addressPK": 99,
+    "lat": 0,
+    "long": 0,
+    "street": "141 East 43rd Street",
+    "city": "NY",
+    "zipcode": [
+      "10017"
+    ]
+  },
+  {
+    "addressPK": 100,
+    "lat": 0,
+    "long": 0,
+    "street": "122 E 37TH Street",
+    "city": "NY",
+    "zipcode": [
+      "10016"
+    ]
+  },
+  {
+    "addressPK": 101,
+    "lat": 0,
+    "long": 0,
+    "street": "209 Madison Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10016"
+    ]
+  },
+  {
+    "addressPK": 102,
+    "lat": 0,
+    "long": 0,
+    "street": "240 East 31st Street",
+    "city": "NY",
+    "zipcode": [
+      "10016"
+    ]
+  },
+  {
+    "addressPK": 103,
+    "lat": 0,
+    "long": 0,
+    "street": "114 East 35th Street",
+    "city": "NY",
+    "zipcode": [
+      "10016"
+    ]
+  },
+  {
+    "addressPK": 104,
+    "lat": 0,
+    "long": 0,
+    "street": "230 East 60th Street",
+    "city": "NY",
+    "zipcode": [
+      "10022"
+    ]
+  },
+  {
+    "addressPK": 105,
+    "lat": 0,
+    "long": 0,
+    "street": "244 East 58th Street",
+    "city": "NY",
+    "zipcode": [
+      "10022"
+    ]
+  },
+  {
+    "addressPK": 106,
+    "lat": 0,
+    "long": 0,
+    "street": "325 Park Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10022"
+    ]
+  },
+  {
+    "addressPK": 107,
+    "lat": 0,
+    "long": 0,
+    "street": "236 EAST 31st STREET",
+    "city": "NY",
+    "zipcode": [
+      "10016"
+    ]
+  },
+  {
+    "addressPK": 108,
+    "lat": 0,
+    "long": 0,
+    "street": "308 East 55th Street",
+    "city": "NY",
+    "zipcode": [
+      "10022"
+    ]
+  },
+  {
+    "addressPK": 109,
+    "lat": 0,
+    "long": 0,
+    "street": "109 East 50th Street",
+    "city": "NY",
+    "zipcode": [
+      "10022"
+    ]
+  },
+  {
+    "addressPK": 110,
+    "lat": 0,
+    "long": 0,
+    "street": "207 West 96th Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 111,
+    "lat": 0,
+    "long": 0,
+    "street": "120 West 69th Street",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 112,
+    "lat": 0,
+    "long": 0,
+    "street": "164 West 74th Street",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 113,
+    "lat": 0,
+    "long": 0,
+    "street": "144 West 90th Street",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 114,
+    "lat": 0,
+    "long": 0,
+    "street": "141 West 73rd Street",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 115,
+    "lat": 0,
+    "long": 0,
+    "street": "4 West 76th Street. Meeting in the gym.",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 116,
+    "lat": 0,
+    "long": 0,
+    "street": "221 West 107th Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 117,
+    "lat": 0,
+    "long": 0,
+    "street": "215 West 82nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 118,
+    "lat": 0,
+    "long": 0,
+    "street": "601 West 114th Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 119,
+    "lat": 0,
+    "long": 0,
+    "street": "4 West 76th Street",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 120,
+    "lat": 0,
+    "long": 0,
+    "street": "5 West 63rd Street",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 121,
+    "lat": 0,
+    "long": 0,
+    "street": "160 Central Park West",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 122,
+    "lat": 0,
+    "long": 0,
+    "street": "152 West 66th Street",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 123,
+    "lat": 0,
+    "long": 0,
+    "street": "3 West 95th Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 124,
+    "lat": 0,
+    "long": 0,
+    "street": "251 West 80th Street",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 125,
+    "lat": 0,
+    "long": 0,
+    "street": "111 West 71st Street",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 126,
+    "lat": 0,
+    "long": 0,
+    "street": "26 West 84th Street",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 127,
+    "lat": 0,
+    "long": 0,
+    "street": "200 West 97th Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 128,
+    "lat": 0,
+    "long": 0,
+    "street": "218 West 108th Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 129,
+    "lat": 0,
+    "long": 0,
+    "street": "125 West 104th Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 130,
+    "lat": 0,
+    "long": 0,
+    "street": "236 West 73rd Street",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 131,
+    "lat": 0,
+    "long": 0,
+    "street": "165 West 105th Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 132,
+    "lat": 0,
+    "long": 0,
+    "street": "2504 Broadway",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 133,
+    "lat": 0,
+    "long": 0,
+    "street": "405 West 114th Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 134,
+    "lat": 0,
+    "long": 0,
+    "street": "368 West End Ave",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 135,
+    "lat": 0,
+    "long": 0,
+    "street": "225 West 99th Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 136,
+    "lat": 0,
+    "long": 0,
+    "street": "251 West 100th Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 137,
+    "lat": 0,
+    "long": 0,
+    "street": "552 West End Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 138,
+    "lat": 0,
+    "long": 0,
+    "street": "164 West 74 Street",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 139,
+    "lat": 0,
+    "long": 0,
+    "street": "340 West 85th Street",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 140,
+    "lat": 0,
+    "long": 0,
+    "street": "368 West End Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 141,
+    "lat": 0,
+    "long": 0,
+    "street": "152 West 71st Street",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 142,
+    "lat": 0,
+    "long": 0,
+    "street": "131 West 72nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 143,
+    "lat": 0,
+    "long": 0,
+    "street": "30 West 68th Street",
+    "city": "NY",
+    "zipcode": [
+      "10023"
+    ]
+  },
+  {
+    "addressPK": 144,
+    "lat": 0,
+    "long": 0,
+    "street": "263 West 86th Street",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 145,
+    "lat": 0,
+    "long": 0,
+    "street": "306 West 102nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10025"
+    ]
+  },
+  {
+    "addressPK": 146,
+    "lat": 0,
+    "long": 0,
+    "street": "595 Columbus Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 147,
+    "lat": 0,
+    "long": 0,
+    "street": "213 West 82nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10024"
+    ]
+  },
+  {
+    "addressPK": 148,
+    "lat": 0,
+    "long": 0,
+    "street": "152 west 71st street",
+    "city": "NY",
+    "zipcode": null
+  },
+  {
+    "addressPK": 149,
+    "lat": 0,
+    "long": 0,
+    "street": "351 East 74th Street",
+    "city": "NY",
+    "zipcode": [
+      "10021"
+    ]
+  },
+  {
+    "addressPK": 150,
+    "lat": 0,
+    "long": 0,
+    "street": "48 East 80th Street",
+    "city": "NY",
+    "zipcode": [
+      "10021"
+    ]
+  },
+  {
+    "addressPK": 151,
+    "lat": 0,
+    "long": 0,
+    "street": "184 East 76th Street",
+    "city": "NY",
+    "zipcode": [
+      "10021"
+    ]
+  },
+  {
+    "addressPK": 152,
+    "lat": 0,
+    "long": 0,
+    "street": "1393 York Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10021"
+    ]
+  },
+  {
+    "addressPK": 153,
+    "lat": 0,
+    "long": 0,
+    "street": "520 Park Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10021"
+    ]
+  },
+  {
+    "addressPK": 154,
+    "lat": 0,
+    "long": 0,
+    "street": "337 E. 74th Street",
+    "city": "NY",
+    "zipcode": [
+      "10021"
+    ]
+  },
+  {
+    "addressPK": 155,
+    "lat": 0,
+    "long": 0,
+    "street": "1157 Lexington Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10075"
+    ]
+  },
+  {
+    "addressPK": 156,
+    "lat": 0,
+    "long": 0,
+    "street": "420 East 76th Street",
+    "city": "NY",
+    "zipcode": [
+      "10021"
+    ]
+  },
+  {
+    "addressPK": 157,
+    "lat": 0,
+    "long": 0,
+    "street": "230 East 90th Street",
+    "city": "NY",
+    "zipcode": [
+      "10128"
+    ]
+  },
+  {
+    "addressPK": 158,
+    "lat": 0,
+    "long": 0,
+    "street": "65 East 89th Street",
+    "city": "NY",
+    "zipcode": [
+      "10128"
+    ]
+  },
+  {
+    "addressPK": 159,
+    "lat": 0,
+    "long": 0,
+    "street": "865 Madison Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10021"
+    ]
+  },
+  {
+    "addressPK": 160,
+    "lat": 0,
+    "long": 0,
+    "street": "1296 Lexington Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10128"
+    ]
+  },
+  {
+    "addressPK": 161,
+    "lat": 0,
+    "long": 0,
+    "street": "135 East 96th Street",
+    "city": "NY",
+    "zipcode": [
+      "10128"
+    ]
+  },
+  {
+    "addressPK": 162,
+    "lat": 0,
+    "long": 0,
+    "street": "2 East 90th Street",
+    "city": "NY",
+    "zipcode": [
+      "10128"
+    ]
+  },
+  {
+    "addressPK": 163,
+    "lat": 0,
+    "long": 0,
+    "street": "1285 Madison Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10128"
+    ]
+  },
+  {
+    "addressPK": 164,
+    "lat": 0,
+    "long": 0,
+    "street": "48 East 84th Street",
+    "city": "NY",
+    "zipcode": [
+      "10028"
+    ]
+  },
+  {
+    "addressPK": 165,
+    "lat": 0,
+    "long": 0,
+    "street": "408 East 82nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10028"
+    ]
+  },
+  {
+    "addressPK": 166,
+    "lat": 0,
+    "long": 0,
+    "street": "125 East 85th Street",
+    "city": "NY",
+    "zipcode": [
+      "10028"
+    ]
+  },
+  {
+    "addressPK": 167,
+    "lat": 0,
+    "long": 0,
+    "street": "62 East 92nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10128"
+    ]
+  },
+  {
+    "addressPK": 168,
+    "lat": 0,
+    "long": 0,
+    "street": "420 East 87th Street",
+    "city": "NY",
+    "zipcode": [
+      "10128"
+    ]
+  },
+  {
+    "addressPK": 169,
+    "lat": 0,
+    "long": 0,
+    "street": "593 Park Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10128"
+    ]
+  },
+  {
+    "addressPK": 170,
+    "lat": 0,
+    "long": 0,
+    "street": "Church of the Good Shepard",
+    "city": "NY",
+    "zipcode": [
+      "10044"
+    ]
+  },
+  {
+    "addressPK": 171,
+    "lat": 0,
+    "long": 0,
+    "street": "413 East 79th Street",
+    "city": "NY",
+    "zipcode": [
+      "10021"
+    ]
+  },
+  {
+    "addressPK": 172,
+    "lat": 0,
+    "long": 0,
+    "street": "310 East 67th Street",
+    "city": "NY",
+    "zipcode": [
+      "10065"
+    ]
+  },
+  {
+    "addressPK": 173,
+    "lat": 0,
+    "long": 0,
+    "street": "331 E 70th St",
+    "city": "NY",
+    "zipcode": [
+      "10021"
+    ]
+  },
+  {
+    "addressPK": 174,
+    "lat": 0,
+    "long": 0,
+    "street": "411 East 68th Street",
+    "city": "NY",
+    "zipcode": [
+      "10021"
+    ]
+  },
+  {
+    "addressPK": 175,
+    "lat": 0,
+    "long": 0,
+    "street": "341 East 87th Street",
+    "city": "NY",
+    "zipcode": [
+      "10128"
+    ]
+  },
+  {
+    "addressPK": 176,
+    "lat": 0,
+    "long": 0,
+    "street": "109 West 129th Street",
+    "city": "NY",
+    "zipcode": [
+      "10027"
+    ]
+  },
+  {
+    "addressPK": 177,
+    "lat": 0,
+    "long": 0,
+    "street": "240 West 145th Street",
+    "city": "NY",
+    "zipcode": [
+      "10039"
+    ]
+  },
+  {
+    "addressPK": 178,
+    "lat": 0,
+    "long": 0,
+    "street": "469 West 142nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10031"
+    ]
+  },
+  {
+    "addressPK": 179,
+    "lat": 0,
+    "long": 0,
+    "street": "204 West 134th Street",
+    "city": "NY",
+    "zipcode": [
+      "10030"
+    ]
+  },
+  {
+    "addressPK": 180,
+    "lat": 0,
+    "long": 0,
+    "street": "2044 Adam Clayton Powell Boulevard",
+    "city": "NY",
+    "zipcode": [
+      "10027"
+    ]
+  },
+  {
+    "addressPK": 181,
+    "lat": 0,
+    "long": 0,
+    "street": "521 W 126th St",
+    "city": "NY",
+    "zipcode": [
+      "10027"
+    ]
+  },
+  {
+    "addressPK": 182,
+    "lat": 0,
+    "long": 0,
+    "street": "2044 Seventh Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10027"
+    ]
+  },
+  {
+    "addressPK": 183,
+    "lat": 0,
+    "long": 0,
+    "street": "127 West 127th Street",
+    "city": "NY",
+    "zipcode": [
+      "10027"
+    ]
+  },
+  {
+    "addressPK": 184,
+    "lat": 0,
+    "long": 0,
+    "street": "310 West 139th Street",
+    "city": "NY",
+    "zipcode": [
+      "10037"
+    ]
+  },
+  {
+    "addressPK": 185,
+    "lat": 0,
+    "long": 0,
+    "street": "409 West 141st Street",
+    "city": "NY",
+    "zipcode": [
+      "10031"
+    ]
+  },
+  {
+    "addressPK": 186,
+    "lat": 0,
+    "long": 0,
+    "street": "91 Claremont Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10027"
+    ]
+  },
+  {
+    "addressPK": 187,
+    "lat": 0,
+    "long": 0,
+    "street": "1727 Amsterdam Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10031"
+    ]
+  },
+  {
+    "addressPK": 188,
+    "lat": 0,
+    "long": 0,
+    "street": "219 West 132nd Street",
+    "city": "NY",
+    "zipcode": [
+      "10027"
+    ]
+  },
+  {
+    "addressPK": 189,
+    "lat": 0,
+    "long": 0,
+    "street": "211 West 129th Street",
+    "city": "NY",
+    "zipcode": [
+      "10027"
+    ]
+  },
+  {
+    "addressPK": 190,
+    "lat": 0,
+    "long": 0,
+    "street": "425 West 144th Street",
+    "city": "NY",
+    "zipcode": [
+      "10031"
+    ]
+  },
+  {
+    "addressPK": 191,
+    "lat": 0,
+    "long": 0,
+    "street": "506 Lenox Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10037"
+    ]
+  },
+  {
+    "addressPK": 192,
+    "lat": 0,
+    "long": 0,
+    "street": "1854 Amsterdam Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10031"
+    ]
+  },
+  {
+    "addressPK": 193,
+    "lat": 0,
+    "long": 0,
+    "street": "58-66 West 135th Street",
+    "city": "NY",
+    "zipcode": [
+      "10037"
+    ]
+  },
+  {
+    "addressPK": 194,
+    "lat": 0,
+    "long": 0,
+    "street": "35 East 125 Street",
+    "city": "NY",
+    "zipcode": [
+      "10035"
+    ]
+  },
+  {
+    "addressPK": 195,
+    "lat": 0,
+    "long": 0,
+    "street": "223 East 117th Street",
+    "city": "NY",
+    "zipcode": [
+      "10035"
+    ]
+  },
+  {
+    "addressPK": 196,
+    "lat": 0,
+    "long": 0,
+    "street": "2126 2nd Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10029"
+    ]
+  },
+  {
+    "addressPK": 197,
+    "lat": 0,
+    "long": 0,
+    "street": "22 East 119th Street",
+    "city": "NY",
+    "zipcode": [
+      "10035"
+    ]
+  },
+  {
+    "addressPK": 198,
+    "lat": 0,
+    "long": 0,
+    "street": "701 West 168th Street",
+    "city": "NY",
+    "zipcode": [
+      "10032"
+    ]
+  },
+  {
+    "addressPK": 199,
+    "lat": 0,
+    "long": 0,
+    "street": "715 West 179th Street",
+    "city": "NY",
+    "zipcode": [
+      "10033"
+    ]
+  },
+  {
+    "addressPK": 200,
+    "lat": 0,
+    "long": 0,
+    "street": "431 West 204th Street",
+    "city": "NY",
+    "zipcode": [
+      "10034"
+    ]
+  },
+  {
+    "addressPK": 201,
+    "lat": 0,
+    "long": 0,
+    "street": "550 West 155th Street",
+    "city": "NY",
+    "zipcode": [
+      "10032"
+    ]
+  },
+  {
+    "addressPK": 202,
+    "lat": 0,
+    "long": 0,
+    "street": "557 West 156th Street",
+    "city": "NY",
+    "zipcode": [
+      "10032"
+    ]
+  },
+  {
+    "addressPK": 203,
+    "lat": 0,
+    "long": 0,
+    "street": "35 Thayer Street",
+    "city": "NY",
+    "zipcode": [
+      "10040"
+    ]
+  },
+  {
+    "addressPK": 204,
+    "lat": 0,
+    "long": 0,
+    "street": "502 West165th Street",
+    "city": "NY",
+    "zipcode": [
+      "10032"
+    ]
+  },
+  {
+    "addressPK": 205,
+    "lat": 0,
+    "long": 0,
+    "street": "91 Arden Street",
+    "city": "NY",
+    "zipcode": [
+      "10034"
+    ]
+  },
+  {
+    "addressPK": 206,
+    "lat": 0,
+    "long": 0,
+    "street": "20 Cumming Street",
+    "city": "NY",
+    "zipcode": [
+      "10034"
+    ]
+  },
+  {
+    "addressPK": 207,
+    "lat": 0,
+    "long": 0,
+    "street": "84 Vermilyea Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10034"
+    ]
+  },
+  {
+    "addressPK": 208,
+    "lat": 0,
+    "long": 0,
+    "street": "620 Isham Street",
+    "city": "NY",
+    "zipcode": [
+      "10034"
+    ]
+  },
+  {
+    "addressPK": 209,
+    "lat": 0,
+    "long": 0,
+    "street": "2005 Amsterdam Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10032"
+    ]
+  },
+  {
+    "addressPK": 210,
+    "lat": 0,
+    "long": 0,
+    "street": "178 Bennett Avenue",
+    "city": "NY",
+    "zipcode": [
+      "10040"
+    ]
+  },
+  {
+    "addressPK": 211,
+    "lat": 0,
+    "long": 0,
+    "street": "20 Cummings Street",
+    "city": "NY",
+    "zipcode": [
+      "10034"
+    ]
   }
 ]

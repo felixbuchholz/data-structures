@@ -163,5 +163,3179 @@
     "scheduleDetails": [
       "Open Anniversary Last Saturday"
     ]
+  },
+  {
+    "groupPK": 23,
+    "name": "A.A. ON THE BOWERY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 24,
+    "name": "AFTER FIVE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 25,
+    "name": "AFTERNOON DELIGHT",
+    "description": [
+      "Sex inventory 4th step literature meeting"
+    ],
+    "scheduleDetails": [
+      "Meets 1st and 3rd Saturday of the month from noon-1"
+    ]
+  },
+  {
+    "groupPK": 26,
+    "name": "ARTISTS IN RECOVERY (A.R.T.)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 27,
+    "name": "BAGELS AND BIG BOOK",
+    "description": [
+      "Big Book Workshop, Meeting ends at Noon"
+    ],
+    "scheduleDetails": [
+      "NOTE: Meeting only meets on the 1st and 3rd Sunday of each month"
+    ]
+  },
+  {
+    "groupPK": 28,
+    "name": "CENTER MEETING",
+    "description": [
+      "A short meditation opens the meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 29,
+    "name": "EAST VILLAGE SOBER AGNOSTICS",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 30,
+    "name": "GREENWICH VILLAGE",
+    "description": [
+      "Parents with children are welcome"
+    ],
+    "scheduleDetails": [
+      "Monday Step = Rotates Steps 1, 2 and 3, Friday = T. Last Friday"
+    ]
+  },
+  {
+    "groupPK": 31,
+    "name": "GRUPO CENTRAL",
+    "description": [
+      "Spanish speaking meetings"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 32,
+    "name": "HAPPY, JOYOUS AND FREE",
+    "description": [
+      "Topic Meeting for gay men approaching and over 40, all are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 33,
+    "name": "LOWER EAST SIDE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 34,
+    "name": "MIDNITE",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 12:30 = Meditation, 2am Meetings = Pitch meeting with candlelight",
+      "Monday 8pm = Topic, Tuesday .10pm = Tradition meeting last Tuesday ., Thursday 10pm = Problems in Sobriety",
+      "Sunday 8pm = Bus.Meeting last Sunday, Saturday 10pm = Anniversary Last"
+    ]
+  },
+  {
+    "groupPK": 35,
+    "name": "NEW GROUP",
+    "description": [
+      "Gay and Lesbian focus. All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 36,
+    "name": "PERRY STREET WORKSHOP",
+    "description": [],
+    "scheduleDetails": [
+      "No 8:30 or 10:15 1st Wednesday of month due to Bus. meeting",
+      "Wednesday 10:15pm = No BB 1st Wednesday"
+    ]
+  },
+  {
+    "groupPK": 37,
+    "name": "PRIMETIME NYC (I)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 38,
+    "name": "RED DOOR",
+    "description": [
+      "All meetings are Gay and Lesbian focused. All are welcome"
+    ],
+    "scheduleDetails": [
+      "Friday 7:00pm = Promises Meeting"
+    ]
+  },
+  {
+    "groupPK": 39,
+    "name": "ROOM FOR IMPROVEMENT (:I)",
+    "description": [],
+    "scheduleDetails": [
+      "Wednesday = Topic, Thursday = Promises and Friday = Tradition meeting Last Friday"
+    ]
+  },
+  {
+    "groupPK": 40,
+    "name": "ROOM FOR IMPROVEMENT (:I)",
+    "description": [],
+    "scheduleDetails": [
+      "Wednesday = Topic, Thursday = Promises and Friday = Tradition meeting Last Friday"
+    ]
+  },
+  {
+    "groupPK": 41,
+    "name": "ROOM FOR IMPROVEMENT (:I)",
+    "description": [],
+    "scheduleDetails": [
+      "Wednesday = Topic, Thursday = Promises and Friday = Tradition meeting Last Friday"
+    ]
+  },
+  {
+    "groupPK": 42,
+    "name": "ROOM FOR IMPROVEMENT (:I)",
+    "description": [],
+    "scheduleDetails": [
+      "Wednesday = Topic, Thursday = Promises and Friday = Tradition meeting Last Friday"
+    ]
+  },
+  {
+    "groupPK": 43,
+    "name": "ROOM FOR IMPROVEMENT (:I)",
+    "description": [],
+    "scheduleDetails": [
+      "Wednesday = Topic, Thursday = Promises and Friday = Tradition meeting Last Friday"
+    ]
+  },
+  {
+    "groupPK": 44,
+    "name": "ROOM FOR IMPROVEMENT (:II)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 45,
+    "name": "ROOM FOR IMPROVEMENT (:II)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 46,
+    "name": "SHERIDAN SQUARE FOLLIES",
+    "description": [
+      "Gay and Lesbian Focus. All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 47,
+    "name": "SOHO (:I)",
+    "description": [],
+    "scheduleDetails": [
+      "Monday 7pm = Anniversary Last Monday, Friday 6:30pm = Interpreted for Deaf and Hard of Hearing"
+    ]
+  },
+  {
+    "groupPK": 48,
+    "name": "SOHO (:I)",
+    "description": [],
+    "scheduleDetails": [
+      "Monday 7pm = Anniversary Last Monday, Friday 6:30pm = Interpreted for Deaf and Hard of Hearing"
+    ]
+  },
+  {
+    "groupPK": 49,
+    "name": "SOHO (:I)",
+    "description": [],
+    "scheduleDetails": [
+      "Monday 7pm = Anniversary Last Monday, Friday 6:30pm = Interpreted for Deaf and Hard of Hearing"
+    ]
+  },
+  {
+    "groupPK": 50,
+    "name": "SOHO (:I)",
+    "description": [],
+    "scheduleDetails": [
+      "Monday 7pm = Anniversary Last Monday, Friday 6:30pm = Interpreted for Deaf and Hard of Hearing"
+    ]
+  },
+  {
+    "groupPK": 51,
+    "name": "SPIRITUAL WORKSHOP",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 52,
+    "name": "T&A",
+    "description": [
+      "Literature"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 53,
+    "name": "TEN PLUS",
+    "description": [],
+    "scheduleDetails": [
+      "The speaker will have 10+ years of sobriety, all welcome"
+    ]
+  },
+  {
+    "groupPK": 54,
+    "name": "THE CAPTAIN'S TABLE",
+    "description": [
+      "Men’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 55,
+    "name": "TOGETHER WE CAN",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 56,
+    "name": "WEDNESDAY FOCUS",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 57,
+    "name": "WEST VILLAGE WOMEN",
+    "description": [],
+    "scheduleDetails": [
+      "Focus women 5+ years of sobriety, all are welcome"
+    ]
+  },
+  {
+    "groupPK": 58,
+    "name": "WOMEN INTO ACTION",
+    "description": [
+      "Women’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 59,
+    "name": "WOMEN TOGETHER (:II)",
+    "description": [
+      "Women’s Meeting",
+      "Lesbian focus. All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 60,
+    "name": "12 CONCEPTS WORKSHOP",
+    "description": [
+      "A.A.’s 12 Concepts Meeting"
+    ],
+    "scheduleDetails": [
+      "Only meets on the 1st Wednesday of the month"
+    ]
+  },
+  {
+    "groupPK": 61,
+    "name": "22 BELOW",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": [
+      "Tradition meeting 1st Wednesday, Friday = Topic, Saturday = Round Robin Sharing"
+    ]
+  },
+  {
+    "groupPK": 62,
+    "name": "AA AT THE THREE JEWELS",
+    "description": [
+      "Topic meeting, focus is on meditation"
+    ],
+    "scheduleDetails": [
+      "Thursday meeting ends at 7:10"
+    ]
+  },
+  {
+    "groupPK": 63,
+    "name": "AGNOSTICS AT NOON",
+    "description": [
+      "LGBT Focus, all are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 64,
+    "name": "ALIVE AGAIN",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 65,
+    "name": "AT BILL'S PLACE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 66,
+    "name": "ATLANTIC BY THE BOOK",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 67,
+    "name": "ATLANTIC DOWNTOWN",
+    "description": [],
+    "scheduleDetails": [
+      "No entry before 5:30"
+    ]
+  },
+  {
+    "groupPK": 68,
+    "name": "AVENUE B CLEAN AND DRY",
+    "description": [],
+    "scheduleDetails": [
+      "Anniversaries last Thursday of month"
+    ]
+  },
+  {
+    "groupPK": 69,
+    "name": "BIG BOOK MAGIC",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 70,
+    "name": "CHELSEA MORNINGS",
+    "description": [],
+    "scheduleDetails": [
+      "Wednesday alternates between Step and Tradition meeting"
+    ]
+  },
+  {
+    "groupPK": 71,
+    "name": "CHELSEA NOONERS",
+    "description": [
+      "All Meetings Are Non-Smoking"
+    ],
+    "scheduleDetails": [
+      "Anniversary Last Thursday"
+    ]
+  },
+  {
+    "groupPK": 72,
+    "name": "COMPLETE ABANDON",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 73,
+    "name": "COMPLETELY SOBER",
+    "description": [
+      "Non-Smoking Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 74,
+    "name": "CROSSROADS",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 75,
+    "name": "EAST MEETS WEST IN SOBRIETY",
+    "description": [
+      "Non-Smoking Meeting"
+    ],
+    "scheduleDetails": [
+      "Open Anniversary Last Wednesday"
+    ]
+  },
+  {
+    "groupPK": 76,
+    "name": "EAST VILLAGE GROUP",
+    "description": [
+      "LGBT",
+      "All welcome"
+    ],
+    "scheduleDetails": [
+      "Tuesday 7pm = Artists in Recovery, all welcome",
+      "8:30 1st Tuesday of Month Bus mtg. at 8:05"
+    ]
+  },
+  {
+    "groupPK": 77,
+    "name": "EXPERIENCE STRENGTH AND HOPE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 78,
+    "name": "GRACE ON BROADWAY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 79,
+    "name": "GRAMERCY",
+    "description": [],
+    "scheduleDetails": [
+      "Last Monday 6:30pm = Anniversary Last Thursday Tradition meeting"
+    ]
+  },
+  {
+    "groupPK": 80,
+    "name": "GRATEFUL GROUP OF A.A.",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 81,
+    "name": "GRUPO EL MILAGRO",
+    "description": [
+      "Spanish speaking meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 82,
+    "name": "GRUPO GRATITUD",
+    "description": [
+      "Spanish speaking meetings"
+    ],
+    "scheduleDetails": [
+      "Monday = Step 1st Monday"
+    ]
+  },
+  {
+    "groupPK": 83,
+    "name": "GRUPO SOBRIEDAD",
+    "description": [
+      "Spanish speaking meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 84,
+    "name": "HIGH NOON",
+    "description": [
+      "Interpreted for the deaf and hard of hearing"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 85,
+    "name": "JUST FOR TODAY",
+    "description": [
+      "Please Do Not Call the Synagogue for Meeting Info"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 86,
+    "name": "LAeX",
+    "description": [
+      "LA Transplants/Vistors All Welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 87,
+    "name": "LEARNING TO LIVE ( :1)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 88,
+    "name": "LEARNING TO LIVE ( :II)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 89,
+    "name": "LIVING NOW",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 7pm = 4th and 5th Step Workshop, Beginners 3 speaker panel",
+      "Saturday and Sunday 10am Meeting is in the main theatre"
+    ]
+  },
+  {
+    "groupPK": 90,
+    "name": "LIVING TODAY",
+    "description": [
+      "Gay and lesbian focus. All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 91,
+    "name": "MADISON PARK BEGINNERS",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 92,
+    "name": "MANHATTAN",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": [
+      "Open Anniversary Last Tuesday"
+    ]
+  },
+  {
+    "groupPK": 93,
+    "name": "N.Y.U. (NOW YOU UNDERSTAND)",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 2pm = 11th Step Meditation, Thursday 12:30pm = Topic, Friday 12:30pm",
+      "Note: There Is No 2:00 Meeting On The Last Day Of The Month",
+      "Anniversary Last Weekday of the Month"
+    ]
+  },
+  {
+    "groupPK": 94,
+    "name": "NEVER HAD A LEGAL DRINK",
+    "description": [],
+    "scheduleDetails": [
+      "Anniversary Last Thursday"
+    ]
+  },
+  {
+    "groupPK": 95,
+    "name": "NEW LIFE IN SOBRIETY",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": [
+      "Tradition meeting 1st Monday, Anniversary Last Friday"
+    ]
+  },
+  {
+    "groupPK": 96,
+    "name": "NINJAS IN RECOVERY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 97,
+    "name": "NINTH AVENUE (:II)",
+    "description": [],
+    "scheduleDetails": [
+      "Friday 6pm OD = 11th Step Meditation, Friday 7:15pm O = Anniversary Last Friday, +HIV Topic",
+      "LGBTQ Friendly. All are welcome. Friday 7:15 CD = Relationships in Sobriety",
+      "Business meeting at Holy Apostoles on 1st Monday a"
+    ]
+  },
+  {
+    "groupPK": 98,
+    "name": "NINTH AVENUE (:II)",
+    "description": [],
+    "scheduleDetails": [
+      "Friday 6pm OD = 11th Step Meditation, Friday 7:15pm O = Anniversary Last Friday, +HIV Topic",
+      "LGBTQ Friendly. All are welcome. Friday 7:15 CD = Relationships in Sobriety",
+      "Business meeting at Holy Apostoles on 1st Monday a"
+    ]
+  },
+  {
+    "groupPK": 99,
+    "name": "NINTH AVENUE (:II)",
+    "description": [],
+    "scheduleDetails": [
+      "Friday 6pm OD = 11th Step Meditation, Friday 7:15pm O = Anniversary Last Friday, +HIV Topic",
+      "LGBTQ Friendly. All are welcome. Friday 7:15 CD = Relationships in Sobriety",
+      "Business meeting at Holy Apostoles on 1st Monday a"
+    ]
+  },
+  {
+    "groupPK": 100,
+    "name": "NINTH AVENUE (:II)",
+    "description": [],
+    "scheduleDetails": [
+      "Friday 6pm OD = 11th Step Meditation, Friday 7:15pm O = Anniversary Last Friday, +HIV Topic",
+      "LGBTQ Friendly. All are welcome. Friday 7:15 CD = Relationships in Sobriety",
+      "Business meeting at Holy Apostoles on 1st Monday a"
+    ]
+  },
+  {
+    "groupPK": 101,
+    "name": "NINTH AVENUE (:II)",
+    "description": [],
+    "scheduleDetails": [
+      "Friday 6pm OD = 11th Step Meditation, Friday 7:15pm O = Anniversary Last Friday, +HIV Topic",
+      "LGBTQ Friendly. All are welcome. Friday 7:15 CD = Relationships in Sobriety",
+      "Business meeting at Holy Apostoles on 1st Monday a"
+    ]
+  },
+  {
+    "groupPK": 102,
+    "name": "NINTH AVENUE (:II)",
+    "description": [],
+    "scheduleDetails": [
+      "Friday 6pm OD = 11th Step Meditation, Friday 7:15pm O = Anniversary Last Friday, +HIV Topic",
+      "LGBTQ Friendly. All are welcome. Friday 7:15 CD = Relationships in Sobriety",
+      "Business meeting at Holy Apostoles on 1st Monday a"
+    ]
+  },
+  {
+    "groupPK": 103,
+    "name": "NINTH AVENUE (:II)",
+    "description": [],
+    "scheduleDetails": [
+      "Friday 6pm OD = 11th Step Meditation, Friday 7:15pm O = Anniversary Last Friday, +HIV Topic",
+      "LGBTQ Friendly. All are welcome. Friday 7:15 CD = Relationships in Sobriety",
+      "Business meeting at Holy Apostoles on 1st Monday a"
+    ]
+  },
+  {
+    "groupPK": 104,
+    "name": "NINTH AVENUE (:II)",
+    "description": [],
+    "scheduleDetails": [
+      "Friday 6pm OD = 11th Step Meditation, Friday 7:15pm O = Anniversary Last Friday, +HIV Topic",
+      "LGBTQ Friendly. All are welcome. Friday 7:15 CD = Relationships in Sobriety",
+      "Business meeting at Holy Apostoles on 1st Monday a"
+    ]
+  },
+  {
+    "groupPK": 105,
+    "name": "OADW (ONCE A DRUNK WOMAN)",
+    "description": [],
+    "scheduleDetails": [
+      "Women’s Meeting except for last Tuesday of the month"
+    ]
+  },
+  {
+    "groupPK": 106,
+    "name": "P.A.X",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 107,
+    "name": "POT LUCK",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 108,
+    "name": "POTPOURRI",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting Last Tuesday, Thursday = Topic"
+    ]
+  },
+  {
+    "groupPK": 109,
+    "name": "PRIMETIME NYC (II)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 110,
+    "name": "SATURDAY BEGINNERS",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 111,
+    "name": "SATURDAY WEEKENDERS",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 112,
+    "name": "SAVE HER A SEAT",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday = S Last Tuesday and focus is on women with 5 years of sobriety or more. All are welcome",
+      "Friday = O Last Friday and focus is on women with 5 years of sobriety or less. All are welcome",
+      "Friday beginners = Trans Welcome"
+    ]
+  },
+  {
+    "groupPK": 113,
+    "name": "SECOND AVENUE CLEAN AND DRY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 114,
+    "name": "SOBER MIRACLES",
+    "description": [
+      "S&M Lifestyles"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 115,
+    "name": "SOBRIETY ON THE SQUARE",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting Last Tuesday, Friday = Topic, Saturday = 11th Step Meditation"
+    ]
+  },
+  {
+    "groupPK": 116,
+    "name": "SPEAKER MAGIC",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 117,
+    "name": "STRAIGHT 12 (:II) DOWNTOWN SATURDAY NIGHT",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 118,
+    "name": "SUNDAY AT SIX",
+    "description": [
+      "TEMPORARILY MEETING AT THE LGBT CENTERER 208 W 13TH UNTIL FURTHER NOTICE"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 119,
+    "name": "SUNDAY MORNING MEDITATION",
+    "description": [
+      "11th Step Meditation Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 120,
+    "name": "SUNDAY NOONERS",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 121,
+    "name": "SURVIVORS IN SOBRIETY",
+    "description": [
+      "Focus is on dealing with cancer in recovery. All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 122,
+    "name": "SVOBODA",
+    "description": [
+      "Ukrainian language translation is available if needed"
+    ],
+    "scheduleDetails": [
+      "Sunday = As Bill Sees It"
+    ]
+  },
+  {
+    "groupPK": 123,
+    "name": "T.G.I.F. & S.",
+    "description": [],
+    "scheduleDetails": [
+      "Friday B = 1st Time in AA Only"
+    ]
+  },
+  {
+    "groupPK": 124,
+    "name": "THE 12th STREET WORKSHOP",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 4:30 = Business Mtg Only 1st and Anniversary Last Sunday",
+      "Sunday 7:30pm, Tuesday 5:30, Wednesday 8:30pm and Saturday 10:30am = 11th Step Meditation"
+    ]
+  },
+  {
+    "groupPK": 125,
+    "name": "THE FELLOWSHIP CLUB",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 126,
+    "name": "TRANSGENDER FOCUS",
+    "description": [
+      "Trans-female focus"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 127,
+    "name": "TWELVE AT SIX",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 128,
+    "name": "UPON AWAKENING",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 129,
+    "name": "VILLAGE AGNOSTICS",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 5:30pm meets only on the last Sunday of the month"
+    ]
+  },
+  {
+    "groupPK": 130,
+    "name": "VILLAGE OPEN DISCUSSION (V.O.D.)",
+    "description": [],
+    "scheduleDetails": [
+      "1st and 3rd Week = Step/Big Book, 2nd and 4th Week = Promises"
+    ]
+  },
+  {
+    "groupPK": 131,
+    "name": "VILLAGE SOBER",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 132,
+    "name": "WEEKENDERS",
+    "description": [
+      "Please Do Not Call the Y for Meeting Info"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 133,
+    "name": "WEST 22nd STREET SOBRIETY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 134,
+    "name": "WESTWINGERS",
+    "description": [
+      "Lesbian and gay focus. All are welcome",
+      "Meeting format is 'Round Robin.'"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 135,
+    "name": "WHOLESALE MIRACLES",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 136,
+    "name": "WOMEN NOW",
+    "description": [],
+    "scheduleDetails": [
+      "Topic Meeting and Anniversary Last Tuesday"
+    ]
+  },
+  {
+    "groupPK": 137,
+    "name": "WOMEN TOGETHER (:I)",
+    "description": [
+      "Women’s Meeting",
+      "Lesbian Focus. All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 138,
+    "name": "WOMEN'S SATURDAY ELEVENTH STEP MEDITATION",
+    "description": [
+      "11th Step Meditation Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 139,
+    "name": "WORKS IN PROGRESS",
+    "description": [
+      "Rotating Literature"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 140,
+    "name": "YOUNG AND WISE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 141,
+    "name": "4 THE GRACE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 142,
+    "name": "42nd AT 9:00pm",
+    "description": [],
+    "scheduleDetails": [
+      "Saturday = A.A. Literature"
+    ]
+  },
+  {
+    "groupPK": 143,
+    "name": "A NEW FREEDOM",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 144,
+    "name": "ABINGDON SQUARE IN CHELSEA",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 145,
+    "name": "ADVENTURES IN SOBRIETY",
+    "description": [
+      "Gay and Lesbian Focus. All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 146,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 147,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 148,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 149,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 150,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 151,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 152,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 153,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 154,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 155,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 156,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 157,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 158,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 159,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 160,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 161,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 162,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 163,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 164,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 165,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 166,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 167,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 168,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 169,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 170,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 171,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 172,
+    "name": "ALANON HOUSE (AA Meetings Only)",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 2pm = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 173,
+    "name": "AMAZING GRACE",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": [
+      "Tradition meeting Last Thursday"
+    ]
+  },
+  {
+    "groupPK": 174,
+    "name": "ANNEX (:I)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 175,
+    "name": "ANNEX (:II)",
+    "description": [
+      "Gay and Lesbian focus. All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 176,
+    "name": "ARTISTS IN RECOVERY",
+    "description": [
+      "All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 177,
+    "name": "BEGINNERS",
+    "description": [
+      "Readings from Living Sober"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 178,
+    "name": "BETWEEN SHOWS",
+    "description": [
+      "Non-Smoking Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 179,
+    "name": "BLUEPRINT FOR LIVING",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 180,
+    "name": "BOOKSHOP AT NOON",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": [
+      "No Meeting on Legal Holidays"
+    ]
+  },
+  {
+    "groupPK": 181,
+    "name": "CLEAN AND DRY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 182,
+    "name": "COMMUTERS SPECIAL",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 183,
+    "name": "D.I.V.A. (Divinely Inspired Vivacious Alcoholics)",
+    "description": [
+      "Women’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 184,
+    "name": "FIFTH AVENUE STEP",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 185,
+    "name": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 12:30 = Tradition meeting 1st Tuesday"
+    ]
+  },
+  {
+    "groupPK": 186,
+    "name": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 12:30 = Tradition meeting 1st Tuesday"
+    ]
+  },
+  {
+    "groupPK": 187,
+    "name": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 12:30 = Tradition meeting 1st Tuesday"
+    ]
+  },
+  {
+    "groupPK": 188,
+    "name": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 12:30 = Tradition meeting 1st Tuesday"
+    ]
+  },
+  {
+    "groupPK": 189,
+    "name": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 12:30 = Tradition meeting 1st Tuesday"
+    ]
+  },
+  {
+    "groupPK": 190,
+    "name": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 12:30 = Tradition meeting 1st Tuesday"
+    ]
+  },
+  {
+    "groupPK": 191,
+    "name": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 12:30 = Tradition meeting 1st Tuesday"
+    ]
+  },
+  {
+    "groupPK": 192,
+    "name": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 12:30 = Tradition meeting 1st Tuesday"
+    ]
+  },
+  {
+    "groupPK": 193,
+    "name": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 12:30 = Tradition meeting 1st Tuesday"
+    ]
+  },
+  {
+    "groupPK": 194,
+    "name": "FIRESIDE (:I) WEEKDAY MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday 12:30 = Tradition meeting 1st Tuesday"
+    ]
+  },
+  {
+    "groupPK": 195,
+    "name": "FOGLIFTERS",
+    "description": [],
+    "scheduleDetails": [
+      "Wednesday Step Meeting"
+    ]
+  },
+  {
+    "groupPK": 196,
+    "name": "FORTY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 197,
+    "name": "GREEN ROOM",
+    "description": [
+      "Focus is on those in the entertainment industry. All are welcome",
+      "As Bill Sees It"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 198,
+    "name": "GRUPO BUENA VOLUNTAD",
+    "description": [
+      "All meetings are Open Discussion format"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 199,
+    "name": "HELL'S KITCHEN",
+    "description": [],
+    "scheduleDetails": [
+      "Anniversary 1st Monday, Tradition meeting 2nd and S Last Thursday"
+    ]
+  },
+  {
+    "groupPK": 200,
+    "name": "HENRY HUDSON",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 201,
+    "name": "JOE AND CHARLIE CD MEETING",
+    "description": [
+      "Big Book Workshop"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 202,
+    "name": "LEARNING TO LIVE (:I)",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 203,
+    "name": "LUCKY ONES",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 204,
+    "name": "MIDNIGHT IN MIDTOWN",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting Last Sunday, Monday = Came To Believe",
+      "Last Saturday Open Anniversary"
+    ]
+  },
+  {
+    "groupPK": 205,
+    "name": "MIRACLE",
+    "description": [],
+    "scheduleDetails": [
+      "Open on Holidays"
+    ]
+  },
+  {
+    "groupPK": 206,
+    "name": "MORNING CALL",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 207,
+    "name": "NEW BUT WEST",
+    "description": [],
+    "scheduleDetails": [
+      "Tuesday Step = Numbers 4-7, Wednesday 5:30 = Grapevine Topic, Thursday 12:30 Step = Numbers 4-7",
+      "Thursday 5:30 = Tradition meeting last Thursday, Friday BB = Tradition meeting last Friday, Friday Step = Numbers 8-12"
+    ]
+  },
+  {
+    "groupPK": 208,
+    "name": "NEW PHOENIX",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 209,
+    "name": "NINTH AVENUE (:I)",
+    "description": [
+      "LGBTQ Friendly. All are welcome"
+    ],
+    "scheduleDetails": [
+      "Business meeting held on 1st Monday at 7:45pm"
+    ]
+  },
+  {
+    "groupPK": 210,
+    "name": "NINTH AVENUE (:I)",
+    "description": [
+      "LGBTQ Friendly. All are welcome"
+    ],
+    "scheduleDetails": [
+      "Business meeting held on 1st Monday at 7:45pm"
+    ]
+  },
+  {
+    "groupPK": 211,
+    "name": "NINTH AVENUE (:I)",
+    "description": [
+      "LGBTQ Friendly. All are welcome"
+    ],
+    "scheduleDetails": [
+      "Business meeting held on 1st Monday at 7:45pm"
+    ]
+  },
+  {
+    "groupPK": 212,
+    "name": "NINTH AVENUE (:I)",
+    "description": [
+      "LGBTQ Friendly. All are welcome"
+    ],
+    "scheduleDetails": [
+      "Business meeting held on 1st Monday at 7:45pm"
+    ]
+  },
+  {
+    "groupPK": 213,
+    "name": "NINTH AVENUE (:I)",
+    "description": [
+      "LGBTQ Friendly. All are welcome"
+    ],
+    "scheduleDetails": [
+      "Business meeting held on 1st Monday at 7:45pm"
+    ]
+  },
+  {
+    "groupPK": 214,
+    "name": "NINTH AVENUE (:I)",
+    "description": [
+      "LGBTQ Friendly. All are welcome"
+    ],
+    "scheduleDetails": [
+      "Business meeting held on 1st Monday at 7:45pm"
+    ]
+  },
+  {
+    "groupPK": 215,
+    "name": "NU GARDEN",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 216,
+    "name": "PARK BENCH (:I)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 217,
+    "name": "POWERLESS",
+    "description": [],
+    "scheduleDetails": [
+      "Friday = Living Sober, Saturday = Promises"
+    ]
+  },
+  {
+    "groupPK": 218,
+    "name": "PROMISES",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 219,
+    "name": "RAINBOW ROOM",
+    "description": [
+      "Gay, Lesbian, Bisexual and Transgender Focus. All are welcome"
+    ],
+    "scheduleDetails": [
+      "Last Saturday of month = 'Open Anniversary'"
+    ]
+  },
+  {
+    "groupPK": 220,
+    "name": "RENAISSANCE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 221,
+    "name": "SATURDAY ROTATING 12 STEP",
+    "description": [
+      "Rotating Step meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 222,
+    "name": "SPIRITUAL FRIDAYS",
+    "description": [
+      "Topic meeting, focus is on Spirituality"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 223,
+    "name": "ST. THOMAS A.M.",
+    "description": [
+      "Round Robin Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 224,
+    "name": "STATLER AT NOON",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": [
+      "Tradition meeting Last Thursday",
+      "S other Thursdays"
+    ]
+  },
+  {
+    "groupPK": 225,
+    "name": "STEPS AND TRADITIONS ON WEDNESDAY",
+    "description": [],
+    "scheduleDetails": [
+      "T-1st Wednesday"
+    ]
+  },
+  {
+    "groupPK": 226,
+    "name": "SUNDAY NIGHT BEGINNERS",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 227,
+    "name": "TUESDAY SOBER AGNOSTICS",
+    "description": [
+      "Agnostic- no prayer"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 228,
+    "name": "WEST 58th STREET STEP",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 229,
+    "name": "WOMEN OVER FORTY",
+    "description": [
+      "Women’s Meeting"
+    ],
+    "scheduleDetails": [
+      "S 1st, C 2nd, BB 3rd, O Anniversary Meeting 4th Friday"
+    ]
+  },
+  {
+    "groupPK": 230,
+    "name": "YOUNG IN 164",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 231,
+    "name": "YOUNG PEOPLE'S MEETING",
+    "description": [
+      "Young People BB Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 232,
+    "name": "AA LITERATURE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 233,
+    "name": "BREAKFAST CLUB",
+    "description": [],
+    "scheduleDetails": [
+      "All meetings are Round Robin format except Thursday",
+      "Tuesday = Alternating Step/ Tradition meeting"
+    ]
+  },
+  {
+    "groupPK": 234,
+    "name": "CARLYLE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 235,
+    "name": "CITY GROUP",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting -7:30am last Monday, Anniversary -12:30 Last Thursday"
+    ]
+  },
+  {
+    "groupPK": 236,
+    "name": "COURAGE TO CHANGE",
+    "description": [],
+    "scheduleDetails": [
+      "Wednesday 6:15 BB = OD Big Book Study",
+      "Friday 7:30pm = Anniversary Meeting every Friday"
+    ]
+  },
+  {
+    "groupPK": 237,
+    "name": "EMPIRE STATE",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting Last Wednesday"
+    ]
+  },
+  {
+    "groupPK": 238,
+    "name": "GOTHAM",
+    "description": [],
+    "scheduleDetails": [
+      "Beginners Meeting 2nd and 4th Sunday",
+      "Step Meeting 1st and 3rd Sunday"
+    ]
+  },
+  {
+    "groupPK": 239,
+    "name": "GRAND CENTRAL",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": [
+      "Tradition meeting = Last Tuesday, Friday = Anniversary 2nd to Last Friday"
+    ]
+  },
+  {
+    "groupPK": 240,
+    "name": "GRUPO BRASIL",
+    "description": [
+      "Portugese speaking meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 241,
+    "name": "LIFE LINE",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 242,
+    "name": "LUNCH BUNCH",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting 3rd Wednesday Open Anniversary or Open Discussion Meeting last Friday"
+    ]
+  },
+  {
+    "groupPK": 243,
+    "name": "LUNCHTIME EXPRESS AT THE MUSTARD SEED",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 244,
+    "name": "MEDITATION SATURDAY NIGHT",
+    "description": [],
+    "scheduleDetails": [
+      "11th S Meditation"
+    ]
+  },
+  {
+    "groupPK": 245,
+    "name": "MONDAY MEN",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 246,
+    "name": "MURRAY HILL",
+    "description": [],
+    "scheduleDetails": [
+      "No Meetings on Legal Holidays"
+    ]
+  },
+  {
+    "groupPK": 247,
+    "name": "MUSTARD SEED",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 7:30am, Tuesday 6:15pm B and Wednesday 6:15pm C = Meditation Workshop",
+      "Sunday 9:30am Step = Back to Basics, Friday 7:30pm = Anniversary every Friday"
+    ]
+  },
+  {
+    "groupPK": 248,
+    "name": "REBELLION DOGS",
+    "description": [
+      "Living Sober"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 249,
+    "name": "SATURDAY EAST",
+    "description": [],
+    "scheduleDetails": [
+      "Focus is on members under 60 days. All are welcome",
+      "Anniversaries last week of month"
+    ]
+  },
+  {
+    "groupPK": 250,
+    "name": "SATURDAY STEP",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 251,
+    "name": "SERENITY EAST",
+    "description": [],
+    "scheduleDetails": [
+      "Friday 6:30 = Steps 3 and 11"
+    ]
+  },
+  {
+    "groupPK": 252,
+    "name": "SERENITY EAST (:I)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 253,
+    "name": "SILKWORTH WOMEN'S",
+    "description": [
+      "Women’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 254,
+    "name": "ST. BART'S TWELVE",
+    "description": [],
+    "scheduleDetails": [
+      "Anniversary Last Monday, T-Last Wednesday,  Topic-Last Friday All meetings are OPEN to Public"
+    ]
+  },
+  {
+    "groupPK": 255,
+    "name": "STRAIGHT 12",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 256,
+    "name": "TEMPLETON",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 257,
+    "name": "TRAFALGAR",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 258,
+    "name": "TUDOR",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 259,
+    "name": "WOMEN'S ELEVENTH STEP",
+    "description": [],
+    "scheduleDetails": [
+      "11th Step, Anniversary 3rd Wednesday"
+    ]
+  },
+  {
+    "groupPK": 260,
+    "name": "A NEW DAY",
+    "description": [],
+    "scheduleDetails": [
+      "Monday = As Bill Sees It, Wednesday = Living Sober"
+    ]
+  },
+  {
+    "groupPK": 261,
+    "name": "A VISION FOR YOU",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 262,
+    "name": "AFTER EIGHT (:i)",
+    "description": [
+      "The group’s focus is on long-term sobriety",
+      "But all A.A. members are welcome"
+    ],
+    "scheduleDetails": [
+      "Tuesday = AA Literature/Topic meeting"
+    ]
+  },
+  {
+    "groupPK": 263,
+    "name": "AFTER EIGHT (:ii)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 264,
+    "name": "ALTERED ATTITUDES",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 265,
+    "name": "AMSTERDAM",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting - Last Friday, Anniversary-Last Saturday"
+    ]
+  },
+  {
+    "groupPK": 266,
+    "name": "ANSONIA",
+    "description": [],
+    "scheduleDetails": [
+      "Anniversary Meeting last Monday"
+    ]
+  },
+  {
+    "groupPK": 267,
+    "name": "ATLANTIC WEST STEP & TRADITION",
+    "description": [
+      "Alternating Step and Tradition meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 268,
+    "name": "BLOOMINGDALE",
+    "description": [
+      "All Meetings Are Non-Smoking"
+    ],
+    "scheduleDetails": [
+      "Anniversary meeting last Tuesday at 6:15"
+    ]
+  },
+  {
+    "groupPK": 269,
+    "name": "BROADWAY AT 96TH",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 270,
+    "name": "CADILLACS FOR EVERYONE",
+    "description": [
+      "Men’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 271,
+    "name": "CAMPUS CHEER",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 272,
+    "name": "CENTRAL PARK WEST",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting Last Thursday"
+    ]
+  },
+  {
+    "groupPK": 273,
+    "name": "CHELSEA RIVERSIDE",
+    "description": [],
+    "scheduleDetails": [
+      "10:15pm = Topic Meeting"
+    ]
+  },
+  {
+    "groupPK": 274,
+    "name": "CHOCK FULL OF SOBRIETY",
+    "description": [],
+    "scheduleDetails": [
+      "S 1st and Tradition meeting Last Friday"
+    ]
+  },
+  {
+    "groupPK": 275,
+    "name": "CLASSEN HALL (:II)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 276,
+    "name": "CLASSEN HALL STEP MEETING ( :I )",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 277,
+    "name": "COLUMBUS AT FIVE",
+    "description": [
+      "Children are welcome at all meetings",
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 278,
+    "name": "EIGHTIETH STREET BEGINNERS",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 279,
+    "name": "FAST BREAK",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 280,
+    "name": "FAST BREAK WEEKEND",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 281,
+    "name": "FIRESIDE (:II) WEEKEND MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting 1st Saturday @ 12:30pm"
+    ]
+  },
+  {
+    "groupPK": 282,
+    "name": "FIRESIDE (:II) WEEKEND MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting 1st Saturday @ 12:30pm"
+    ]
+  },
+  {
+    "groupPK": 283,
+    "name": "FIRESIDE (:II) WEEKEND MEETINGS ONLY",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting 1st Saturday @ 12:30pm"
+    ]
+  },
+  {
+    "groupPK": 284,
+    "name": "FIRST THINGS FIRST",
+    "description": [],
+    "scheduleDetails": [
+      "Last Saturday of month at 10:15 = anniversary meeting"
+    ]
+  },
+  {
+    "groupPK": 285,
+    "name": "FRIDAY NIGHT STEP",
+    "description": [],
+    "scheduleDetails": [
+      "MEETING NOW TAKES PLACE YEAR ROUND!"
+    ]
+  },
+  {
+    "groupPK": 286,
+    "name": "GRUPO CAMINO REAL",
+    "description": [
+      "Spanish speaking meetings"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 287,
+    "name": "GRUPO DULCES 24",
+    "description": [
+      "Bilingual English-Spanish Meetings"
+    ],
+    "scheduleDetails": [
+      "B Last Friday"
+    ]
+  },
+  {
+    "groupPK": 288,
+    "name": "GRUPO LUZ DIVINA",
+    "description": [
+      "Spanish speaking meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 289,
+    "name": "HARGRAVE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 290,
+    "name": "LAMBDA WEST",
+    "description": [
+      "Gay Men and Women Focus. All are welcome"
+    ],
+    "scheduleDetails": [
+      "Wednesday 6pm = Interpreted for the deaf and hard of hearing"
+    ]
+  },
+  {
+    "groupPK": 291,
+    "name": "MANHATTAN VALLEY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 292,
+    "name": "METROPOLIS MEN'S MEETING",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 293,
+    "name": "MID",
+    "description": [],
+    "scheduleDetails": [
+      "Monday = 11th Step Meditation, Friday = Alt.Step and Tradition meeting Meeting"
+    ]
+  },
+  {
+    "groupPK": 294,
+    "name": "MORNINGSIDE",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 295,
+    "name": "MORNINGSIDE HEIGHTS BEGINNERS",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 296,
+    "name": "NEVER TOO LATE",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 297,
+    "name": "NIGHT LIGHT",
+    "description": [
+      "Non-Smoking Meeting"
+    ],
+    "scheduleDetails": [
+      "Tradition meeting 1st Monday"
+    ]
+  },
+  {
+    "groupPK": 298,
+    "name": "NIGHT LIGHT BEGINNERS",
+    "description": [
+      "Non-Smoking Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 299,
+    "name": "NINETY",
+    "description": [],
+    "scheduleDetails": [
+      "Anniversary Last Thursday, Friday = Promises, Saturday = As Bill Sees It"
+    ]
+  },
+  {
+    "groupPK": 300,
+    "name": "OXFORD (:I)",
+    "description": [
+      "Interpreted for the Deaf and Hard of Hearing"
+    ],
+    "scheduleDetails": [
+      "No meetings on holidays"
+    ]
+  },
+  {
+    "groupPK": 301,
+    "name": "OXFORD (:I)",
+    "description": [
+      "Interpreted for the Deaf and Hard of Hearing"
+    ],
+    "scheduleDetails": [
+      "No meetings on holidays"
+    ]
+  },
+  {
+    "groupPK": 302,
+    "name": "OXFORD (:I)",
+    "description": [
+      "Interpreted for the Deaf and Hard of Hearing"
+    ],
+    "scheduleDetails": [
+      "No meetings on holidays"
+    ]
+  },
+  {
+    "groupPK": 303,
+    "name": "PROMISES PROMISES",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 304,
+    "name": "RENEWAL WEST",
+    "description": [],
+    "scheduleDetails": [
+      "Anniversary Last Sunday"
+    ]
+  },
+  {
+    "groupPK": 305,
+    "name": "ROUTES",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 306,
+    "name": "RUDE AWAKENING",
+    "description": [
+      "Living Sober"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 307,
+    "name": "SMITHEREENS",
+    "description": [
+      "All Meetings Are Non-Smoking"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 308,
+    "name": "SOBER STEPPING",
+    "description": [],
+    "scheduleDetails": [
+      "Alternates between the Steps and Promises"
+    ]
+  },
+  {
+    "groupPK": 309,
+    "name": "SUNDAY MEN'S TOPIC",
+    "description": [
+      "Men’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 310,
+    "name": "SUNDAY WEST",
+    "description": [
+      "Round Robin Topic Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 311,
+    "name": "TURN IT OVER",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting Last Friday"
+    ]
+  },
+  {
+    "groupPK": 312,
+    "name": "WAY OF LIFE",
+    "description": [],
+    "scheduleDetails": [
+      "10am = As Bill Sees It, 11:15am = Topic Meeting"
+    ]
+  },
+  {
+    "groupPK": 313,
+    "name": "WE AGNOSTICS OF NYC",
+    "description": [],
+    "scheduleDetails": [
+      "S Last Thursday, No Prayers"
+    ]
+  },
+  {
+    "groupPK": 314,
+    "name": "WE ARE NOT DOCTORS (WESTSIDE)",
+    "description": [
+      "Issues of medication in recovery are discussed. All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 315,
+    "name": "WEST END",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 316,
+    "name": "WESTSIDE 11th STEP MEDITATION WORKSHOP",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 317,
+    "name": "WESTSIDE STEP",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 318,
+    "name": "WESTSIDE YOUNG PEOPLE",
+    "description": [],
+    "scheduleDetails": [
+      "Anniversary Meeting Last Saturday"
+    ]
+  },
+  {
+    "groupPK": 319,
+    "name": "WITHOUT A PRAYER",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 320,
+    "name": "WOMEN LIVING SOBER",
+    "description": [],
+    "scheduleDetails": [
+      "S 2nd Wednesday"
+    ]
+  },
+  {
+    "groupPK": 321,
+    "name": "WOMEN WEST AA",
+    "description": [
+      "Women’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 322,
+    "name": "WOMEN'S BEGINNING LITERATURE",
+    "description": [],
+    "scheduleDetails": [
+      "Wednesday = Alternate BB and Living Sober"
+    ]
+  },
+  {
+    "groupPK": 323,
+    "name": "WOMEN'S ELEVENTH STEP MEETING",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 324,
+    "name": "WOMEN'S TELL IT LIKE IT IS",
+    "description": [
+      "Women’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 325,
+    "name": "WOMEN'S WESTSIDE TOPIC",
+    "description": [
+      "Women’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 326,
+    "name": "WRITING SOBER",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 327,
+    "name": "A BAFFLED LOT",
+    "description": [
+      "Topic Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 328,
+    "name": "A.A. TRADITIONS AND HISTORY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 329,
+    "name": "ACTIVE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 330,
+    "name": "AFTERNOON AWAKENING",
+    "description": [],
+    "scheduleDetails": [
+      "Monday = Living Sober, Thursday = 11 Step with meditation, Friday = 3rd Step"
+    ]
+  },
+  {
+    "groupPK": 331,
+    "name": "ATLANTIC ELEVENTH STEP MEDITATION",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 332,
+    "name": "ATLANTIC GROUP (:I)",
+    "description": [
+      "Three speaker"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 333,
+    "name": "ATLANTIC GROUP (:II)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 334,
+    "name": "ATLANTIC GROUP (:III)",
+    "description": [
+      "Two speaker"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 335,
+    "name": "BREAKING THROUGH",
+    "description": [],
+    "scheduleDetails": [
+      "Open Last Friday"
+    ]
+  },
+  {
+    "groupPK": 336,
+    "name": "CAME TO BELIEVE",
+    "description": [],
+    "scheduleDetails": [
+      "Anniversary Last Sunday",
+      "Every other month"
+    ]
+  },
+  {
+    "groupPK": 337,
+    "name": "CARNEGIE HILL",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 338,
+    "name": "CENTRAL",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 339,
+    "name": "CHAPTER FIVE",
+    "description": [],
+    "scheduleDetails": [
+      "Friday 6:15 = Women’s Meeting"
+    ]
+  },
+  {
+    "groupPK": 340,
+    "name": "ELEVENTH STEP AT JAN HUS",
+    "description": [
+      "11th Step Meditation Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 341,
+    "name": "FEARLESS",
+    "description": [
+      "Topic Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 342,
+    "name": "FRIDAY CENTRAL",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 343,
+    "name": "FRIDAY NIGHT GAY MEN & WOMEN",
+    "description": [
+      "1st Step",
+      "Gay and lesbian focus. All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 344,
+    "name": "FRIDAY NIGHT MEN'S STEP",
+    "description": [
+      "Men’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 345,
+    "name": "HUMANISTS TOO",
+    "description": [
+      "Agnostic"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 346,
+    "name": "I'M ALL IN",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 347,
+    "name": "INTO ACTION MANHATTAN",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 348,
+    "name": "KITCHEN TABLE MEETING",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 349,
+    "name": "LENOX HILL",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 350,
+    "name": "LEX 80 STEP",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 351,
+    "name": "LIVE AND LET LIVE",
+    "description": [
+      "Gay and lesbian focus. All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 352,
+    "name": "MADISON 73",
+    "description": [
+      "All Meetings Are Non-Smoking"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 353,
+    "name": "MEDITATION (EXPECT MIRACLES)",
+    "description": [
+      "All meetings are 11th Step Meditation format"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 354,
+    "name": "MEN'S NYC BIG BOOK STEP STUDY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 355,
+    "name": "METROPOLITAN",
+    "description": [],
+    "scheduleDetails": [
+      "Wheel Chair Access on Tuesday and Sunday Only"
+    ]
+  },
+  {
+    "groupPK": 356,
+    "name": "MONDAY EAST TOPIC",
+    "description": [],
+    "scheduleDetails": [
+      "Round Robin format and No Meeting on Legal Holidays"
+    ]
+  },
+  {
+    "groupPK": 357,
+    "name": "MONDAY WOMEN",
+    "description": [
+      "Women’s Meeting"
+    ],
+    "scheduleDetails": [
+      "AA Literature Topic Meeting and Open last Monday"
+    ]
+  },
+  {
+    "groupPK": 358,
+    "name": "MORNING REFLECTIONS",
+    "description": [
+      "Daily Reflections readings and round robin format Discussion"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 359,
+    "name": "NEW CHOICES",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 360,
+    "name": "OPEN BOOK",
+    "description": [
+      "Big Book Study"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 361,
+    "name": "OUR PRIMARY PURPOSE",
+    "description": [
+      "Women’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 362,
+    "name": "PARK BENCH (:II)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 363,
+    "name": "PARK BENCH (:II)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 364,
+    "name": "PARK MADISON",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": [
+      "Tuesday 8pm = Topic Round Robin, Anniversary Last Friday @ 6:45",
+      "No Meetings In July and August"
+    ]
+  },
+  {
+    "groupPK": 365,
+    "name": "PERSEVERANCE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 366,
+    "name": "RECOVERY ROOM",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 367,
+    "name": "RENEWAL EAST",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 368,
+    "name": "RENEWAL NORTH",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 369,
+    "name": "RHINELANDER",
+    "description": [],
+    "scheduleDetails": [
+      "Monday 6pm and Thursday 6pm Meetings end @ 6:50pm"
+    ]
+  },
+  {
+    "groupPK": 370,
+    "name": "ROOSEVELT ISLAND SERENITY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 371,
+    "name": "SEVENTY",
+    "description": [],
+    "scheduleDetails": [
+      "Sunday 10am = 11th S, Tuesday 6am = Came To Believe",
+      "Thursday 6am = Step and Tradition meeting"
+    ]
+  },
+  {
+    "groupPK": 372,
+    "name": "SOBER WOMEN",
+    "description": [
+      "Women’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 373,
+    "name": "STEP BY STEP",
+    "description": [
+      "Non-Smoking Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 374,
+    "name": "SUNDAY ON 70TH",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 375,
+    "name": "SUTTON",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 376,
+    "name": "THREE TWELVES",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 377,
+    "name": "TRINITY",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": [
+      "Anniversary Last Tuesday @ 7:15pm",
+      "Last Friday @ 7PM = Tradition meeting"
+    ]
+  },
+  {
+    "groupPK": 378,
+    "name": "WE HUMANISTS",
+    "description": [
+      "No prayers and a Non-Smoking Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 379,
+    "name": "WEDNESDAY EAST ON THURSDAY",
+    "description": [
+      "Round Robin format"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 380,
+    "name": "YORKVILLE",
+    "description": [
+      "Non-Smoking Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 381,
+    "name": "A CHANCE TO LIVE AGAIN",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 382,
+    "name": "AA IT WORKS II",
+    "description": [],
+    "scheduleDetails": [
+      "Thursday = Altern.BB, Living Sober and Other A.A. Literature",
+      "Friday = Alternates between Step and Tradition"
+    ]
+  },
+  {
+    "groupPK": 383,
+    "name": "AA IT WORKS II",
+    "description": [],
+    "scheduleDetails": [
+      "Thursday = Altern.BB, Living Sober and Other A.A. Literature",
+      "Friday = Alternates between Step and Tradition"
+    ]
+  },
+  {
+    "groupPK": 384,
+    "name": "AA IT WORKS II",
+    "description": [],
+    "scheduleDetails": [
+      "Thursday = Altern.BB, Living Sober and Other A.A. Literature",
+      "Friday = Alternates between Step and Tradition"
+    ]
+  },
+  {
+    "groupPK": 385,
+    "name": "AA IT WORKS II",
+    "description": [],
+    "scheduleDetails": [
+      "Thursday = Altern.BB, Living Sober and Other A.A. Literature",
+      "Friday = Alternates between Step and Tradition"
+    ]
+  },
+  {
+    "groupPK": 386,
+    "name": "ATTITUDE ADJUSTMENT",
+    "description": [],
+    "scheduleDetails": [
+      "Topic 1st Saturday"
+    ]
+  },
+  {
+    "groupPK": 387,
+    "name": "CONVENT",
+    "description": [],
+    "scheduleDetails": [
+      "B-3rd Saturday"
+    ]
+  },
+  {
+    "groupPK": 388,
+    "name": "FELLOWSHIP AT NOON",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting If there is a fifth Wednesday"
+    ]
+  },
+  {
+    "groupPK": 389,
+    "name": "GRUPO TRASMITELO",
+    "description": [
+      "Spanish speaking meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 390,
+    "name": "HARLEM HUMANISTS",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 391,
+    "name": "K.I.S.S.",
+    "description": [
+      "All meetings are non-smoking"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 392,
+    "name": "LEARNING TO LIVE SOBER",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 393,
+    "name": "LIVING CLEAN AND SOBER ON 121st STREET",
+    "description": [],
+    "scheduleDetails": [
+      "S 2nd, BB 3rd, OD 4th, Living Sober 5th week"
+    ]
+  },
+  {
+    "groupPK": 394,
+    "name": "MEDITATION COMES TO HARLEM",
+    "description": [],
+    "scheduleDetails": [
+      "Meeting is closed on holidays"
+    ]
+  },
+  {
+    "groupPK": 395,
+    "name": "MONDAY NIGHT CHALLENGE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 396,
+    "name": "PRIMARY PURPOSE",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 397,
+    "name": "PROMISES TWO FOR ONE",
+    "description": [
+      "3rd Sun-Topic"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 398,
+    "name": "REALITY CHECK",
+    "description": [
+      "Men’s Meeting"
+    ],
+    "scheduleDetails": [
+      "S 4th Saturday"
+    ]
+  },
+  {
+    "groupPK": 399,
+    "name": "RIVERSIDE",
+    "description": [
+      "Non-Smoking Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 400,
+    "name": "RIVERTON",
+    "description": [
+      "All meetings are non-smoking. No children allowed at meetings"
+    ],
+    "scheduleDetails": [
+      "S 2nd and Tradition meeting 4th Tuesday"
+    ]
+  },
+  {
+    "groupPK": 401,
+    "name": "SALEM",
+    "description": [],
+    "scheduleDetails": [
+      "O 2nd Wednesday"
+    ]
+  },
+  {
+    "groupPK": 402,
+    "name": "SOBER ADULT MEN",
+    "description": [
+      "Men’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 403,
+    "name": "ST. NICHOLAS",
+    "description": [],
+    "scheduleDetails": [
+      "S 2nd, C 3rd, BB 4th, and Grapevine 5th Thursday"
+    ]
+  },
+  {
+    "groupPK": 404,
+    "name": "STEPS 3 and 11",
+    "description": [],
+    "scheduleDetails": [
+      "B 1st, OD 2nd, S3 3rd, C Literature 4th, and S11 5th Sunday"
+    ]
+  },
+  {
+    "groupPK": 405,
+    "name": "SUGAR HILL",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 406,
+    "name": "TUESDAY BIG BOOK STUDY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 407,
+    "name": "UPTOWN BIG BOOK WORKSHOP",
+    "description": [],
+    "scheduleDetails": [
+      "Meeting meets each Saturday from mid-August through mid-December"
+    ]
+  },
+  {
+    "groupPK": 408,
+    "name": "YOU MAY CARE AFTER",
+    "description": [
+      "Non-Smoking Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 409,
+    "name": "125",
+    "description": [],
+    "scheduleDetails": [
+      "O 2nd, S 3rd, Anniversary 4th and BB 5th Saturday"
+    ]
+  },
+  {
+    "groupPK": 410,
+    "name": "EAST HARLEM",
+    "description": [],
+    "scheduleDetails": [
+      "Living Sober 1st Tuesday"
+    ]
+  },
+  {
+    "groupPK": 411,
+    "name": "GRUPO NUEVA VIDA",
+    "description": [
+      "Spanish speaking meetings"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 412,
+    "name": "HARLEM 1 PM RECOVERY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 413,
+    "name": "A NEW WAY OF LIVING",
+    "description": [],
+    "scheduleDetails": [
+      "Tradition meeting Last Thu, Living Sober and Anniversary Last Friday",
+      "No meetings on public holidays"
+    ]
+  },
+  {
+    "groupPK": 414,
+    "name": "BRIDGE TO SOBRIETY (:I)",
+    "description": [],
+    "scheduleDetails": [
+      "Living Sober Last Tuesday, Tradition meeting Last Wednesday"
+    ]
+  },
+  {
+    "groupPK": 415,
+    "name": "BRIDGE TO SOBRIETY (:II)",
+    "description": [
+      "10th Step"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 416,
+    "name": "DYCKMAN",
+    "description": [],
+    "scheduleDetails": [
+      "BB 1st and Tradition meeting Last Wednesday"
+    ]
+  },
+  {
+    "groupPK": 417,
+    "name": "FOUND",
+    "description": [
+      "Men’s meeting and Gay men’s focus, all are welcome"
+    ],
+    "scheduleDetails": [
+      "Anniversary last Saturday, 1st Saturday = S followed by Bus. Mtg"
+    ]
+  },
+  {
+    "groupPK": 418,
+    "name": "GRUPO DESPERTAR",
+    "description": [
+      "Spanish Speaking Meetings"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 419,
+    "name": "GRUPO LA FLAMA PANAMERICANA",
+    "description": [
+      "Spanish speaking meetings"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 420,
+    "name": "GRUPO LIBERTAD",
+    "description": [
+      "Spanish speaking meetings"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 421,
+    "name": "GRUPO RECUPERACION",
+    "description": [
+      "Spanish speaking meetings"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 422,
+    "name": "GRUPO UN NUEVO AMANECER",
+    "description": [
+      "Spanish Speaking Meetings"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 423,
+    "name": "HAPPY DESTINY",
+    "description": [],
+    "scheduleDetails": [
+      "LGBT All welcome. Sunday = As Bill Sees It",
+      "Wednesday = Steps1-3"
+    ]
+  },
+  {
+    "groupPK": 424,
+    "name": "INWOOD FORT TRYON",
+    "description": [],
+    "scheduleDetails": [
+      "Saturday Closed meeting rotating step/speaker/trad/anniversary",
+      "In Dec. first two weeks will be Step meeting"
+    ]
+  },
+  {
+    "groupPK": 425,
+    "name": "ISHAM PARK",
+    "description": [],
+    "scheduleDetails": [
+      "Open Anniversary Last Monday"
+    ]
+  },
+  {
+    "groupPK": 426,
+    "name": "PROGRESS NOT PERFECTION",
+    "description": [],
+    "scheduleDetails": [
+      "Open Discussion 1st, 2nd, 4th, and 5th when applicable",
+      "OPEN meeting is 3rd Fridays"
+    ]
+  },
+  {
+    "groupPK": 427,
+    "name": "THE MEN UPSTAIRS",
+    "description": [
+      "Men’s Meeting"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 428,
+    "name": "THE MISSING LINK",
+    "description": [
+      "1st- Step, 2nd-OD, 3rd-Beg., 4th- BB, 5th- OD"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 429,
+    "name": "UPPER MANHATTAN",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 430,
+    "name": "UPTOWN SATURDAY NIGHT",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 431,
+    "name": "WASHINGTON HEIGHTS (:I)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 432,
+    "name": "WASHINGTON HEIGHTS (:II)",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 433,
+    "name": "WHAT WE ARE LIKE NOW",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 434,
+    "name": "WOMEN'S NITE",
+    "description": [],
+    "scheduleDetails": []
   }
 ]
