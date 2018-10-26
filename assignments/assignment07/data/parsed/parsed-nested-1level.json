@@ -1,0 +1,2134 @@
+[
+  {
+    "meetingPK": 1,
+    "groupFK": 1,
+    "dateFK": 1,
+    "locationFK": 1,
+    "group": {
+      "groupPK": 1,
+      "name": "A DESIGN FOR LIVING",
+      "description": [],
+      "scheduleDetails": [
+        "No meetings on Holidays"
+      ]
+    },
+    "date": {
+      "datePK": 1,
+      "day": [
+        "Thursdays"
+      ],
+      "start": "7:00 AM",
+      "end": "8:00 AM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 1,
+      "name": "St Andrews Church",
+      "details": [
+        "Rectory Basement",
+        "Between Duane and Pearl Streets",
+        "@Duane and Centre behind Federal courthouse",
+        "Enter through driveway behind Church"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 2,
+    "groupFK": 1,
+    "dateFK": 2,
+    "locationFK": 1,
+    "group": {
+      "groupPK": 1,
+      "name": "A DESIGN FOR LIVING",
+      "description": [],
+      "scheduleDetails": [
+        "No meetings on Holidays"
+      ]
+    },
+    "date": {
+      "datePK": 2,
+      "day": [
+        "Tuesdays"
+      ],
+      "start": "7:00 AM",
+      "end": "8:00 AM",
+      "meetingType": [
+        "B"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 1,
+      "name": "St Andrews Church",
+      "details": [
+        "Rectory Basement",
+        "Between Duane and Pearl Streets",
+        "@Duane and Centre behind Federal courthouse",
+        "Enter through driveway behind Church"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 3,
+    "groupFK": 2,
+    "dateFK": 3,
+    "locationFK": 2,
+    "group": {
+      "groupPK": 2,
+      "name": "CHAMBERS STREET",
+      "description": [],
+      "scheduleDetails": [
+        "No meetings on Holidays"
+      ]
+    },
+    "date": {
+      "datePK": 3,
+      "day": [
+        "Mondays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 2,
+      "name": "St. Andrew's Church",
+      "details": [
+        "Enter through driveway behind Church",
+        "1 Block North of Chambers Street",
+        "LOCATION SUBJECT TO CHANGE- Call Inter-Group"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 4,
+    "groupFK": 2,
+    "dateFK": 4,
+    "locationFK": 2,
+    "group": {
+      "groupPK": 2,
+      "name": "CHAMBERS STREET",
+      "description": [],
+      "scheduleDetails": [
+        "No meetings on Holidays"
+      ]
+    },
+    "date": {
+      "datePK": 4,
+      "day": [
+        "Wednesdays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 2,
+      "name": "St. Andrew's Church",
+      "details": [
+        "Enter through driveway behind Church",
+        "1 Block North of Chambers Street",
+        "LOCATION SUBJECT TO CHANGE- Call Inter-Group"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 5,
+    "groupFK": 2,
+    "dateFK": 5,
+    "locationFK": 2,
+    "group": {
+      "groupPK": 2,
+      "name": "CHAMBERS STREET",
+      "description": [],
+      "scheduleDetails": [
+        "No meetings on Holidays"
+      ]
+    },
+    "date": {
+      "datePK": 5,
+      "day": [
+        "Thursdays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "B"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 2,
+      "name": "St. Andrew's Church",
+      "details": [
+        "Enter through driveway behind Church",
+        "1 Block North of Chambers Street",
+        "LOCATION SUBJECT TO CHANGE- Call Inter-Group"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 6,
+    "groupFK": 2,
+    "dateFK": 6,
+    "locationFK": 2,
+    "group": {
+      "groupPK": 2,
+      "name": "CHAMBERS STREET",
+      "description": [],
+      "scheduleDetails": [
+        "No meetings on Holidays"
+      ]
+    },
+    "date": {
+      "datePK": 6,
+      "day": [
+        "Fridays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "BB"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 2,
+      "name": "St. Andrew's Church",
+      "details": [
+        "Enter through driveway behind Church",
+        "1 Block North of Chambers Street",
+        "LOCATION SUBJECT TO CHANGE- Call Inter-Group"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 7,
+    "groupFK": 3,
+    "dateFK": 7,
+    "locationFK": 3,
+    "group": {
+      "groupPK": 3,
+      "name": "CHINATOWN",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 7,
+      "day": [
+        "Tuesdays"
+      ],
+      "start": "6:30 PM",
+      "end": "7:30 PM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 3,
+      "name": "Church of the Transfiguration",
+      "details": [
+        "Basement",
+        "@ Mott and Mosco Streets"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 2
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 8,
+    "groupFK": 4,
+    "dateFK": 8,
+    "locationFK": 4,
+    "group": {
+      "groupPK": 4,
+      "name": "DOWNTOWN",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 8,
+      "day": [
+        "Mondays"
+      ],
+      "start": "7:00 PM",
+      "end": "8:00 PM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 4,
+      "name": "St. Margaret's Residence",
+      "details": [
+        "1st Floor Library",
+        "@ Pearl Street"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 9,
+    "groupFK": 5,
+    "dateFK": 9,
+    "locationFK": 5,
+    "group": {
+      "groupPK": 5,
+      "name": "EXCHANGE VIEWS @ JOHN STREET CHURCH",
+      "description": [
+        "Email exchangeviews1215@yahoo.com for questions"
+      ],
+      "scheduleDetails": [
+        "Thursday 1:30 = Alt. Step/ Tradition meeting"
+      ]
+    },
+    "date": {
+      "datePK": 9,
+      "day": [
+        "Mondays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 5,
+      "name": "",
+      "details": [
+        "Between Nassau and William"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 4
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 10,
+    "groupFK": 5,
+    "dateFK": 10,
+    "locationFK": 5,
+    "group": {
+      "groupPK": 5,
+      "name": "EXCHANGE VIEWS @ JOHN STREET CHURCH",
+      "description": [
+        "Email exchangeviews1215@yahoo.com for questions"
+      ],
+      "scheduleDetails": [
+        "Thursday 1:30 = Alt. Step/ Tradition meeting"
+      ]
+    },
+    "date": {
+      "datePK": 10,
+      "day": [
+        "Tuesdays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 5,
+      "name": "",
+      "details": [
+        "Between Nassau and William"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 4
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 11,
+    "groupFK": 5,
+    "dateFK": 11,
+    "locationFK": 5,
+    "group": {
+      "groupPK": 5,
+      "name": "EXCHANGE VIEWS @ JOHN STREET CHURCH",
+      "description": [
+        "Email exchangeviews1215@yahoo.com for questions"
+      ],
+      "scheduleDetails": [
+        "Thursday 1:30 = Alt. Step/ Tradition meeting"
+      ]
+    },
+    "date": {
+      "datePK": 11,
+      "day": [
+        "Thursdays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 5,
+      "name": "",
+      "details": [
+        "Between Nassau and William"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 4
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 12,
+    "groupFK": 5,
+    "dateFK": 12,
+    "locationFK": 5,
+    "group": {
+      "groupPK": 5,
+      "name": "EXCHANGE VIEWS @ JOHN STREET CHURCH",
+      "description": [
+        "Email exchangeviews1215@yahoo.com for questions"
+      ],
+      "scheduleDetails": [
+        "Thursday 1:30 = Alt. Step/ Tradition meeting"
+      ]
+    },
+    "date": {
+      "datePK": 12,
+      "day": [
+        "Mondays"
+      ],
+      "start": "1:30 PM",
+      "end": "2:30 PM",
+      "meetingType": [
+        "B"
+      ],
+      "specialInterest": [
+        "Living Sober"
+      ]
+    },
+    "location": {
+      "locationPK": 5,
+      "name": "",
+      "details": [
+        "Between Nassau and William"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 4
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 13,
+    "groupFK": 5,
+    "dateFK": 13,
+    "locationFK": 5,
+    "group": {
+      "groupPK": 5,
+      "name": "EXCHANGE VIEWS @ JOHN STREET CHURCH",
+      "description": [
+        "Email exchangeviews1215@yahoo.com for questions"
+      ],
+      "scheduleDetails": [
+        "Thursday 1:30 = Alt. Step/ Tradition meeting"
+      ]
+    },
+    "date": {
+      "datePK": 13,
+      "day": [
+        "Thursdays"
+      ],
+      "start": "1:30 PM",
+      "end": "2:30 PM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 5,
+      "name": "",
+      "details": [
+        "Between Nassau and William"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 4
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 14,
+    "groupFK": 6,
+    "dateFK": 14,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 14,
+      "day": [
+        "Mondays"
+      ],
+      "start": "6:30 AM",
+      "end": "7:30 AM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": [
+        "Topic"
+      ]
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 15,
+    "groupFK": 6,
+    "dateFK": 15,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 15,
+      "day": [
+        "Tuesdays"
+      ],
+      "start": "6:30 AM",
+      "end": "7:30 AM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 16,
+    "groupFK": 6,
+    "dateFK": 16,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 16,
+      "day": [
+        "Wednesdays"
+      ],
+      "start": "6:30 AM",
+      "end": "7:30 AM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": [
+        "Topic"
+      ]
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 17,
+    "groupFK": 6,
+    "dateFK": 17,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 17,
+      "day": [
+        "Thursdays"
+      ],
+      "start": "6:30 AM",
+      "end": "7:30 AM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 18,
+    "groupFK": 6,
+    "dateFK": 18,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 18,
+      "day": [
+        "Fridays"
+      ],
+      "start": "6:30 AM",
+      "end": "7:30 AM",
+      "meetingType": [
+        "BB"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 19,
+    "groupFK": 6,
+    "dateFK": 19,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 19,
+      "day": [
+        "Mondays"
+      ],
+      "start": "7:30 AM",
+      "end": "8:30 AM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 20,
+    "groupFK": 6,
+    "dateFK": 20,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 20,
+      "day": [
+        "Tuesdays"
+      ],
+      "start": "7:30 AM",
+      "end": "8:30 AM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 21,
+    "groupFK": 6,
+    "dateFK": 21,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 21,
+      "day": [
+        "Wednesdays"
+      ],
+      "start": "7:30 AM",
+      "end": "8:30 AM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 22,
+    "groupFK": 6,
+    "dateFK": 22,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 22,
+      "day": [
+        "Thursdays"
+      ],
+      "start": "7:30 AM",
+      "end": "8:30 AM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 23,
+    "groupFK": 6,
+    "dateFK": 23,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 23,
+      "day": [
+        "Fridays"
+      ],
+      "start": "7:30 AM",
+      "end": "8:30 AM",
+      "meetingType": [
+        "B"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 24,
+    "groupFK": 6,
+    "dateFK": 24,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 24,
+      "day": [
+        "Sundays"
+      ],
+      "start": "7:45 AM",
+      "end": "8:45 AM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": [
+        "Round-Robin Meeting Format"
+      ]
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 25,
+    "groupFK": 6,
+    "dateFK": 25,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 25,
+      "day": [
+        "Saturdays"
+      ],
+      "start": "7:45 AM",
+      "end": "8:45 AM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": [
+        "Round-Robin Meeting Format"
+      ]
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 26,
+    "groupFK": 6,
+    "dateFK": 26,
+    "locationFK": 6,
+    "group": {
+      "groupPK": 6,
+      "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+      "description": [],
+      "scheduleDetails": [
+        "M 7:30 am = Tradition meeting 1st Monday"
+      ]
+    },
+    "date": {
+      "datePK": 26,
+      "day": [
+        "Fridays"
+      ],
+      "start": "5:30 PM",
+      "end": "6:30 PM",
+      "meetingType": [
+        "B"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 6,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is new location as of 9-12-14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 27,
+    "groupFK": 7,
+    "dateFK": 27,
+    "locationFK": 7,
+    "group": {
+      "groupPK": 7,
+      "name": "FRIDAY DOWNTOWN",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 27,
+      "day": [
+        "Fridays"
+      ],
+      "start": "6:00 PM",
+      "end": "7:00 PM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 7,
+      "name": "St. Andrew's Church",
+      "details": [
+        "Enter through driveway behind Church",
+        "1 Block North of Chamber Street, Behind Federal Courthouse",
+        "Note: Location Subject to change"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 28,
+    "groupFK": 8,
+    "dateFK": 28,
+    "locationFK": 8,
+    "group": {
+      "groupPK": 8,
+      "name": "GATEWAY",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 28,
+      "day": [
+        "Sundays"
+      ],
+      "start": "6:00 PM",
+      "end": "7:00 PM",
+      "meetingType": [
+        "BB"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 8,
+      "name": "St. Peter's Church",
+      "details": [
+        "Entrance on Church Street between Vesey and Barclay Streets"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 5
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 29,
+    "groupFK": 9,
+    "dateFK": 29,
+    "locationFK": 9,
+    "group": {
+      "groupPK": 9,
+      "name": "PASSING THE BAR",
+      "description": [],
+      "scheduleDetails": [
+        "Business meeting last Tuesday @ Mar, Jun, Sep and Dec.only",
+        "Promises 1st Wednesday, Tradition meeting Last Thursday"
+      ]
+    },
+    "date": {
+      "datePK": 29,
+      "day": [
+        "Mondays"
+      ],
+      "start": "1:15 PM",
+      "end": "2:15 PM",
+      "meetingType": [
+        "B"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 9,
+      "name": "St. Andrew's Church",
+      "details": [
+        "Enter through driveway behind Church",
+        "Between Duane and Pearl Streets",
+        "LOCATION IS SUBJECT TO CHANGE"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 30,
+    "groupFK": 9,
+    "dateFK": 30,
+    "locationFK": 9,
+    "group": {
+      "groupPK": 9,
+      "name": "PASSING THE BAR",
+      "description": [],
+      "scheduleDetails": [
+        "Business meeting last Tuesday @ Mar, Jun, Sep and Dec.only",
+        "Promises 1st Wednesday, Tradition meeting Last Thursday"
+      ]
+    },
+    "date": {
+      "datePK": 30,
+      "day": [
+        "Tuesdays"
+      ],
+      "start": "1:15 PM",
+      "end": "2:15 PM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 9,
+      "name": "St. Andrew's Church",
+      "details": [
+        "Enter through driveway behind Church",
+        "Between Duane and Pearl Streets",
+        "LOCATION IS SUBJECT TO CHANGE"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 31,
+    "groupFK": 9,
+    "dateFK": 31,
+    "locationFK": 9,
+    "group": {
+      "groupPK": 9,
+      "name": "PASSING THE BAR",
+      "description": [],
+      "scheduleDetails": [
+        "Business meeting last Tuesday @ Mar, Jun, Sep and Dec.only",
+        "Promises 1st Wednesday, Tradition meeting Last Thursday"
+      ]
+    },
+    "date": {
+      "datePK": 31,
+      "day": [
+        "Wednesdays"
+      ],
+      "start": "1:15 PM",
+      "end": "2:15 PM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": [
+        "Promises"
+      ]
+    },
+    "location": {
+      "locationPK": 9,
+      "name": "St. Andrew's Church",
+      "details": [
+        "Enter through driveway behind Church",
+        "Between Duane and Pearl Streets",
+        "LOCATION IS SUBJECT TO CHANGE"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 32,
+    "groupFK": 9,
+    "dateFK": 32,
+    "locationFK": 9,
+    "group": {
+      "groupPK": 9,
+      "name": "PASSING THE BAR",
+      "description": [],
+      "scheduleDetails": [
+        "Business meeting last Tuesday @ Mar, Jun, Sep and Dec.only",
+        "Promises 1st Wednesday, Tradition meeting Last Thursday"
+      ]
+    },
+    "date": {
+      "datePK": 32,
+      "day": [
+        "Thursdays"
+      ],
+      "start": "1:15 PM",
+      "end": "2:15 PM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 9,
+      "name": "St. Andrew's Church",
+      "details": [
+        "Enter through driveway behind Church",
+        "Between Duane and Pearl Streets",
+        "LOCATION IS SUBJECT TO CHANGE"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 33,
+    "groupFK": 9,
+    "dateFK": 33,
+    "locationFK": 9,
+    "group": {
+      "groupPK": 9,
+      "name": "PASSING THE BAR",
+      "description": [],
+      "scheduleDetails": [
+        "Business meeting last Tuesday @ Mar, Jun, Sep and Dec.only",
+        "Promises 1st Wednesday, Tradition meeting Last Thursday"
+      ]
+    },
+    "date": {
+      "datePK": 33,
+      "day": [
+        "Fridays"
+      ],
+      "start": "1:15 PM",
+      "end": "2:15 PM",
+      "meetingType": [
+        "BB"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 9,
+      "name": "St. Andrew's Church",
+      "details": [
+        "Enter through driveway behind Church",
+        "Between Duane and Pearl Streets",
+        "LOCATION IS SUBJECT TO CHANGE"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 34,
+    "groupFK": 10,
+    "dateFK": 34,
+    "locationFK": 10,
+    "group": {
+      "groupPK": 10,
+      "name": "S.O.B.E.R.",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 34,
+      "day": [
+        "Thursdays"
+      ],
+      "start": "7:30 PM",
+      "end": "8:45 PM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 10,
+      "name": "Saint Peter's Church",
+      "details": [
+        "Corner of Barclay and Church Streets",
+        "Enter on Church Street",
+        "Lower floor, Parish Office Room"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 5
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 35,
+    "groupFK": 11,
+    "dateFK": 35,
+    "locationFK": 11,
+    "group": {
+      "groupPK": 11,
+      "name": "SANE AND SOBER",
+      "description": [],
+      "scheduleDetails": [
+        "Alternating Closed and rotating 1, 2, 3 Step every other week. Open &#x2013",
+        "Last Wednesday"
+      ]
+    },
+    "date": {
+      "datePK": 35,
+      "day": [
+        "Wednesdays"
+      ],
+      "start": "7:00 PM",
+      "end": "8:00 PM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": [
+        "Mental Health Issues in Sobriety"
+      ]
+    },
+    "location": {
+      "locationPK": 11,
+      "name": "Hazelden Tribeca",
+      "details": [
+        "Between Lispenard and Canal Streets",
+        "Ground Floor, Broadway Room, Enter through Green Door",
+        "Mental Health Challenges in Sobriety"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 6
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 36,
+    "groupFK": 12,
+    "dateFK": 36,
+    "locationFK": 12,
+    "group": {
+      "groupPK": 12,
+      "name": "SATURDAY AFTERNOON DISCUSSION",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 36,
+      "day": [
+        "Saturdays"
+      ],
+      "start": "2:00 PM",
+      "end": "3:15 PM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 12,
+      "name": "Municipal Union Bldg DC 37",
+      "details": [
+        "Between Greenwich Street and West Side Highway",
+        "Ask security guard for room #"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 7
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 37,
+    "groupFK": 13,
+    "dateFK": 37,
+    "locationFK": 13,
+    "group": {
+      "groupPK": 13,
+      "name": "SEAMEN'S GROUP",
+      "description": [
+        "Co-ed meeting, all are welcome"
+      ],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 37,
+      "day": [
+        "Tuesdays"
+      ],
+      "start": "6:00 PM",
+      "end": "7:00 PM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 13,
+      "name": "St. Margaret's House",
+      "details": [
+        "Conference Room #1",
+        "@ Water and Fulton Streets"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 38,
+    "groupFK": 14,
+    "dateFK": 38,
+    "locationFK": 14,
+    "group": {
+      "groupPK": 14,
+      "name": "SEAPORT",
+      "description": [],
+      "scheduleDetails": [
+        "11th Step Meditation Monday, Topic Thursday"
+      ]
+    },
+    "date": {
+      "datePK": 38,
+      "day": [
+        "Thursdays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 14,
+      "name": "St. Margaret's House",
+      "details": [
+        "Corner of Fulton and Pearl Streets @ Water Street"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 39,
+    "groupFK": 14,
+    "dateFK": 39,
+    "locationFK": 14,
+    "group": {
+      "groupPK": 14,
+      "name": "SEAPORT",
+      "description": [],
+      "scheduleDetails": [
+        "11th Step Meditation Monday, Topic Thursday"
+      ]
+    },
+    "date": {
+      "datePK": 39,
+      "day": [
+        "Fridays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 14,
+      "name": "St. Margaret's House",
+      "details": [
+        "Corner of Fulton and Pearl Streets @ Water Street"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 40,
+    "groupFK": 14,
+    "dateFK": 40,
+    "locationFK": 14,
+    "group": {
+      "groupPK": 14,
+      "name": "SEAPORT",
+      "description": [],
+      "scheduleDetails": [
+        "11th Step Meditation Monday, Topic Thursday"
+      ]
+    },
+    "date": {
+      "datePK": 40,
+      "day": [
+        "Mondays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": [
+        "Meditation"
+      ]
+    },
+    "location": {
+      "locationPK": 14,
+      "name": "St. Margaret's House",
+      "details": [
+        "Corner of Fulton and Pearl Streets @ Water Street"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 41,
+    "groupFK": 14,
+    "dateFK": 41,
+    "locationFK": 14,
+    "group": {
+      "groupPK": 14,
+      "name": "SEAPORT",
+      "description": [],
+      "scheduleDetails": [
+        "11th Step Meditation Monday, Topic Thursday"
+      ]
+    },
+    "date": {
+      "datePK": 41,
+      "day": [
+        "Wednesdays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "BB"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 14,
+      "name": "St. Margaret's House",
+      "details": [
+        "Corner of Fulton and Pearl Streets @ Water Street"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 42,
+    "groupFK": 14,
+    "dateFK": 42,
+    "locationFK": 14,
+    "group": {
+      "groupPK": 14,
+      "name": "SEAPORT",
+      "description": [],
+      "scheduleDetails": [
+        "11th Step Meditation Monday, Topic Thursday"
+      ]
+    },
+    "date": {
+      "datePK": 42,
+      "day": [
+        "Tuesdays"
+      ],
+      "start": "12:15 PM",
+      "end": "1:15 PM",
+      "meetingType": [
+        "B"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 14,
+      "name": "St. Margaret's House",
+      "details": [
+        "Corner of Fulton and Pearl Streets @ Water Street"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 43,
+    "groupFK": 15,
+    "dateFK": 43,
+    "locationFK": 15,
+    "group": {
+      "groupPK": 15,
+      "name": "TOWER",
+      "description": [],
+      "scheduleDetails": [
+        "Step 1st Wednesday"
+      ]
+    },
+    "date": {
+      "datePK": 43,
+      "day": [
+        "Wednesdays"
+      ],
+      "start": "5:30 PM",
+      "end": "6:30 PM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 15,
+      "name": "Church of Saint Andrew",
+      "details": [],
+      "wheelchairAccess": false,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 44,
+    "groupFK": 16,
+    "dateFK": 44,
+    "locationFK": 16,
+    "group": {
+      "groupPK": 16,
+      "name": "TRIANGLE GROUP",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 44,
+      "day": [
+        "Sundays"
+      ],
+      "start": "11:00 AM",
+      "end": "12:00 PM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": [
+        "Meditation"
+      ]
+    },
+    "location": {
+      "locationPK": 16,
+      "name": "Tribeca 12 Building",
+      "details": [
+        "Canal and Lispendard Streets",
+        "Walk through green doors",
+        "First floor, rear",
+        "Additional meditation meeting on Sunday at 11:15 if room full"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 6
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 45,
+    "groupFK": 16,
+    "dateFK": 45,
+    "locationFK": 16,
+    "group": {
+      "groupPK": 16,
+      "name": "TRIANGLE GROUP",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 45,
+      "day": [
+        "Fridays"
+      ],
+      "start": "12:30 PM",
+      "end": "1:30 PM",
+      "meetingType": [
+        "BB"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 16,
+      "name": "Tribeca 12 Building",
+      "details": [
+        "Canal and Lispendard Streets",
+        "Walk through green doors",
+        "First floor, rear",
+        "Additional meditation meeting on Sunday at 11:15 if room full"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 6
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 46,
+    "groupFK": 16,
+    "dateFK": 46,
+    "locationFK": 16,
+    "group": {
+      "groupPK": 16,
+      "name": "TRIANGLE GROUP",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 46,
+      "day": [
+        "Mondays"
+      ],
+      "start": "6:30 PM",
+      "end": "7:30 PM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 16,
+      "name": "Tribeca 12 Building",
+      "details": [
+        "Canal and Lispendard Streets",
+        "Walk through green doors",
+        "First floor, rear",
+        "Additional meditation meeting on Sunday at 11:15 if room full"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 6
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 47,
+    "groupFK": 16,
+    "dateFK": 47,
+    "locationFK": 16,
+    "group": {
+      "groupPK": 16,
+      "name": "TRIANGLE GROUP",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 47,
+      "day": [
+        "Thursdays"
+      ],
+      "start": "6:30 PM",
+      "end": "7:30 PM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 16,
+      "name": "Tribeca 12 Building",
+      "details": [
+        "Canal and Lispendard Streets",
+        "Walk through green doors",
+        "First floor, rear",
+        "Additional meditation meeting on Sunday at 11:15 if room full"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 6
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 48,
+    "groupFK": 17,
+    "dateFK": 48,
+    "locationFK": 17,
+    "group": {
+      "groupPK": 17,
+      "name": "TRIBECA GROUP @ ST. MARGARET'S HOUSE",
+      "description": [
+        "Tribecagroup2014@gmail.com"
+      ],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 48,
+      "day": [
+        "Fridays"
+      ],
+      "start": "7:30 PM",
+      "end": "8:30 PM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 17,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is the new location as of 9/8/14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 49,
+    "groupFK": 17,
+    "dateFK": 49,
+    "locationFK": 17,
+    "group": {
+      "groupPK": 17,
+      "name": "TRIBECA GROUP @ ST. MARGARET'S HOUSE",
+      "description": [
+        "Tribecagroup2014@gmail.com"
+      ],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 49,
+      "day": [
+        "Saturdays"
+      ],
+      "start": "7:30 PM",
+      "end": "8:30 PM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 17,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is the new location as of 9/8/14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 50,
+    "groupFK": 17,
+    "dateFK": 50,
+    "locationFK": 17,
+    "group": {
+      "groupPK": 17,
+      "name": "TRIBECA GROUP @ ST. MARGARET'S HOUSE",
+      "description": [
+        "Tribecagroup2014@gmail.com"
+      ],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 50,
+      "day": [
+        "Tuesdays"
+      ],
+      "start": "7:30 PM",
+      "end": "8:30 PM",
+      "meetingType": [
+        "BB"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 17,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is the new location as of 9/8/14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 51,
+    "groupFK": 17,
+    "dateFK": 51,
+    "locationFK": 17,
+    "group": {
+      "groupPK": 17,
+      "name": "TRIBECA GROUP @ ST. MARGARET'S HOUSE",
+      "description": [
+        "Tribecagroup2014@gmail.com"
+      ],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 51,
+      "day": [
+        "Thursdays"
+      ],
+      "start": "7:30 PM",
+      "end": "8:30 PM",
+      "meetingType": [
+        "B"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 17,
+      "name": "",
+      "details": [
+        "Near Water",
+        "This is the new location as of 9/8/14"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 3
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 52,
+    "groupFK": 18,
+    "dateFK": 52,
+    "locationFK": 18,
+    "group": {
+      "groupPK": 18,
+      "name": "TRIBECA GROUP @ ST. PETER'S CHURCH",
+      "description": [
+        "Tribecagroup2014@gmail.com"
+      ],
+      "scheduleDetails": [
+        "Monday step - 3rd and 11th step workshop"
+      ]
+    },
+    "date": {
+      "datePK": 52,
+      "day": [
+        "Mondays"
+      ],
+      "start": "7:45 PM",
+      "end": "8:45 PM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 18,
+      "name": "St. Peter's Church",
+      "details": [
+        "Between Church and Broadway"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 8
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 53,
+    "groupFK": 18,
+    "dateFK": 53,
+    "locationFK": 18,
+    "group": {
+      "groupPK": 18,
+      "name": "TRIBECA GROUP @ ST. PETER'S CHURCH",
+      "description": [
+        "Tribecagroup2014@gmail.com"
+      ],
+      "scheduleDetails": [
+        "Monday step - 3rd and 11th step workshop"
+      ]
+    },
+    "date": {
+      "datePK": 53,
+      "day": [
+        "Wednesdays"
+      ],
+      "start": "8:00 PM",
+      "end": "9:00 PM",
+      "meetingType": [
+        "OD"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 18,
+      "name": "St. Peter's Church",
+      "details": [
+        "Between Church and Broadway"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 8
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 54,
+    "groupFK": 19,
+    "dateFK": 54,
+    "locationFK": 19,
+    "group": {
+      "groupPK": 19,
+      "name": "WOMEN'S DOWNTOWN AA STEP MEETING",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 54,
+      "day": [
+        "Wednesdays"
+      ],
+      "start": "1:15 PM",
+      "end": "2:15 PM",
+      "meetingType": [
+        "S"
+      ],
+      "specialInterest": null
+    },
+    "location": {
+      "locationPK": 19,
+      "name": "St. Andrew's Church",
+      "details": [
+        "On Plaza east of Centre Street and Reade St, 1st floor"
+      ],
+      "wheelchairAccess": false,
+      "addressFK": 1
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 55,
+    "groupFK": 20,
+    "dateFK": 55,
+    "locationFK": 15,
+    "group": {
+      "groupPK": 20,
+      "name": "YOUNG PEOPLE'S DIVERSITY",
+      "description": [
+        "Lesbian, Gay, Bi-sexual and Transgendered Focus",
+        "All are welcome"
+      ],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 55,
+      "day": [
+        "Wednesdays"
+      ],
+      "start": "8:30 PM",
+      "end": "9:30 PM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": [
+        "Gay, Lesbian and Bisexual"
+      ]
+    },
+    "location": {
+      "locationPK": 15,
+      "name": "Hazelden Center",
+      "details": [],
+      "wheelchairAccess": false,
+      "addressFK": 6
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 56,
+    "groupFK": 21,
+    "dateFK": 56,
+    "locationFK": 20,
+    "group": {
+      "groupPK": 21,
+      "name": "YOUNG PEOPLE'S STEP",
+      "description": [],
+      "scheduleDetails": []
+    },
+    "date": {
+      "datePK": 56,
+      "day": [
+        "Tuesdays"
+      ],
+      "start": "7:45 PM",
+      "end": "8:45 PM",
+      "meetingType": [
+        "C"
+      ],
+      "specialInterest": [
+        "Young People"
+      ]
+    },
+    "location": {
+      "locationPK": 20,
+      "name": "Hazelden Center",
+      "details": [
+        "Between West Broadway and Canal Street"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 6
+    },
+    "zone": 1
+  },
+  {
+    "meetingPK": 57,
+    "groupFK": 22,
+    "dateFK": 57,
+    "locationFK": 21,
+    "group": {
+      "groupPK": 22,
+      "name": "YOUTH ENJOYING SOBRIETY (Y.E.S.)",
+      "description": [],
+      "scheduleDetails": [
+        "Open Anniversary Last Saturday"
+      ]
+    },
+    "date": {
+      "datePK": 57,
+      "day": [
+        "Saturdays"
+      ],
+      "start": "7:00 PM",
+      "end": "8:15 PM",
+      "meetingType": [
+        "B"
+      ],
+      "specialInterest": [
+        "Young People"
+      ]
+    },
+    "location": {
+      "locationPK": 21,
+      "name": "Hazelden Center",
+      "details": [
+        "At Canal Street"
+      ],
+      "wheelchairAccess": true,
+      "addressFK": 6
+    },
+    "zone": 1
+  }
+]

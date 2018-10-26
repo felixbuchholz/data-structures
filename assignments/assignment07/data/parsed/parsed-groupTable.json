@@ -1,0 +1,167 @@
+[
+  {
+    "groupPK": 1,
+    "name": "A DESIGN FOR LIVING",
+    "description": [],
+    "scheduleDetails": [
+      "No meetings on Holidays"
+    ]
+  },
+  {
+    "groupPK": 2,
+    "name": "CHAMBERS STREET",
+    "description": [],
+    "scheduleDetails": [
+      "No meetings on Holidays"
+    ]
+  },
+  {
+    "groupPK": 3,
+    "name": "CHINATOWN",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 4,
+    "name": "DOWNTOWN",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 5,
+    "name": "EXCHANGE VIEWS @ JOHN STREET CHURCH",
+    "description": [
+      "Email exchangeviews1215@yahoo.com for questions"
+    ],
+    "scheduleDetails": [
+      "Thursday 1:30 = Alt. Step/ Tradition meeting"
+    ]
+  },
+  {
+    "groupPK": 6,
+    "name": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+    "description": [],
+    "scheduleDetails": [
+      "M 7:30 am = Tradition meeting 1st Monday"
+    ]
+  },
+  {
+    "groupPK": 7,
+    "name": "FRIDAY DOWNTOWN",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 8,
+    "name": "GATEWAY",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 9,
+    "name": "PASSING THE BAR",
+    "description": [],
+    "scheduleDetails": [
+      "Business meeting last Tuesday @ Mar, Jun, Sep and Dec.only",
+      "Promises 1st Wednesday, Tradition meeting Last Thursday"
+    ]
+  },
+  {
+    "groupPK": 10,
+    "name": "S.O.B.E.R.",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 11,
+    "name": "SANE AND SOBER",
+    "description": [],
+    "scheduleDetails": [
+      "Alternating Closed and rotating 1, 2, 3 Step every other week. Open &#x2013",
+      "Last Wednesday"
+    ]
+  },
+  {
+    "groupPK": 12,
+    "name": "SATURDAY AFTERNOON DISCUSSION",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 13,
+    "name": "SEAMEN'S GROUP",
+    "description": [
+      "Co-ed meeting, all are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 14,
+    "name": "SEAPORT",
+    "description": [],
+    "scheduleDetails": [
+      "11th Step Meditation Monday, Topic Thursday"
+    ]
+  },
+  {
+    "groupPK": 15,
+    "name": "TOWER",
+    "description": [],
+    "scheduleDetails": [
+      "Step 1st Wednesday"
+    ]
+  },
+  {
+    "groupPK": 16,
+    "name": "TRIANGLE GROUP",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 17,
+    "name": "TRIBECA GROUP @ ST. MARGARET'S HOUSE",
+    "description": [
+      "Tribecagroup2014@gmail.com"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 18,
+    "name": "TRIBECA GROUP @ ST. PETER'S CHURCH",
+    "description": [
+      "Tribecagroup2014@gmail.com"
+    ],
+    "scheduleDetails": [
+      "Monday step - 3rd and 11th step workshop"
+    ]
+  },
+  {
+    "groupPK": 19,
+    "name": "WOMEN'S DOWNTOWN AA STEP MEETING",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 20,
+    "name": "YOUNG PEOPLE'S DIVERSITY",
+    "description": [
+      "Lesbian, Gay, Bi-sexual and Transgendered Focus",
+      "All are welcome"
+    ],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 21,
+    "name": "YOUNG PEOPLE'S STEP",
+    "description": [],
+    "scheduleDetails": []
+  },
+  {
+    "groupPK": 22,
+    "name": "YOUTH ENJOYING SOBRIETY (Y.E.S.)",
+    "description": [],
+    "scheduleDetails": [
+      "Open Anniversary Last Saturday"
+    ]
+  }
+]

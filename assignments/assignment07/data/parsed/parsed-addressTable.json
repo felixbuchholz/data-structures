@@ -1,0 +1,80 @@
+[
+  {
+    "addressPK": 1,
+    "lat": 0,
+    "long": 0,
+    "street": "20 Cardinal Hayes Place",
+    "city": "NY",
+    "zipcode": [
+      "10007"
+    ]
+  },
+  {
+    "addressPK": 2,
+    "lat": 0,
+    "long": 0,
+    "street": "29 Mott Street",
+    "city": "NY",
+    "zipcode": [
+      "10013"
+    ]
+  },
+  {
+    "addressPK": 3,
+    "lat": 0,
+    "long": 0,
+    "street": "49 Fulton Street",
+    "city": "NY",
+    "zipcode": [
+      "10038"
+    ]
+  },
+  {
+    "addressPK": 4,
+    "lat": 0,
+    "long": 0,
+    "street": "44 John Street",
+    "city": "NY",
+    "zipcode": [
+      "10038"
+    ]
+  },
+  {
+    "addressPK": 5,
+    "lat": 0,
+    "long": 0,
+    "street": "22 Barclay Street",
+    "city": "NY",
+    "zipcode": null
+  },
+  {
+    "addressPK": 6,
+    "lat": 0,
+    "long": 0,
+    "street": "283 West Broadway",
+    "city": "NY",
+    "zipcode": [
+      "10013"
+    ]
+  },
+  {
+    "addressPK": 7,
+    "lat": 0,
+    "long": 0,
+    "street": "125 Barclay Street",
+    "city": "NY",
+    "zipcode": [
+      "10007"
+    ]
+  },
+  {
+    "addressPK": 8,
+    "lat": 0,
+    "long": 0,
+    "street": "22 Barclay Stree",
+    "city": "NY",
+    "zipcode": [
+      "10006"
+    ]
+  }
+]

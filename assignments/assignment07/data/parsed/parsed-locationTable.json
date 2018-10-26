@@ -1,0 +1,211 @@
+[
+  {
+    "locationPK": 1,
+    "name": "St Andrews Church",
+    "details": [
+      "Rectory Basement",
+      "Between Duane and Pearl Streets",
+      "@Duane and Centre behind Federal courthouse",
+      "Enter through driveway behind Church"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 1
+  },
+  {
+    "locationPK": 2,
+    "name": "St. Andrew's Church",
+    "details": [
+      "Enter through driveway behind Church",
+      "1 Block North of Chambers Street",
+      "LOCATION SUBJECT TO CHANGE- Call Inter-Group"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 1
+  },
+  {
+    "locationPK": 3,
+    "name": "Church of the Transfiguration",
+    "details": [
+      "Basement",
+      "@ Mott and Mosco Streets"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 2
+  },
+  {
+    "locationPK": 4,
+    "name": "St. Margaret's Residence",
+    "details": [
+      "1st Floor Library",
+      "@ Pearl Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 3
+  },
+  {
+    "locationPK": 5,
+    "name": "",
+    "details": [
+      "Between Nassau and William"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 4
+  },
+  {
+    "locationPK": 6,
+    "name": "",
+    "details": [
+      "Near Water",
+      "This is new location as of 9-12-14"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 3
+  },
+  {
+    "locationPK": 7,
+    "name": "St. Andrew's Church",
+    "details": [
+      "Enter through driveway behind Church",
+      "1 Block North of Chamber Street, Behind Federal Courthouse",
+      "Note: Location Subject to change"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 1
+  },
+  {
+    "locationPK": 8,
+    "name": "St. Peter's Church",
+    "details": [
+      "Entrance on Church Street between Vesey and Barclay Streets"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 5
+  },
+  {
+    "locationPK": 9,
+    "name": "St. Andrew's Church",
+    "details": [
+      "Enter through driveway behind Church",
+      "Between Duane and Pearl Streets",
+      "LOCATION IS SUBJECT TO CHANGE"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 1
+  },
+  {
+    "locationPK": 10,
+    "name": "Saint Peter's Church",
+    "details": [
+      "Corner of Barclay and Church Streets",
+      "Enter on Church Street",
+      "Lower floor, Parish Office Room"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 5
+  },
+  {
+    "locationPK": 11,
+    "name": "Hazelden Tribeca",
+    "details": [
+      "Between Lispenard and Canal Streets",
+      "Ground Floor, Broadway Room, Enter through Green Door",
+      "Mental Health Challenges in Sobriety"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 6
+  },
+  {
+    "locationPK": 12,
+    "name": "Municipal Union Bldg DC 37",
+    "details": [
+      "Between Greenwich Street and West Side Highway",
+      "Ask security guard for room #"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 7
+  },
+  {
+    "locationPK": 13,
+    "name": "St. Margaret's House",
+    "details": [
+      "Conference Room #1",
+      "@ Water and Fulton Streets"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 3
+  },
+  {
+    "locationPK": 14,
+    "name": "St. Margaret's House",
+    "details": [
+      "Corner of Fulton and Pearl Streets @ Water Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 3
+  },
+  {
+    "locationPK": 15,
+    "name": "Church of Saint Andrew",
+    "details": [],
+    "wheelchairAccess": false,
+    "addressFK": 1
+  },
+  {
+    "locationPK": 16,
+    "name": "Tribeca 12 Building",
+    "details": [
+      "Canal and Lispendard Streets",
+      "Walk through green doors",
+      "First floor, rear",
+      "Additional meditation meeting on Sunday at 11:15 if room full"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 6
+  },
+  {
+    "locationPK": 17,
+    "name": "",
+    "details": [
+      "Near Water",
+      "This is the new location as of 9/8/14"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 3
+  },
+  {
+    "locationPK": 18,
+    "name": "St. Peter's Church",
+    "details": [
+      "Between Church and Broadway"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 8
+  },
+  {
+    "locationPK": 19,
+    "name": "St. Andrew's Church",
+    "details": [
+      "On Plaza east of Centre Street and Reade St, 1st floor"
+    ],
+    "wheelchairAccess": false,
+    "addressFK": 1
+  },
+  {
+    "locationPK": 20,
+    "name": "Hazelden Center",
+    "details": [
+      "Between West Broadway and Canal Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 6
+  },
+  {
+    "locationPK": 21,
+    "name": "Hazelden Center",
+    "details": [
+      "At Canal Street"
+    ],
+    "wheelchairAccess": true,
+    "addressFK": 6
+  }
+]

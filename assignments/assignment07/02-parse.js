@@ -11,7 +11,7 @@ const paths = getPaths();
 
 function getPaths() {
   let paths = [];
-  for (var i = 1; i <= 10; i++) {
+  for (var i = 1; i <= 1; i++) {
     i = (i < 10) ? i = '0' + i : i;
     const path = `data/text/aa-meetings${i}.txt`
     paths.push(path)
@@ -26,9 +26,9 @@ let addressTable = [];
 let dateTable = [];
 
 let zone = 1;
-let groupPK = 1;
-let locationPK = 1;
-let addressPK = 1;
+let groupPK = 0; //solved
+let locationPK = 0; //solved
+let addressPK = 0; //solved
 let datePK = 1;
 
 async function processFiles(paths) {
@@ -89,15 +89,28 @@ async function processFiles(paths) {
           if (isDay != null && isDay != undefined && isDay != '') {
 
           // CREATE GROUP OBJECT
-            const group = {
+          let group;
+          if (!groupTable.some(e => e.name === getGroupName($, firstTD))) {
+              groupPK++;
+              group = {
                 groupPK: groupPK,
-                name: getGroupName($, firstTD),
+                name: getGroupName($, firstTD).replace(/[\s]+/g, ' '),
                 description: getDetails('group', firstTD),
                 scheduleDetails: getDetails('date', firstTD),
-
-                // details: getGroupDetails($, rowElem)
               }
-            // console.log(group.details);
+              groupTable.push(group)
+          } else {
+            const tableIndex = groupTable.findIndex(function(e) {
+              return e.name == getGroupName($, firstTD)
+            })
+            group = {
+              groupPK: groupTable[tableIndex].groupPK,
+              name: getGroupName($, firstTD).replace(/[\s]+/g, ' '),
+              description: getDetails('group', firstTD),
+              scheduleDetails: getDetails('date', firstTD),
+            }
+            // groupTable.push(group)
+          }
 
 
 
@@ -112,31 +125,80 @@ async function processFiles(paths) {
             }
 
 
+
             // CREATE ADDRESS OBJECT
-              const address = {
-                addressPK: addressPK,
+            let address;
+            if (!addressTable.some(e => e.street === getStreet(delArr))) {
+                addressPK++;
+                address = {
+                  addressPK: addressPK,
+                  lat: 0,
+                  long: 0,
+                  street: getStreet(delArr),
+                  city: 'NY',
+                  zipcode: $(rowElem).text().match(/\d{5}/g)
+                }
+                addressTable.push(address);
+            } else {
+              const tableIndex = addressTable.findIndex(function(e) {
+                return e.street == getStreet(delArr)
+              })
+              address = {
+                addressPK: addressTable[tableIndex].addressPK,
                 lat: 0,
                 long: 0,
                 street: getStreet(delArr),
                 city: 'NY',
                 zipcode: $(rowElem).text().match(/\d{5}/g)
               }
+              // addressTable.push(address);
+            }
+
+
 
             // CREATE LOCATION OBJECT
-              const location = {
-                locationPK : locationPK,
+            let location;
+            let equalDetails;
+            let tableIndex = -1
+            for (var i = 0; i < locationTable.length; i++) {
+              if (locationTable[i].details.join() == getDetails('location', firstTD).join()) {
+                equalDetails = true;
+                tableIndex = i;
+              }
+            }
+            if (!equalDetails) {
+                locationPK++;
+                console.log('new', locationPK);
+                location = {
+                  locationPK : locationPK,
+                  name : $('h4', firstTD).text(),
+                  details : getDetails('location', firstTD),
+                  wheelchairAccess : $(rowElem).text().includes('Wheelchair')? true : false,
+                  addressFK: address.addressPK,
+                  // address: address
+                }
+                locationTable.push(location)
+            } else {
+              // const tableIndex = locationTable.findIndex(function(e) {
+              //   return e.details.sort().join() == getDetails('location', firstTD).sort().join()
+              // })
+              console.log('old', tableIndex);
+              location = {
+                locationPK : locationTable[tableIndex].locationPK,
                 name : $('h4', firstTD).text(),
                 details : getDetails('location', firstTD),
                 wheelchairAccess : $(rowElem).text().includes('Wheelchair')? true : false,
                 addressFK: address.addressPK,
-                address: address
+                // address: address
               }
+            }
+
 
 
             // CREATE MEETING OBJECT
               meeting = {
                 meetingPK: meetingPK,
-                groupFK: groupPK,
+                groupFK: group.groupPK,
                 dateFK: datePK,
                 locationFK: location.locationPK,
                 group: group,
@@ -144,19 +206,24 @@ async function processFiles(paths) {
                 location: location,
                 zone: zone
               }
+
+              const justMeetingTable = {
+                meetingPK: meetingPK,
+                groupFK: group.groupPK,
+                dateFK: datePK,
+                locationFK: location.locationPK,
+              }
+
+              meetingTable.push(justMeetingTable)
+
+
               // console.log(location.details);
               meetings.push(meeting)
 
-              if (!groupTable.some(e => e.name === group.name)) {
-                  groupTable.push(group);
-                  console.log(groupPK);
-                  console.log('pushed');
-                  groupPK++;
-                  console.log(groupPK);
-              } else {
-                  console.log('not pushed');
-                  console.log(groupPK);
-              }
+
+
+
+
 
               // console.log(meeting.group.details, meeting.location.details);
               datePK++;
@@ -170,11 +237,27 @@ async function processFiles(paths) {
     }) // rows
     zone++;
   } // for … of paths
-  writeFile('data/parsed/parsed.json', JSON.stringify(meetings, null, 2));
+  writeFile('data/parsed/parsed-nested-1level.json', JSON.stringify(meetings, null, 2));
+  writeFile('data/parsed/parsed-meetingTable.json', JSON.stringify(meetingTable, null, 2));
+  writeFile('data/parsed/parsed-groupTable.json', JSON.stringify(groupTable, null, 2));
+  writeFile('data/parsed/parsed-addressTable.json', JSON.stringify(addressTable, null, 2));
+  writeFile('data/parsed/parsed-locationTable.json', JSON.stringify(locationTable, null, 2));
   // console.log('Done!');
 }
 
 processFiles(paths)
+
+function arraysEqual(arr1, arr2) {
+    if(arr1.length !== arr2.length)
+        return false;
+    for(var i = arr1.length; i--;) {
+        if(arr1[i] !== arr2[i])
+            return false;
+    }
+
+    return true;
+}
+
 // TODO: remove the second number for the geodata request
 // Central Park West and 76th Street, 4 W 76th St
 function getStreet (delArr) {
@@ -205,7 +288,7 @@ function getDetails(selectedDetails, firstTD) {
   const regBetw = /Between\s|Btwneen\s|Betw\.|Betw\s|Btw\.\s|Btw\s|Btwn\.\s/gi;
   const regApos = /&apos;/gi;
   const regQuot = /&quot;/gi;
-  const regDash = /&#x2013;|-|–/gi;
+  const regDash = /&#x2013;|-\D|–/gi;
   const regAnd = /and\s|&amp;|\s&\s/g;
   const regParO = /\(/g;
   const regParC = /\)/g;
@@ -233,7 +316,7 @@ function getDetails(selectedDetails, firstTD) {
   let myCleanTD = firstTD.html().trim()
     .replace(regQuot, `'`)
     .replace(regApos, '’')
-    .replace(regDash, ' – ')
+    // .replace(regDash, ' – ')
     .replace(regNoSmoke, 'non-smoking')
     .replace(regH4, '')
     .replace(regB, '')
@@ -355,7 +438,8 @@ function getDetails(selectedDetails, firstTD) {
     /elevator/i,
     /Gratitude/i,
     /bell/i,
-    /wheelchair/i
+    /wheelchair/i,
+    /Sanctuary/i
   ];
 
   myCleanTD.forEach((e, i) => {
@@ -446,14 +530,13 @@ function getDetails(selectedDetails, firstTD) {
   // myCleanTD.forEach((e, i) => {
   //   locationDetails.push(e);
   // })
-
-
-  details = {
-    location: locationDetails,
-    date: dateDetails,
-    group: groupDetails,
-    leftover: myCleanTD
-  }
+  //
+  // details = {
+  //   location: locationDetails,
+  //   date: dateDetails,
+  //   group: groupDetails,
+  //   leftover: myCleanTD
+  // }
   if (selectedDetails == 'location') {
     return locationDetails;
   } else if (selectedDetails == 'group') {
