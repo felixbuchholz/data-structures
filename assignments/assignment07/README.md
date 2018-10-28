@@ -25,9 +25,9 @@ This took me quite a while, because I wanted to use the parsing step also as an 
 
 While working on the code I decided to re-structure my tables slighty:
 
-![Diagram of previous structure](/assets/aa-meetings-04.png)
+![Diagram of previous structure](assets/aa-meetings-04.png)
 
-![Diagram of current structure, _hour_ is not yet implemented](/assets/aa-meetings-07.png)
+![Diagram of current structure, _hour_ is not yet implemented](assets/aa-meetings-07.png)
 
 I populate arrays and count the primary keys to keep track of the relations between the tables and duplicates.
 
