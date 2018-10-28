@@ -4,7 +4,7 @@ const cheerio = require('cheerio');
 const readFile = promisify(fs.readFile)
 const writeFile = promisify(fs.writeFile)
 
-const meetings = [];
+let meetings = [];
 let meetingPK = 1;
 
 const paths = getPaths();
@@ -109,7 +109,7 @@ async function processFiles(paths) {
               description: getDetails('group', firstTD),
               scheduleDetails: getDetails('date', firstTD),
             }
-            // groupTable.push(group)
+            // groupTable.push(group) /* DO NOT PUSH HERE*/
           }
 
 
