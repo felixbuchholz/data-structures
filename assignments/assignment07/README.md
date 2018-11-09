@@ -48,7 +48,7 @@ let addressPK = 0;
 let datePK = 1;
 ```
 
-The lowest level of nested loops begins with reading a individual text file that holds the content from the request in step 1. Then it is loaded by cheerio and assignd to the variable **$**. At the end of the loop the zone counter is incremented.
+The lowest level of nested loops begins with reading a individual text file that holds the content from the request in step 1. Then it is loaded by cheerio and assigned to the variable **$**. At the end of the loop the zone counter is incremented.
 
 ``` javascript
 async function processFiles(paths) {

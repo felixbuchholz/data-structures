@@ -23,7 +23,7 @@ async.eachSeries(addressesForDb, function(value, callback) {
     const client = new Client(db_credentials);
     client.connect();
     console.log(value);
-    var thisQuery = `INSERT INTO dates VALUES ('${parseInt(value.datePK)}', '${value.day}', '${value.start}', '${value.end}', '${value.meetingType}', '${value.specialInterest}');`;
+    var thisQuery = `INSERT INTO dates VALUES ('${parseInt(value.datePK)}',  '${value.day}', '${parseInt(value.hour)}', '${value.start}', '${value.end}', '${value.meetingType}', '${value.specialInterest}');`;
     client.query(thisQuery, (err, res) => {
         console.log(err, res);
         client.end();

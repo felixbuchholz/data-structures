@@ -117,10 +117,11 @@ async function processFiles(paths) {
           // CREATE DATE OBJECT
             const date = {
               datePK: datePK,
-              day: dateElem.match(/[SMTWF]\w+?days/g)[0],
+              day: dateElem.match(/[SMTWF]\w+?days/g)[0].slice(0, -1),
               start: dateElem.match(/\d\d?:\d\d [A|P]M/g)[0],
+              hour: getHour(dateElem.match(/\d\d?:\d\d [A|P]M/g)[0]),
               end: dateElem.match(/\d\d?:\d\d [A|P]M/g)[1],
-              meetingType: dateElem.match(/(?<=Meeting Type\<\/b\> )[A-Z]{1,2}/g) ? dateElem.match(/(?<=Meeting Type\<\/b\> )[A-Z]{1,2}/g)[0] : 'none',
+              meetingType: getMeetingType(dateElem),
               specialInterest: dateElem.match(/(?<=Special Interest\<\/b\> )(.*)/g) ? dateElem.match(/(?<=Special Interest\<\/b\> )(.*)/g)[0] : 'none'
             }
             dateTable.push(date);
@@ -175,7 +176,7 @@ async function processFiles(paths) {
             equalLocation = equalDetails && equalAddress;
             if (!equalLocation) {
                 locationPK++;
-                console.log('new', locationPK);
+                // console.log('new', locationPK);
                 location = {
                   locationPK : locationPK,
                   name : $('h4', firstTD).text(),
@@ -189,7 +190,7 @@ async function processFiles(paths) {
               // const tableIndex = locationTable.findIndex(function(e) {
               //   return e.details.sort().join() == getDetails('location', firstTD).sort().join()
               // })
-              console.log('old', tableIndex);
+              // console.log('old', tableIndex);
               location = {
                 locationPK : locationTable[tableIndex].locationPK,
                 name : $('h4', firstTD).text(),
@@ -277,16 +278,22 @@ function getZipcode($, rowElem, delArr) {
   }
 }
 
-// TODO: remove the second number for the geodata request
+// remove the second number for the geodata request
 // Central Park West and 76th Street, 4 W 76th St
+// DONE
 function getStreet (delArr) {
+  const regWest = /\sW\s|\sW.\s/g
+  const regEast = /\sE\s|\sE.\s/g
+
   return delArr[0].replace('&amp;', 'and')
     .replace('Central Park West and 76th Street', '4 West 76th Street')
     .replace('189th Street and Bennett Avenue', '178 Bennett Avenue')
     .replace('. Meeting in the gym.', '')
     .replace('Blvd.', 'Boulevard')
-    .replace('W.', 'West')
+    .replace(regWest, ' West ')
+    .replace(regEast, ' East ')
     .replace(/St\W/, 'Street')
+    .replace('STREET', 'Street')
     .replace('&apos;', '’')
     .replace(/Stree$/, 'Street')
     .trim()
@@ -295,7 +302,17 @@ function getStreet (delArr) {
 function getGroupName($, firstTD) {
   let groupName = $('b', firstTD).text();
   groupName = groupName.split('-')[0].trim();
-  return groupName
+  return toTitleCase(groupName);
+}
+
+function getHour(hStr) {
+  const hArr = hStr.split(' ');
+  hArr[0] = parseFloat(hArr[0].replace(':', ''));
+  if (hArr[1] == 'PM' && hArr[0] >= 1300) {
+    return hArr[0] + 1200;
+  } else {
+    return hArr[0]
+  }
 }
 
 function getDetails(selectedDetails, firstTD) {
@@ -309,7 +326,7 @@ function getDetails(selectedDetails, firstTD) {
   const regBetw = /Between\s|Btwneen\s|Betw\.|Betw\s|Btw\.\s|Btw\s|Btwn\.\s/gi;
   const regApos = /&apos;/gi;
   const regQuot = /&quot;/gi;
-  const regDash = /&#x2013;|-\D|–/gi;
+  const regDash = /&#x2013;/gi;
   const regAnd = /and\s|&amp;|\s&\s/g;
   const regParO = /\(/g;
   const regParC = /\)/g;
@@ -331,13 +348,27 @@ function getDetails(selectedDetails, firstTD) {
   const regAnniv = /Anniv\s|Anniv\./gi;
   const regFullSt = /\./g;
   const regNoSmoke = /non – smoking/gi;
-
-
+  const regBeginner = /\bB\b/g;
+  const regBB = /\bBB\b/g;
+  const regO = /\bO\b/g;
+  const regC = /\bC\b/g;
+  const regCD = /\bCD\b/g;
+  const regOD = /\bOD\b/g;
+  const regStep = /\bS\b/g;
+  const regTrad = /\bT\b/g;
 
   let myCleanTD = firstTD.html().trim()
+    .replace(regBeginner, 'Beginners Meeting')
+    .replace(regBB, 'Big Book Meeting')
+    .replace(regO, 'Open Meeting')
+    .replace(regC, 'Closed Meeting')
+    .replace(regCD, 'Closed Discussion Meeting')
+    .replace(regOD, 'Open Discussion Meeting')
+    .replace(regStep, 'Step Meeting')
+    .replace(regTrad, 'Tradition Meeting')
     .replace(regQuot, `'`)
     .replace(regApos, '’')
-    // .replace(regDash, ' – ')
+    .replace(regDash, '–')
     .replace(regNoSmoke, 'non-smoking')
     .replace(regH4, '')
     .replace(regB, '')
@@ -565,4 +596,79 @@ function getDetails(selectedDetails, firstTD) {
   } else if (selectedDetails == 'date') {
     return dateDetails;
   }
+}
+// https://github.com/gouch/to-title-case/blob/master/to-title-case.js
+function toTitleCase(str) {
+  'use strict'
+  var smallWords = /^(a|an|and|as|at|but|by|en|for|if|in|nor|of|on|or|per|the|to|v.?|vs.?|via)$/i
+  var alphanumericPattern = /([A-Za-z0-9\u00C0-\u00FF])/
+  var wordSeparators = /([ :–—-])/
+  var inParentheses = str.match(/(\(.{1,10}\))/g)
+  if (inParentheses != null) {
+    inParentheses = inParentheses[0]
+    str = str.replace(inParentheses, '')
+  }
+  str = str.toLowerCase()
+  var result = str.split(wordSeparators)
+    .map(function (current, index, array) {
+      if (
+        /* Check for small words */
+        current.search(smallWords) > -1 &&
+        /* Skip first and last word */
+        index !== 0 &&
+        index !== array.length - 1 &&
+        /* Ignore title end and subtitle start */
+        array[index - 3] !== ':' &&
+        array[index + 1] !== ':' &&
+        /* Ignore small words that start a hyphenated phrase */
+        (array[index + 1] !== '-' ||
+          (array[index - 1] === '-' && array[index + 1] === '-'))
+      ) {
+        return current.toLowerCase()
+      }
+
+      /* Ignore intentional capitalization */
+      if (current.substr(1).search(/[A-Z]|\../) > -1) {
+        return current
+      }
+
+      /* Ignore URLs */
+      if (array[index + 1] === ':' && array[index + 2] !== '') {
+        return current
+      }
+
+      /* Capitalize the first letter */
+      return current.replace(alphanumericPattern, function (match) {
+        return match.toUpperCase()
+      })
+    })
+    .join('')
+    if (inParentheses != null) {
+      result = result + ' ' + inParentheses;
+    }
+    result = result.replace('n.y.u.', 'N.Y.U.').replace('Oadw', 'O.A.D.W.').replace('t.g.i.f.', 'T.G.I.F.').replace('d.i.v.a.', 'D.I.V.A.').replace('Aa', 'AA').replace('a.a.', 'AA').replace('Ii', 'II');
+    return result;
+}
+
+function getMeetingType(dateElem) {
+  const regBeginner = /\bB\b/g;
+  const regBB = /\bBB\b/g;
+  const regO = /\bO\b/g;
+  const regC = /\bC\b/g;
+  const regCD = /\bCD\b/g;
+  const regOD = /\bOD\b/g;
+  const regStep = /\bS\b/g;
+  const regTrad = /\bT\b/g;
+
+  result = dateElem.match(/(?<=Meeting Type\<\/b\> )[A-Z]{1,2}/g) ? dateElem.match(/(?<=Meeting Type\<\/b\> )[A-Z]{1,2}/g)[0] : 'none'
+  result = result.replace(regBeginner, 'Beginners Meeting')
+  .replace(regBB, 'Big Book Meeting')
+  .replace(regO, 'Open Meeting')
+  .replace(regC, 'Closed Meeting')
+  .replace(regCD, 'Closed Discussion Meeting')
+  .replace(regOD, 'Open Discussion Meeting')
+  .replace(regStep, 'Step Meeting')
+  .replace(regTrad, 'Tradition Meeting')
+
+  return result;
 }

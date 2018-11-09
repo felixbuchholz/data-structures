@@ -54,7 +54,7 @@ async.eachSeries(addresses, function(value, callback) {
             console.log(value.long, value.lat, value.tamuAddress);
         }
     });
-    setTimeout(callback, 250);
+    setTimeout(callback, 500);
 
 }, function() {
     // Changed the line below, because I’m only working with my JSON array "addresses"

@@ -20,9 +20,10 @@ db_credentials.port = 5432;
 var addressesForDb = JSON.parse(fs.readFileSync('data/parsed/parsed-geolocated-addressTable.json'))
 
 async.eachSeries(addressesForDb, function(value, callback) {
+    console.log(parseFloat(value.long));
     const client = new Client(db_credentials);
     client.connect();
-    var thisQuery = `INSERT INTO addresses VALUES ('${value.addressPK}', '${parseFloat(value.latitude)}', '${parseFloat(value.longitude)}', '${value.street}', '${value.city}', '${value.zipcode}', '${value.zone}', '${value.tamuAddress}');`;
+    var thisQuery = `INSERT INTO addresses VALUES ('${value.addressPK}', '${parseFloat(value.lat)}', '${parseFloat(value.long)}', '${value.street}', '${value.city}', '${value.zipcode}', '${value.zone}', '${value.tamuAddress}');`;
     client.query(thisQuery, (err, res) => {
         console.log(err, res);
         client.end();

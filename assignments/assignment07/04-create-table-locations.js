@@ -19,7 +19,7 @@ const client = new Client(db_credentials);
 client.connect();
 
 // Sample SQL statement to create a table:
-var thisQuery = "CREATE TABLE locations (pk smallint, name varchar(60), details varchar(600), wheelchairAccess boolean, addressFK smallint);";
+var thisQuery = "CREATE TABLE locations (locpk smallint, locname varchar(60), locdetails varchar(600), locwheelchair boolean, locaddressfk smallint);";
 // Sample SQL statement to delete a table:
 // var thisQuery = "DROP TABLE locations;";
 // Sample SQL statement to query the entire contents of a table:

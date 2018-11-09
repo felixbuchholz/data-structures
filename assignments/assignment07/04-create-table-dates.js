@@ -19,7 +19,7 @@ const client = new Client(db_credentials);
 client.connect();
 
 // Sample SQL statement to create a table:
-var thisQuery = "CREATE TABLE dates (pk smallint, day varchar(20), starting varchar(20), ending varchar(20), meetingType varchar(10), specialInterest varchar(100));";
+var thisQuery = "CREATE TABLE dates (datpk smallint, datday varchar(20), dathour smallint, datstart varchar(20), datend varchar(20), dattype varchar(40), datspecial varchar(100));";
 // Sample SQL statement to delete a table:
 // var thisQuery = "DROP TABLE dates;";
 // Sample SQL statement to query the entire contents of a table:

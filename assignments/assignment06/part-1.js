@@ -20,11 +20,17 @@ client.connect();
 
 // var thisQuery = "SELECT lat, long, street, zipcode FROM addresses WHERE zone>1;";
 
+// var thisQuery =
+// "SELECT lat, long, street, wheelchairaccess, locations.pk " +
+// "FROM addresses " +
+// "INNER JOIN locations ON locations.addressFK=addresses.pk " +
+// "WHERE zone=6 AND wheelchairaccess=true;";
+
 var thisQuery =
-"SELECT lat, long, street, wheelchairaccess, locations.pk " +
+"SELECT addlat, addlong, addstreet, locwheelchair, locations.locpk " +
 "FROM addresses " +
-"INNER JOIN locations ON locations.addressFK=addresses.pk " +
-"WHERE zone=6 AND wheelchairaccess=true;";
+"INNER JOIN locations ON locations.locaddressfk=addresses.addpk;";
+
 
 client.query(thisQuery, (err, res) => {
     if (err) {throw err}
