@@ -137,7 +137,7 @@ For next week I’ll have to write the complete code in [_Wiring_](http://wiring
 
 ### My API link
 
-[API-Link](https://api.particle.io/v1/devices/44002d001951353338363036/json?access_token=076b612811247cc031fd32b012a78b5d056a9e5b)
+[API-Link](https://api.particle.io/v1/devices/44002d001951353338363036/q1?access_token=076b612811247cc031fd32b012a78b5d056a9e5b)
 
 Result:
 
