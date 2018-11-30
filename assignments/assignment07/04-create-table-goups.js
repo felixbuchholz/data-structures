@@ -19,9 +19,9 @@ const client = new Client(db_credentials);
 client.connect();
 
 // Sample SQL statement to create a table:
-var thisQuery = "CREATE TABLE groups (grouppk smallint, groupname varchar(60), groupdesc varchar(200), goupsched varchar(600));";
+// var thisQuery = "CREATE TABLE groups (grouppk smallint, groupname varchar(60), groupdesc varchar(200), goupsched varchar(600));";
 // Sample SQL statement to delete a table:
-// var thisQuery = "DROP TABLE groups;";
+var thisQuery = "DROP TABLE groups;";
 // Sample SQL statement to query the entire contents of a table:
 // var thisQuery = "SELECT * FROM groups;";
 

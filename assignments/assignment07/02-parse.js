@@ -308,7 +308,7 @@ function getGroupName($, firstTD) {
 function getHour(hStr) {
   const hArr = hStr.split(' ');
   hArr[0] = parseFloat(hArr[0].replace(':', ''));
-  if (hArr[1] == 'PM' && hArr[0] >= 1300) {
+  if (hArr[1] == 'PM' && hArr[0] < 1200) {
     return hArr[0] + 1200;
   } else {
     return hArr[0]

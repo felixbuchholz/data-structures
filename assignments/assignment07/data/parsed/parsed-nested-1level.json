@@ -226,7 +226,7 @@
       "datePK": 7,
       "day": "Tuesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -258,7 +258,7 @@
       "datePK": 8,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -399,7 +399,7 @@
       "datePK": 12,
       "day": "Monday",
       "start": "1:30 PM",
-      "hour": 130,
+      "hour": 1330,
       "end": "2:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Living Sober"
@@ -434,7 +434,7 @@
       "datePK": 13,
       "day": "Thursday",
       "start": "1:30 PM",
-      "hour": 130,
+      "hour": 1330,
       "end": "2:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -875,7 +875,7 @@
       "datePK": 26,
       "day": "Friday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -907,7 +907,7 @@
       "datePK": 27,
       "day": "Friday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -940,7 +940,7 @@
       "datePK": 28,
       "day": "Sunday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -974,7 +974,7 @@
       "datePK": 29,
       "day": "Monday",
       "start": "1:15 PM",
-      "hour": 115,
+      "hour": 1315,
       "end": "2:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -1010,7 +1010,7 @@
       "datePK": 30,
       "day": "Tuesday",
       "start": "1:15 PM",
-      "hour": 115,
+      "hour": 1315,
       "end": "2:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -1046,7 +1046,7 @@
       "datePK": 31,
       "day": "Wednesday",
       "start": "1:15 PM",
-      "hour": 115,
+      "hour": 1315,
       "end": "2:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Promises"
@@ -1082,7 +1082,7 @@
       "datePK": 32,
       "day": "Thursday",
       "start": "1:15 PM",
-      "hour": 115,
+      "hour": 1315,
       "end": "2:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -1118,7 +1118,7 @@
       "datePK": 33,
       "day": "Friday",
       "start": "1:15 PM",
-      "hour": 115,
+      "hour": 1315,
       "end": "2:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -1151,7 +1151,7 @@
       "datePK": 34,
       "day": "Thursday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:45 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -1186,7 +1186,7 @@
       "datePK": 35,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Mental Health Issues in Sobriety"
@@ -1219,7 +1219,7 @@
       "datePK": 36,
       "day": "Saturday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:15 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -1253,7 +1253,7 @@
       "datePK": 37,
       "day": "Tuesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -1452,7 +1452,7 @@
       "datePK": 43,
       "day": "Wednesday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -1549,7 +1549,7 @@
       "datePK": 46,
       "day": "Monday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -1583,7 +1583,7 @@
       "datePK": 47,
       "day": "Thursday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -1619,7 +1619,7 @@
       "datePK": 48,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -1653,7 +1653,7 @@
       "datePK": 49,
       "day": "Saturday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -1687,7 +1687,7 @@
       "datePK": 50,
       "day": "Tuesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -1721,7 +1721,7 @@
       "datePK": 51,
       "day": "Thursday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -1757,7 +1757,7 @@
       "datePK": 52,
       "day": "Monday",
       "start": "7:45 PM",
-      "hour": 745,
+      "hour": 1945,
       "end": "8:45 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -1792,7 +1792,7 @@
       "datePK": 53,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -1823,7 +1823,7 @@
       "datePK": 54,
       "day": "Wednesday",
       "start": "1:15 PM",
-      "hour": 115,
+      "hour": 1315,
       "end": "2:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -1857,7 +1857,7 @@
       "datePK": 55,
       "day": "Wednesday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -1886,7 +1886,7 @@
       "datePK": 56,
       "day": "Tuesday",
       "start": "7:45 PM",
-      "hour": 745,
+      "hour": 1945,
       "end": "8:45 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Young People"
@@ -1919,7 +1919,7 @@
       "datePK": 57,
       "day": "Saturday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Young People"
@@ -1950,7 +1950,7 @@
       "datePK": 58,
       "day": "Friday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -1982,7 +1982,7 @@
       "datePK": 59,
       "day": "Thursday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -2048,7 +2048,7 @@
       "datePK": 61,
       "day": "Sunday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -2117,7 +2117,7 @@
       "datePK": 63,
       "day": "Monday",
       "start": "5:15 PM",
-      "hour": 515,
+      "hour": 1715,
       "end": "6:15 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Meditation at Meeting"
@@ -2150,7 +2150,7 @@
       "datePK": 64,
       "day": "Friday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "8:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Agnostic"
@@ -2186,7 +2186,7 @@
       "datePK": 65,
       "day": "Monday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -2222,7 +2222,7 @@
       "datePK": 66,
       "day": "Tuesday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -2258,7 +2258,7 @@
       "datePK": 67,
       "day": "Wednesday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -2294,7 +2294,7 @@
       "datePK": 68,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -2330,7 +2330,7 @@
       "datePK": 69,
       "day": "Monday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Steps 1-2-3"
@@ -2364,7 +2364,7 @@
       "datePK": 70,
       "day": "Sunday",
       "start": "3:00 PM",
-      "hour": 300,
+      "hour": 1500,
       "end": "4:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -2398,7 +2398,7 @@
       "datePK": 71,
       "day": "Tuesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -2432,7 +2432,7 @@
       "datePK": 72,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -2466,7 +2466,7 @@
       "datePK": 73,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay Men"
@@ -2497,7 +2497,7 @@
       "datePK": 74,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -3289,7 +3289,7 @@
       "datePK": 96,
       "day": "Tuesday",
       "start": "5:15 PM",
-      "hour": 515,
+      "hour": 1715,
       "end": "6:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -3325,7 +3325,7 @@
       "datePK": 97,
       "day": "Friday",
       "start": "5:15 PM",
-      "hour": 515,
+      "hour": 1715,
       "end": "6:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -3361,7 +3361,7 @@
       "datePK": 98,
       "day": "Thursday",
       "start": "5:15 PM",
-      "hour": 515,
+      "hour": 1715,
       "end": "6:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -3397,7 +3397,7 @@
       "datePK": 99,
       "day": "Sunday",
       "start": "5:15 PM",
-      "hour": 515,
+      "hour": 1715,
       "end": "6:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -3433,7 +3433,7 @@
       "datePK": 100,
       "day": "Wednesday",
       "start": "5:15 PM",
-      "hour": 515,
+      "hour": 1715,
       "end": "6:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -3469,7 +3469,7 @@
       "datePK": 101,
       "day": "Monday",
       "start": "5:15 PM",
-      "hour": 515,
+      "hour": 1715,
       "end": "6:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Living Sober"
@@ -3505,7 +3505,7 @@
       "datePK": 102,
       "day": "Wednesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -3541,7 +3541,7 @@
       "datePK": 103,
       "day": "Saturday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -3577,7 +3577,7 @@
       "datePK": 104,
       "day": "Tuesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -3613,7 +3613,7 @@
       "datePK": 105,
       "day": "Friday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -3649,7 +3649,7 @@
       "datePK": 106,
       "day": "Monday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -3685,7 +3685,7 @@
       "datePK": 107,
       "day": "Thursday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -3721,7 +3721,7 @@
       "datePK": 108,
       "day": "Sunday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -3757,7 +3757,7 @@
       "datePK": 109,
       "day": "Sunday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -3793,7 +3793,7 @@
       "datePK": 110,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Men"
@@ -3829,7 +3829,7 @@
       "datePK": 111,
       "day": "Saturday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:15 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -3865,7 +3865,7 @@
       "datePK": 112,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -3901,7 +3901,7 @@
       "datePK": 113,
       "day": "Monday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Topic"
@@ -3937,7 +3937,7 @@
       "datePK": 114,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -3973,7 +3973,7 @@
       "datePK": 115,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Under Six Months Sober"
@@ -4009,7 +4009,7 @@
       "datePK": 116,
       "day": "Sunday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -4045,7 +4045,7 @@
       "datePK": 117,
       "day": "Wednesday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -4081,7 +4081,7 @@
       "datePK": 118,
       "day": "Saturday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -4117,7 +4117,7 @@
       "datePK": 119,
       "day": "Tuesday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -4153,7 +4153,7 @@
       "datePK": 120,
       "day": "Monday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -4189,7 +4189,7 @@
       "datePK": 121,
       "day": "Friday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -4225,7 +4225,7 @@
       "datePK": 122,
       "day": "Thursday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Topic"
@@ -4293,7 +4293,7 @@
       "datePK": 124,
       "day": "Wednesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -4327,7 +4327,7 @@
       "datePK": 125,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -5132,7 +5132,7 @@
       "datePK": 148,
       "day": "Sunday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Children Welcome"
@@ -5167,7 +5167,7 @@
       "datePK": 149,
       "day": "Saturday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5202,7 +5202,7 @@
       "datePK": 150,
       "day": "Friday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -5237,7 +5237,7 @@
       "datePK": 151,
       "day": "Thursday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5272,7 +5272,7 @@
       "datePK": 152,
       "day": "Tuesday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5307,7 +5307,7 @@
       "datePK": 153,
       "day": "Monday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5342,7 +5342,7 @@
       "datePK": 154,
       "day": "Wednesday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -5377,7 +5377,7 @@
       "datePK": 155,
       "day": "Sunday",
       "start": "3:00 PM",
-      "hour": 300,
+      "hour": 1500,
       "end": "4:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5412,7 +5412,7 @@
       "datePK": 156,
       "day": "Monday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5447,7 +5447,7 @@
       "datePK": 157,
       "day": "Saturday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5482,7 +5482,7 @@
       "datePK": 158,
       "day": "Thursday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5517,7 +5517,7 @@
       "datePK": 159,
       "day": "Wednesday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -5552,7 +5552,7 @@
       "datePK": 160,
       "day": "Tuesday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5587,7 +5587,7 @@
       "datePK": 161,
       "day": "Friday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "6:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5622,7 +5622,7 @@
       "datePK": 162,
       "day": "Thursday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -5657,7 +5657,7 @@
       "datePK": 163,
       "day": "Monday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5692,7 +5692,7 @@
       "datePK": 164,
       "day": "Saturday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -5727,7 +5727,7 @@
       "datePK": 165,
       "day": "Sunday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5762,7 +5762,7 @@
       "datePK": 166,
       "day": "Friday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5797,7 +5797,7 @@
       "datePK": 167,
       "day": "Wednesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -5832,7 +5832,7 @@
       "datePK": 168,
       "day": "Tuesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5867,7 +5867,7 @@
       "datePK": 169,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -5902,7 +5902,7 @@
       "datePK": 170,
       "day": "Tuesday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5937,7 +5937,7 @@
       "datePK": 171,
       "day": "Monday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -5972,7 +5972,7 @@
       "datePK": 172,
       "day": "Saturday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -6007,7 +6007,7 @@
       "datePK": 173,
       "day": "Sunday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -6042,7 +6042,7 @@
       "datePK": 174,
       "day": "Thursday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -6077,7 +6077,7 @@
       "datePK": 175,
       "day": "Friday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "10:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -6112,7 +6112,7 @@
       "datePK": 176,
       "day": "Wednesday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -6147,7 +6147,7 @@
       "datePK": 177,
       "day": "Tuesday",
       "start": "10:15 PM",
-      "hour": 1015,
+      "hour": 2215,
       "end": "11:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -6182,7 +6182,7 @@
       "datePK": 178,
       "day": "Monday",
       "start": "10:15 PM",
-      "hour": 1015,
+      "hour": 2215,
       "end": "11:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -6217,7 +6217,7 @@
       "datePK": 179,
       "day": "Thursday",
       "start": "10:15 PM",
-      "hour": 1015,
+      "hour": 2215,
       "end": "11:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -6252,7 +6252,7 @@
       "datePK": 180,
       "day": "Wednesday",
       "start": "10:15 PM",
-      "hour": 1015,
+      "hour": 2215,
       "end": "11:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -6287,7 +6287,7 @@
       "datePK": 181,
       "day": "Sunday",
       "start": "10:30 PM",
-      "hour": 1030,
+      "hour": 2230,
       "end": "11:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -6322,7 +6322,7 @@
       "datePK": 182,
       "day": "Saturday",
       "start": "11:00 PM",
-      "hour": 1100,
+      "hour": 2300,
       "end": "12:00 AM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -6357,7 +6357,7 @@
       "datePK": 183,
       "day": "Friday",
       "start": "11:00 PM",
-      "hour": 1100,
+      "hour": 2300,
       "end": "12:00 AM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -6389,7 +6389,7 @@
       "datePK": 184,
       "day": "Thursday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:45 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -6420,7 +6420,7 @@
       "datePK": 185,
       "day": "Tuesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:45 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -6455,7 +6455,7 @@
       "datePK": 186,
       "day": "Sunday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -6491,7 +6491,7 @@
       "datePK": 187,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -6527,7 +6527,7 @@
       "datePK": 188,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Promises"
@@ -6563,7 +6563,7 @@
       "datePK": 189,
       "day": "Sunday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -6599,7 +6599,7 @@
       "datePK": 190,
       "day": "Friday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -6856,7 +6856,7 @@
       "datePK": 198,
       "day": "Saturday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -6890,7 +6890,7 @@
       "datePK": 199,
       "day": "Friday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Interpreted for the Deaf"
@@ -6926,7 +6926,7 @@
       "datePK": 200,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -6962,7 +6962,7 @@
       "datePK": 201,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -6998,7 +6998,7 @@
       "datePK": 202,
       "day": "Monday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -7066,7 +7066,7 @@
       "datePK": 204,
       "day": "Monday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "none",
       "specialInterest": "Women"
@@ -7100,7 +7100,7 @@
       "datePK": 205,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -7134,7 +7134,7 @@
       "datePK": 206,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "Men"
@@ -7166,7 +7166,7 @@
       "datePK": 207,
       "day": "Tuesday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -7197,7 +7197,7 @@
       "datePK": 208,
       "day": "Wednesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -7230,7 +7230,7 @@
       "datePK": 209,
       "day": "Thursday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:45 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -7265,7 +7265,7 @@
       "datePK": 210,
       "day": "Saturday",
       "start": "4:45 PM",
-      "hour": 445,
+      "hour": 1645,
       "end": "5:45 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -7300,7 +7300,7 @@
       "datePK": 211,
       "day": "Friday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Lesbian"
@@ -7336,7 +7336,7 @@
       "datePK": 212,
       "day": "Wednesday",
       "start": "8:15 PM",
-      "hour": 815,
+      "hour": 2015,
       "end": "9:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -7551,7 +7551,7 @@
       "datePK": 218,
       "day": "Thursday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:15 PM",
       "meetingType": "none",
       "specialInterest": "Meditation"
@@ -7587,7 +7587,7 @@
       "datePK": 219,
       "day": "Sunday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:30 PM",
       "meetingType": "none",
       "specialInterest": "Meditation"
@@ -7653,7 +7653,7 @@
       "datePK": 221,
       "day": "Saturday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -7685,7 +7685,7 @@
       "datePK": 222,
       "day": "Wednesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -7716,7 +7716,7 @@
       "datePK": 223,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -7750,7 +7750,7 @@
       "datePK": 224,
       "day": "Sunday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -7784,7 +7784,7 @@
       "datePK": 225,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -7816,7 +7816,7 @@
       "datePK": 226,
       "day": "Thursday",
       "start": "7:45 PM",
-      "hour": 745,
+      "hour": 1945,
       "end": "8:45 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "Big Book Topic"
@@ -8118,7 +8118,7 @@
       "datePK": 235,
       "day": "Wednesday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -8152,7 +8152,7 @@
       "datePK": 236,
       "day": "Monday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "8:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -8186,7 +8186,7 @@
       "datePK": 237,
       "day": "Saturday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -8221,7 +8221,7 @@
       "datePK": 238,
       "day": "Sunday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -8258,7 +8258,7 @@
       "datePK": 239,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -8296,7 +8296,7 @@
       "datePK": 240,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -8334,7 +8334,7 @@
       "datePK": 241,
       "day": "Saturday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -8372,7 +8372,7 @@
       "datePK": 242,
       "day": "Saturday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -8410,7 +8410,7 @@
       "datePK": 243,
       "day": "Sunday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -8448,7 +8448,7 @@
       "datePK": 244,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -8486,7 +8486,7 @@
       "datePK": 245,
       "day": "Tuesday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -8524,7 +8524,7 @@
       "datePK": 246,
       "day": "Saturday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -8556,7 +8556,7 @@
       "datePK": 247,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -8686,7 +8686,7 @@
       "datePK": 251,
       "day": "Monday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -8720,7 +8720,7 @@
       "datePK": 252,
       "day": "Thursday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -8752,7 +8752,7 @@
       "datePK": 253,
       "day": "Monday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -8785,7 +8785,7 @@
       "datePK": 254,
       "day": "Friday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -8818,7 +8818,7 @@
       "datePK": 255,
       "day": "Tuesday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -8851,7 +8851,7 @@
       "datePK": 256,
       "day": "Thursday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "none",
       "specialInterest": "Meditation"
@@ -8884,7 +8884,7 @@
       "datePK": 257,
       "day": "Sunday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "Men"
@@ -8917,7 +8917,7 @@
       "datePK": 258,
       "day": "Wednesday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -8950,7 +8950,7 @@
       "datePK": 259,
       "day": "Monday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Fourth Step Workshop"
@@ -8985,7 +8985,7 @@
       "datePK": 260,
       "day": "Sunday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -9021,7 +9021,7 @@
       "datePK": 261,
       "day": "Monday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -9056,7 +9056,7 @@
       "datePK": 262,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -9089,7 +9089,7 @@
       "datePK": 263,
       "day": "Tuesday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -9156,7 +9156,7 @@
       "datePK": 265,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -9189,7 +9189,7 @@
       "datePK": 266,
       "day": "Saturday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -9376,7 +9376,7 @@
       "datePK": 272,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -9515,7 +9515,7 @@
       "datePK": 276,
       "day": "Thursday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -9550,7 +9550,7 @@
       "datePK": 277,
       "day": "Saturday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Women"
@@ -9585,7 +9585,7 @@
       "datePK": 278,
       "day": "Monday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -9620,7 +9620,7 @@
       "datePK": 279,
       "day": "Tuesday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -9655,7 +9655,7 @@
       "datePK": 280,
       "day": "Wednesday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -9690,7 +9690,7 @@
       "datePK": 281,
       "day": "Friday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -9725,7 +9725,7 @@
       "datePK": 282,
       "day": "Sunday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -9760,7 +9760,7 @@
       "datePK": 283,
       "day": "Saturday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -9795,7 +9795,7 @@
       "datePK": 284,
       "day": "Wednesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Beginners Workshop"
@@ -9830,7 +9830,7 @@
       "datePK": 285,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -9865,7 +9865,7 @@
       "datePK": 286,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Fourth Step Workshop"
@@ -9899,7 +9899,7 @@
       "datePK": 287,
       "day": "Sunday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -9932,7 +9932,7 @@
       "datePK": 288,
       "day": "Sunday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -9995,7 +9995,7 @@
       "datePK": 290,
       "day": "Thursday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -10031,7 +10031,7 @@
       "datePK": 291,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -10067,7 +10067,7 @@
       "datePK": 292,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -10283,7 +10283,7 @@
       "datePK": 298,
       "day": "Friday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -10319,7 +10319,7 @@
       "datePK": 299,
       "day": "Monday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Promises"
@@ -10355,7 +10355,7 @@
       "datePK": 300,
       "day": "Tuesday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -10391,7 +10391,7 @@
       "datePK": 301,
       "day": "Wednesday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -10427,7 +10427,7 @@
       "datePK": 302,
       "day": "Thursday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -10461,7 +10461,7 @@
       "datePK": 303,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Young People"
@@ -10497,7 +10497,7 @@
       "datePK": 304,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -10533,7 +10533,7 @@
       "datePK": 305,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -10569,7 +10569,7 @@
       "datePK": 306,
       "day": "Friday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -10601,7 +10601,7 @@
       "datePK": 307,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -10634,7 +10634,7 @@
       "datePK": 308,
       "day": "Friday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -10670,7 +10670,7 @@
       "datePK": 309,
       "day": "Friday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -10706,7 +10706,7 @@
       "datePK": 310,
       "day": "Friday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Eleventh Step Meditation"
@@ -10742,7 +10742,7 @@
       "datePK": 311,
       "day": "Friday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -10778,7 +10778,7 @@
       "datePK": 312,
       "day": "Friday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "H.I.V Positive"
@@ -10814,7 +10814,7 @@
       "datePK": 313,
       "day": "Friday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -10850,7 +10850,7 @@
       "datePK": 314,
       "day": "Friday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -10886,7 +10886,7 @@
       "datePK": 315,
       "day": "Friday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -10920,7 +10920,7 @@
       "datePK": 316,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -10952,7 +10952,7 @@
       "datePK": 317,
       "day": "Monday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Men"
@@ -10986,7 +10986,7 @@
       "datePK": 318,
       "day": "Monday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "Men"
@@ -11020,7 +11020,7 @@
       "datePK": 319,
       "day": "Tuesday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Men"
@@ -11054,7 +11054,7 @@
       "datePK": 320,
       "day": "Thursday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Men"
@@ -11088,7 +11088,7 @@
       "datePK": 321,
       "day": "Tuesday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Men"
@@ -11122,7 +11122,7 @@
       "datePK": 322,
       "day": "Saturday",
       "start": "9:00 PM",
-      "hour": 900,
+      "hour": 2100,
       "end": "10:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -11156,7 +11156,7 @@
       "datePK": 323,
       "day": "Monday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "6:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -11190,7 +11190,7 @@
       "datePK": 324,
       "day": "Tuesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -11224,7 +11224,7 @@
       "datePK": 325,
       "day": "Wednesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -11258,7 +11258,7 @@
       "datePK": 326,
       "day": "Thursday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -11292,7 +11292,7 @@
       "datePK": 327,
       "day": "Friday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -11324,7 +11324,7 @@
       "datePK": 328,
       "day": "Sunday",
       "start": "1:30 PM",
-      "hour": 130,
+      "hour": 1330,
       "end": "2:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -11457,7 +11457,7 @@
       "datePK": 332,
       "day": "Friday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Women"
@@ -11493,7 +11493,7 @@
       "datePK": 333,
       "day": "Tuesday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -11525,7 +11525,7 @@
       "datePK": 334,
       "day": "Sunday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -11558,7 +11558,7 @@
       "datePK": 335,
       "day": "Saturday",
       "start": "9:30 PM",
-      "hour": 930,
+      "hour": 2130,
       "end": "10:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Special Purpose Groups"
@@ -11793,7 +11793,7 @@
       "datePK": 342,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -11822,7 +11822,7 @@
       "datePK": 343,
       "day": "Saturday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -11856,7 +11856,7 @@
       "datePK": 344,
       "day": "Sunday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -11955,7 +11955,7 @@
       "datePK": 347,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Special Purpose Groups"
@@ -11992,7 +11992,7 @@
       "datePK": 348,
       "day": "Sunday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "As Bill Sees It"
@@ -12028,7 +12028,7 @@
       "datePK": 349,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -12064,7 +12064,7 @@
       "datePK": 350,
       "day": "Tuesday",
       "start": "9:00 PM",
-      "hour": 900,
+      "hour": 2100,
       "end": "10:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -12098,7 +12098,7 @@
       "datePK": 351,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -12132,7 +12132,7 @@
       "datePK": 352,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -12166,7 +12166,7 @@
       "datePK": 353,
       "day": "Sunday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -12200,7 +12200,7 @@
       "datePK": 354,
       "day": "Friday",
       "start": "8:45 PM",
-      "hour": 845,
+      "hour": 2045,
       "end": "9:45 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -13063,7 +13063,7 @@
       "datePK": 378,
       "day": "Saturday",
       "start": "1:15 PM",
-      "hour": 115,
+      "hour": 1315,
       "end": "2:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Sponsorship Workshop"
@@ -13099,7 +13099,7 @@
       "datePK": 379,
       "day": "Sunday",
       "start": "1:30 PM",
-      "hour": 130,
+      "hour": 1330,
       "end": "2:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -13135,7 +13135,7 @@
       "datePK": 380,
       "day": "Monday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -13171,7 +13171,7 @@
       "datePK": 381,
       "day": "Friday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -13207,7 +13207,7 @@
       "datePK": 382,
       "day": "Thursday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -13243,7 +13243,7 @@
       "datePK": 383,
       "day": "Wednesday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -13279,7 +13279,7 @@
       "datePK": 384,
       "day": "Tuesday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -13315,7 +13315,7 @@
       "datePK": 385,
       "day": "Saturday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -13351,7 +13351,7 @@
       "datePK": 386,
       "day": "Sunday",
       "start": "3:00 PM",
-      "hour": 300,
+      "hour": 1500,
       "end": "4:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Fourth Step Workshop"
@@ -13387,7 +13387,7 @@
       "datePK": 387,
       "day": "Monday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -13423,7 +13423,7 @@
       "datePK": 388,
       "day": "Friday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -13459,7 +13459,7 @@
       "datePK": 389,
       "day": "Thursday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -13495,7 +13495,7 @@
       "datePK": 390,
       "day": "Wednesday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -13531,7 +13531,7 @@
       "datePK": 391,
       "day": "Tuesday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -13567,7 +13567,7 @@
       "datePK": 392,
       "day": "Saturday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -13603,7 +13603,7 @@
       "datePK": 393,
       "day": "Sunday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -13639,7 +13639,7 @@
       "datePK": 394,
       "day": "Monday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -13675,7 +13675,7 @@
       "datePK": 395,
       "day": "Friday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -13711,7 +13711,7 @@
       "datePK": 396,
       "day": "Thursday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -13747,7 +13747,7 @@
       "datePK": 397,
       "day": "Wednesday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -13783,7 +13783,7 @@
       "datePK": 398,
       "day": "Tuesday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "First Step Workshop"
@@ -13819,7 +13819,7 @@
       "datePK": 399,
       "day": "Saturday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -13855,7 +13855,7 @@
       "datePK": 400,
       "day": "Sunday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Gay Men"
@@ -13891,7 +13891,7 @@
       "datePK": 401,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 AM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -13927,7 +13927,7 @@
       "datePK": 402,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Tradition Meeting",
       "specialInterest": "none"
@@ -13963,7 +13963,7 @@
       "datePK": 403,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -13999,7 +13999,7 @@
       "datePK": 404,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -14035,7 +14035,7 @@
       "datePK": 405,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -14071,7 +14071,7 @@
       "datePK": 406,
       "day": "Sunday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -14107,7 +14107,7 @@
       "datePK": 407,
       "day": "Saturday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Promises"
@@ -14143,7 +14143,7 @@
       "datePK": 408,
       "day": "Monday",
       "start": "8:15 PM",
-      "hour": 815,
+      "hour": 2015,
       "end": "9:15 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -14179,7 +14179,7 @@
       "datePK": 409,
       "day": "Thursday",
       "start": "8:15 PM",
-      "hour": 815,
+      "hour": 2015,
       "end": "9:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -14215,7 +14215,7 @@
       "datePK": 410,
       "day": "Wednesday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -14251,7 +14251,7 @@
       "datePK": 411,
       "day": "Tuesday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Living Sober"
@@ -14287,7 +14287,7 @@
       "datePK": 412,
       "day": "Friday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "First Step Workshop"
@@ -14320,7 +14320,7 @@
       "datePK": 413,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -14354,7 +14354,7 @@
       "datePK": 414,
       "day": "Sunday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -14385,7 +14385,7 @@
       "datePK": 415,
       "day": "Friday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -14451,7 +14451,7 @@
       "datePK": 417,
       "day": "Sunday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Agnostic"
@@ -14485,7 +14485,7 @@
       "datePK": 418,
       "day": "Sunday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Agnostic"
@@ -14519,7 +14519,7 @@
       "datePK": 419,
       "day": "Tuesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -14551,7 +14551,7 @@
       "datePK": 420,
       "day": "Thursday",
       "start": "3:30 PM",
-      "hour": 330,
+      "hour": 1530,
       "end": "4:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -14616,7 +14616,7 @@
       "datePK": 422,
       "day": "Tuesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -14651,7 +14651,7 @@
       "datePK": 423,
       "day": "Tuesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -14685,7 +14685,7 @@
       "datePK": 424,
       "day": "Thursday",
       "start": "9:00 PM",
-      "hour": 900,
+      "hour": 2100,
       "end": "10:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -14716,7 +14716,7 @@
       "datePK": 425,
       "day": "Tuesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -14750,7 +14750,7 @@
       "datePK": 426,
       "day": "Tuesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -14784,7 +14784,7 @@
       "datePK": 427,
       "day": "Saturday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Lesbian"
@@ -14851,7 +14851,7 @@
       "datePK": 429,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "AA Literature"
@@ -14882,7 +14882,7 @@
       "datePK": 430,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Young People"
@@ -14914,7 +14914,7 @@
       "datePK": 431,
       "day": "Sunday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -14946,7 +14946,7 @@
       "datePK": 432,
       "day": "Monday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -14978,7 +14978,7 @@
       "datePK": 433,
       "day": "Tuesday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "Living Sober"
@@ -15010,7 +15010,7 @@
       "datePK": 434,
       "day": "Wednesday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -15042,7 +15042,7 @@
       "datePK": 435,
       "day": "Thursday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -15074,7 +15074,7 @@
       "datePK": 436,
       "day": "Friday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -15106,7 +15106,7 @@
       "datePK": 437,
       "day": "Saturday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -15140,7 +15140,7 @@
       "datePK": 438,
       "day": "Monday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -15174,7 +15174,7 @@
       "datePK": 439,
       "day": "Wednesday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "As Bill Sees It"
@@ -15208,7 +15208,7 @@
       "datePK": 440,
       "day": "Thursday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -15242,7 +15242,7 @@
       "datePK": 441,
       "day": "Friday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -15276,7 +15276,7 @@
       "datePK": 442,
       "day": "Saturday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -15310,7 +15310,7 @@
       "datePK": 443,
       "day": "Sunday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Beginners Workshop"
@@ -15344,7 +15344,7 @@
       "datePK": 444,
       "day": "Tuesday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Meditation"
@@ -15607,7 +15607,7 @@
       "datePK": 452,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -15641,7 +15641,7 @@
       "datePK": 453,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -15913,7 +15913,7 @@
       "datePK": 461,
       "day": "Sunday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -15947,7 +15947,7 @@
       "datePK": 462,
       "day": "Monday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -15981,7 +15981,7 @@
       "datePK": 463,
       "day": "Saturday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16015,7 +16015,7 @@
       "datePK": 464,
       "day": "Thursday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16049,7 +16049,7 @@
       "datePK": 465,
       "day": "Tuesday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16083,7 +16083,7 @@
       "datePK": 466,
       "day": "Wednesday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16117,7 +16117,7 @@
       "datePK": 467,
       "day": "Friday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16151,7 +16151,7 @@
       "datePK": 468,
       "day": "Monday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16185,7 +16185,7 @@
       "datePK": 469,
       "day": "Saturday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16219,7 +16219,7 @@
       "datePK": 470,
       "day": "Thursday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -16253,7 +16253,7 @@
       "datePK": 471,
       "day": "Tuesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16287,7 +16287,7 @@
       "datePK": 472,
       "day": "Sunday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16321,7 +16321,7 @@
       "datePK": 473,
       "day": "Wednesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16355,7 +16355,7 @@
       "datePK": 474,
       "day": "Friday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16389,7 +16389,7 @@
       "datePK": 475,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16423,7 +16423,7 @@
       "datePK": 476,
       "day": "Monday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16457,7 +16457,7 @@
       "datePK": 477,
       "day": "Saturday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16491,7 +16491,7 @@
       "datePK": 478,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16525,7 +16525,7 @@
       "datePK": 479,
       "day": "Sunday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16559,7 +16559,7 @@
       "datePK": 480,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -16771,7 +16771,7 @@
       "datePK": 486,
       "day": "Saturday",
       "start": "3:00 PM",
-      "hour": 300,
+      "hour": 1500,
       "end": "4:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -16805,7 +16805,7 @@
       "datePK": 487,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -16839,7 +16839,7 @@
       "datePK": 488,
       "day": "Tuesday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Special Purpose Groups"
@@ -16873,7 +16873,7 @@
       "datePK": 489,
       "day": "Monday",
       "start": "1:30 PM",
-      "hour": 130,
+      "hour": 1330,
       "end": "2:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Living Sober"
@@ -16907,7 +16907,7 @@
       "datePK": 490,
       "day": "Tuesday",
       "start": "1:30 PM",
-      "hour": 130,
+      "hour": 1330,
       "end": "2:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Living Sober"
@@ -16941,7 +16941,7 @@
       "datePK": 491,
       "day": "Wednesday",
       "start": "1:30 PM",
-      "hour": 130,
+      "hour": 1330,
       "end": "2:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Living Sober"
@@ -16975,7 +16975,7 @@
       "datePK": 492,
       "day": "Thursday",
       "start": "1:30 PM",
-      "hour": 130,
+      "hour": 1330,
       "end": "2:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Living Sober"
@@ -17009,7 +17009,7 @@
       "datePK": 493,
       "day": "Friday",
       "start": "1:30 PM",
-      "hour": 130,
+      "hour": 1330,
       "end": "2:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Living Sober"
@@ -17043,7 +17043,7 @@
       "datePK": 494,
       "day": "Saturday",
       "start": "1:30 PM",
-      "hour": 130,
+      "hour": 1330,
       "end": "2:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Living Sober"
@@ -17075,7 +17075,7 @@
       "datePK": 495,
       "day": "Sunday",
       "start": "2:45 PM",
-      "hour": 245,
+      "hour": 1445,
       "end": "3:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -17107,7 +17107,7 @@
       "datePK": 496,
       "day": "Monday",
       "start": "2:45 PM",
-      "hour": 245,
+      "hour": 1445,
       "end": "3:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -17139,7 +17139,7 @@
       "datePK": 497,
       "day": "Tuesday",
       "start": "2:45 PM",
-      "hour": 245,
+      "hour": 1445,
       "end": "3:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -17171,7 +17171,7 @@
       "datePK": 498,
       "day": "Wednesday",
       "start": "2:45 PM",
-      "hour": 245,
+      "hour": 1445,
       "end": "3:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -17203,7 +17203,7 @@
       "datePK": 499,
       "day": "Thursday",
       "start": "2:45 PM",
-      "hour": 245,
+      "hour": 1445,
       "end": "3:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -17235,7 +17235,7 @@
       "datePK": 500,
       "day": "Friday",
       "start": "2:45 PM",
-      "hour": 245,
+      "hour": 1445,
       "end": "3:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -17267,7 +17267,7 @@
       "datePK": 501,
       "day": "Saturday",
       "start": "2:45 PM",
-      "hour": 245,
+      "hour": 1445,
       "end": "3:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -17301,7 +17301,7 @@
       "datePK": 502,
       "day": "Wednesday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -17332,7 +17332,7 @@
       "datePK": 503,
       "day": "Friday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 AM",
       "meetingType": "none",
       "specialInterest": "Living Sober"
@@ -17363,7 +17363,7 @@
       "datePK": 504,
       "day": "Tuesday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "4:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -17394,7 +17394,7 @@
       "datePK": 505,
       "day": "Wednesday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 PM",
       "meetingType": "none",
       "specialInterest": "Meditation"
@@ -17425,7 +17425,7 @@
       "datePK": 506,
       "day": "Thursday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 PM",
       "meetingType": "none",
       "specialInterest": "As Bill Sees It"
@@ -17456,7 +17456,7 @@
       "datePK": 507,
       "day": "Saturday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -17487,7 +17487,7 @@
       "datePK": 508,
       "day": "Monday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 PM",
       "meetingType": "none",
       "specialInterest": "Came To Believe"
@@ -17626,7 +17626,7 @@
       "datePK": 512,
       "day": "Sunday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "5:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -17658,7 +17658,7 @@
       "datePK": 513,
       "day": "Sunday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -17690,7 +17690,7 @@
       "datePK": 514,
       "day": "Wednesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -17721,7 +17721,7 @@
       "datePK": 515,
       "day": "Monday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -18456,7 +18456,7 @@
       "datePK": 536,
       "day": "Saturday",
       "start": "10:30 PM",
-      "hour": 1030,
+      "hour": 2230,
       "end": "11:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -18487,7 +18487,7 @@
       "datePK": 537,
       "day": "Sunday",
       "start": "10:30 PM",
-      "hour": 1030,
+      "hour": 2230,
       "end": "11:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -18518,7 +18518,7 @@
       "datePK": 538,
       "day": "Monday",
       "start": "10:30 PM",
-      "hour": 1030,
+      "hour": 2230,
       "end": "11:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -18549,7 +18549,7 @@
       "datePK": 539,
       "day": "Tuesday",
       "start": "10:30 PM",
-      "hour": 1030,
+      "hour": 2230,
       "end": "11:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -18580,7 +18580,7 @@
       "datePK": 540,
       "day": "Wednesday",
       "start": "10:30 PM",
-      "hour": 1030,
+      "hour": 2230,
       "end": "11:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -18611,7 +18611,7 @@
       "datePK": 541,
       "day": "Thursday",
       "start": "10:30 PM",
-      "hour": 1030,
+      "hour": 2230,
       "end": "11:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -18642,7 +18642,7 @@
       "datePK": 542,
       "day": "Friday",
       "start": "10:30 PM",
-      "hour": 1030,
+      "hour": 2230,
       "end": "11:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -18676,7 +18676,7 @@
       "datePK": 543,
       "day": "Thursday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Special Purpose Groups"
@@ -18710,7 +18710,7 @@
       "datePK": 544,
       "day": "Monday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -18743,7 +18743,7 @@
       "datePK": 545,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -18776,7 +18776,7 @@
       "datePK": 546,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -18809,7 +18809,7 @@
       "datePK": 547,
       "day": "Monday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -18844,7 +18844,7 @@
       "datePK": 548,
       "day": "Thursday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -18877,7 +18877,7 @@
       "datePK": 549,
       "day": "Tuesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -18911,7 +18911,7 @@
       "datePK": 550,
       "day": "Monday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -19108,7 +19108,7 @@
       "datePK": 556,
       "day": "Wednesday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -19387,7 +19387,7 @@
       "datePK": 564,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -20046,7 +20046,7 @@
       "datePK": 583,
       "day": "Sunday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -20081,7 +20081,7 @@
       "datePK": 584,
       "day": "Wednesday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -20116,7 +20116,7 @@
       "datePK": 585,
       "day": "Monday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -20151,7 +20151,7 @@
       "datePK": 586,
       "day": "Thursday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -20186,7 +20186,7 @@
       "datePK": 587,
       "day": "Tuesday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -20221,7 +20221,7 @@
       "datePK": 588,
       "day": "Friday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -20481,7 +20481,7 @@
       "datePK": 596,
       "day": "Wednesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -20517,7 +20517,7 @@
       "datePK": 597,
       "day": "Monday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -20553,7 +20553,7 @@
       "datePK": 598,
       "day": "Wednesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:45 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -20589,7 +20589,7 @@
       "datePK": 599,
       "day": "Monday",
       "start": "7:45 PM",
-      "hour": 745,
+      "hour": 1945,
       "end": "8:45 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -20625,7 +20625,7 @@
       "datePK": 600,
       "day": "Wednesday",
       "start": "9:00 PM",
-      "hour": 900,
+      "hour": 2100,
       "end": "10:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "First Step Workshop"
@@ -20661,7 +20661,7 @@
       "datePK": 601,
       "day": "Monday",
       "start": "9:00 PM",
-      "hour": 900,
+      "hour": 2100,
       "end": "10:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -20695,7 +20695,7 @@
       "datePK": 602,
       "day": "Sunday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -20729,7 +20729,7 @@
       "datePK": 603,
       "day": "Thursday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -20763,7 +20763,7 @@
       "datePK": 604,
       "day": "Saturday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -20828,7 +20828,7 @@
       "datePK": 606,
       "day": "Saturday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Promises"
@@ -20862,7 +20862,7 @@
       "datePK": 607,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -20896,7 +20896,7 @@
       "datePK": 608,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -20930,7 +20930,7 @@
       "datePK": 609,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -20964,7 +20964,7 @@
       "datePK": 610,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Living Sober"
@@ -21027,7 +21027,7 @@
       "datePK": 612,
       "day": "Thursday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -21063,7 +21063,7 @@
       "datePK": 613,
       "day": "Saturday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21099,7 +21099,7 @@
       "datePK": 614,
       "day": "Wednesday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21135,7 +21135,7 @@
       "datePK": 615,
       "day": "Sunday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21171,7 +21171,7 @@
       "datePK": 616,
       "day": "Thursday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21207,7 +21207,7 @@
       "datePK": 617,
       "day": "Monday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21243,7 +21243,7 @@
       "datePK": 618,
       "day": "Friday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21279,7 +21279,7 @@
       "datePK": 619,
       "day": "Tuesday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21315,7 +21315,7 @@
       "datePK": 620,
       "day": "Saturday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21351,7 +21351,7 @@
       "datePK": 621,
       "day": "Wednesday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21387,7 +21387,7 @@
       "datePK": 622,
       "day": "Sunday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21423,7 +21423,7 @@
       "datePK": 623,
       "day": "Monday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21459,7 +21459,7 @@
       "datePK": 624,
       "day": "Friday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21495,7 +21495,7 @@
       "datePK": 625,
       "day": "Tuesday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21531,7 +21531,7 @@
       "datePK": 626,
       "day": "Thursday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "H.I.V Positive"
@@ -21567,7 +21567,7 @@
       "datePK": 627,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21603,7 +21603,7 @@
       "datePK": 628,
       "day": "Saturday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21639,7 +21639,7 @@
       "datePK": 629,
       "day": "Sunday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21675,7 +21675,7 @@
       "datePK": 630,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21711,7 +21711,7 @@
       "datePK": 631,
       "day": "Monday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21747,7 +21747,7 @@
       "datePK": 632,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21783,7 +21783,7 @@
       "datePK": 633,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -21972,7 +21972,7 @@
       "datePK": 639,
       "day": "Saturday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -22006,7 +22006,7 @@
       "datePK": 640,
       "day": "Friday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Spiritual Workshop"
@@ -22148,7 +22148,7 @@
       "datePK": 644,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -22179,7 +22179,7 @@
       "datePK": 645,
       "day": "Sunday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -22213,7 +22213,7 @@
       "datePK": 646,
       "day": "Tuesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Agnostic"
@@ -22242,7 +22242,7 @@
       "datePK": 647,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -22278,7 +22278,7 @@
       "datePK": 648,
       "day": "Friday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:45 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -22309,7 +22309,7 @@
       "datePK": 649,
       "day": "Sunday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -22343,7 +22343,7 @@
       "datePK": 650,
       "day": "Friday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "Young People"
@@ -22375,7 +22375,7 @@
       "datePK": 651,
       "day": "Sunday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -22578,7 +22578,7 @@
       "datePK": 657,
       "day": "Monday",
       "start": "5:45 PM",
-      "hour": 545,
+      "hour": 1745,
       "end": "6:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -22610,7 +22610,7 @@
       "datePK": 658,
       "day": "Wednesday",
       "start": "5:45 PM",
-      "hour": 545,
+      "hour": 1745,
       "end": "6:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -23156,7 +23156,7 @@
       "datePK": 674,
       "day": "Sunday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -23191,7 +23191,7 @@
       "datePK": 675,
       "day": "Sunday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Promises"
@@ -23226,7 +23226,7 @@
       "datePK": 676,
       "day": "Monday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -23261,7 +23261,7 @@
       "datePK": 677,
       "day": "Tuesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -23296,7 +23296,7 @@
       "datePK": 678,
       "day": "Tuesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -23331,7 +23331,7 @@
       "datePK": 679,
       "day": "Wednesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -23366,7 +23366,7 @@
       "datePK": 680,
       "day": "Wednesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -23401,7 +23401,7 @@
       "datePK": 681,
       "day": "Thursday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -23436,7 +23436,7 @@
       "datePK": 682,
       "day": "Friday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -23471,7 +23471,7 @@
       "datePK": 683,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -23605,7 +23605,7 @@
       "datePK": 687,
       "day": "Sunday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -23639,7 +23639,7 @@
       "datePK": 688,
       "day": "Sunday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -23673,7 +23673,7 @@
       "datePK": 689,
       "day": "Tuesday",
       "start": "5:45 PM",
-      "hour": 545,
+      "hour": 1745,
       "end": "6:45 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -23708,7 +23708,7 @@
       "datePK": 690,
       "day": "Monday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -23744,7 +23744,7 @@
       "datePK": 691,
       "day": "Tuesday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -23780,7 +23780,7 @@
       "datePK": 692,
       "day": "Friday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "First Step Workshop"
@@ -23816,7 +23816,7 @@
       "datePK": 693,
       "day": "Wednesday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -23852,7 +23852,7 @@
       "datePK": 694,
       "day": "Thursday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -23886,7 +23886,7 @@
       "datePK": 695,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -23920,7 +23920,7 @@
       "datePK": 696,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -23954,7 +23954,7 @@
       "datePK": 697,
       "day": "Monday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -23988,7 +23988,7 @@
       "datePK": 698,
       "day": "Friday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -24228,7 +24228,7 @@
       "datePK": 705,
       "day": "Saturday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "none",
       "specialInterest": "Eleventh Step Meditation"
@@ -24260,7 +24260,7 @@
       "datePK": 706,
       "day": "Monday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -24291,7 +24291,7 @@
       "datePK": 707,
       "day": "Thursday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -24322,7 +24322,7 @@
       "datePK": 708,
       "day": "Monday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -24355,7 +24355,7 @@
       "datePK": 709,
       "day": "Monday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -25758,7 +25758,7 @@
       "datePK": 748,
       "day": "Sunday",
       "start": "3:00 PM",
-      "hour": 300,
+      "hour": 1500,
       "end": "4:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -25794,7 +25794,7 @@
       "datePK": 749,
       "day": "Friday",
       "start": "3:15 PM",
-      "hour": 315,
+      "hour": 1515,
       "end": "4:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -25830,7 +25830,7 @@
       "datePK": 750,
       "day": "Thursday",
       "start": "3:15 PM",
-      "hour": 315,
+      "hour": 1515,
       "end": "4:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -25866,7 +25866,7 @@
       "datePK": 751,
       "day": "Wednesday",
       "start": "3:15 PM",
-      "hour": 315,
+      "hour": 1515,
       "end": "4:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -25902,7 +25902,7 @@
       "datePK": 752,
       "day": "Tuesday",
       "start": "3:15 PM",
-      "hour": 315,
+      "hour": 1515,
       "end": "4:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -25938,7 +25938,7 @@
       "datePK": 753,
       "day": "Monday",
       "start": "3:15 PM",
-      "hour": 315,
+      "hour": 1515,
       "end": "4:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -25974,7 +25974,7 @@
       "datePK": 754,
       "day": "Saturday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -26010,7 +26010,7 @@
       "datePK": 755,
       "day": "Sunday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -26046,7 +26046,7 @@
       "datePK": 756,
       "day": "Friday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -26082,7 +26082,7 @@
       "datePK": 757,
       "day": "Thursday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -26118,7 +26118,7 @@
       "datePK": 758,
       "day": "Wednesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -26154,7 +26154,7 @@
       "datePK": 759,
       "day": "Tuesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -26190,7 +26190,7 @@
       "datePK": 760,
       "day": "Wednesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -26226,7 +26226,7 @@
       "datePK": 761,
       "day": "Monday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -26262,7 +26262,7 @@
       "datePK": 762,
       "day": "Tuesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -26298,7 +26298,7 @@
       "datePK": 763,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -26334,7 +26334,7 @@
       "datePK": 764,
       "day": "Saturday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "none",
       "specialInterest": "Meditation"
@@ -26370,7 +26370,7 @@
       "datePK": 765,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -26406,7 +26406,7 @@
       "datePK": 766,
       "day": "Sunday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -26442,7 +26442,7 @@
       "datePK": 767,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Men"
@@ -26478,7 +26478,7 @@
       "datePK": 768,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -26514,7 +26514,7 @@
       "datePK": 769,
       "day": "Monday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Women"
@@ -26550,7 +26550,7 @@
       "datePK": 770,
       "day": "Friday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -26620,7 +26620,7 @@
       "datePK": 772,
       "day": "Saturday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -26716,7 +26716,7 @@
       "datePK": 775,
       "day": "Friday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -26749,7 +26749,7 @@
       "datePK": 776,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -26780,7 +26780,7 @@
       "datePK": 777,
       "day": "Tuesday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -26947,7 +26947,7 @@
       "datePK": 782,
       "day": "Saturday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Promises"
@@ -26979,7 +26979,7 @@
       "datePK": 783,
       "day": "Saturday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -27011,7 +27011,7 @@
       "datePK": 784,
       "day": "Saturday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -27043,7 +27043,7 @@
       "datePK": 785,
       "day": "Wednesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -27074,7 +27074,7 @@
       "datePK": 786,
       "day": "Tuesday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -27105,7 +27105,7 @@
       "datePK": 787,
       "day": "Thursday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -27139,7 +27139,7 @@
       "datePK": 788,
       "day": "Wednesday",
       "start": "5:45 PM",
-      "hour": 545,
+      "hour": 1745,
       "end": "7:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -27172,7 +27172,7 @@
       "datePK": 789,
       "day": "Monday",
       "start": "3:00 PM",
-      "hour": 300,
+      "hour": 1500,
       "end": "4:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "As Bill Sees It"
@@ -27206,7 +27206,7 @@
       "datePK": 790,
       "day": "Wednesday",
       "start": "3:00 PM",
-      "hour": 300,
+      "hour": 1500,
       "end": "4:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Living Sober"
@@ -27238,7 +27238,7 @@
       "datePK": 791,
       "day": "Friday",
       "start": "7:45 PM",
-      "hour": 745,
+      "hour": 1945,
       "end": "8:45 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -27270,7 +27270,7 @@
       "datePK": 792,
       "day": "Friday",
       "start": "9:00 PM",
-      "hour": 900,
+      "hour": 2100,
       "end": "10:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -27307,7 +27307,7 @@
       "datePK": 793,
       "day": "Tuesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:45 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -27338,7 +27338,7 @@
       "datePK": 794,
       "day": "Thursday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "AA Literature"
@@ -27369,7 +27369,7 @@
       "datePK": 795,
       "day": "Friday",
       "start": "9:30 PM",
-      "hour": 930,
+      "hour": 2130,
       "end": "10:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -27403,7 +27403,7 @@
       "datePK": 796,
       "day": "Saturday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -27437,7 +27437,7 @@
       "datePK": 797,
       "day": "Saturday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "4:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -27471,7 +27471,7 @@
       "datePK": 798,
       "day": "Monday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -27505,7 +27505,7 @@
       "datePK": 799,
       "day": "Tuesday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -27539,7 +27539,7 @@
       "datePK": 800,
       "day": "Wednesday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:30 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "Living Sober"
@@ -27573,7 +27573,7 @@
       "datePK": 801,
       "day": "Friday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -27607,7 +27607,7 @@
       "datePK": 802,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -27640,7 +27640,7 @@
       "datePK": 803,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -27675,7 +27675,7 @@
       "datePK": 804,
       "day": "Tuesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -27711,7 +27711,7 @@
       "datePK": 805,
       "day": "Tuesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -27743,7 +27743,7 @@
       "datePK": 806,
       "day": "Monday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -27775,7 +27775,7 @@
       "datePK": 807,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -27809,7 +27809,7 @@
       "datePK": 808,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Men"
@@ -27904,7 +27904,7 @@
       "datePK": 811,
       "day": "Tuesday",
       "start": "8:15 PM",
-      "hour": 815,
+      "hour": 2015,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -27937,7 +27937,7 @@
       "datePK": 812,
       "day": "Monday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:45 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -27971,7 +27971,7 @@
       "datePK": 813,
       "day": "Monday",
       "start": "9:00 PM",
-      "hour": 900,
+      "hour": 2100,
       "end": "10:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -28005,7 +28005,7 @@
       "datePK": 814,
       "day": "Monday",
       "start": "10:15 PM",
-      "hour": 1015,
+      "hour": 2215,
       "end": "11:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Topic"
@@ -28039,7 +28039,7 @@
       "datePK": 815,
       "day": "Friday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -28071,7 +28071,7 @@
       "datePK": 816,
       "day": "Sunday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -28103,7 +28103,7 @@
       "datePK": 817,
       "day": "Sunday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:45 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Twelve Steps"
@@ -28139,7 +28139,7 @@
       "datePK": 818,
       "day": "Saturday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Children Welcome"
@@ -28174,7 +28174,7 @@
       "datePK": 819,
       "day": "Sunday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Children Welcome"
@@ -28209,7 +28209,7 @@
       "datePK": 820,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Topic"
@@ -28241,7 +28241,7 @@
       "datePK": 821,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:45 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -29697,7 +29697,7 @@
       "datePK": 865,
       "day": "Friday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:45 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -29731,7 +29731,7 @@
       "datePK": 866,
       "day": "Sunday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -29765,7 +29765,7 @@
       "datePK": 867,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -29801,7 +29801,7 @@
       "datePK": 868,
       "day": "Monday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -29837,7 +29837,7 @@
       "datePK": 869,
       "day": "Wednesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -29873,7 +29873,7 @@
       "datePK": 870,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -29909,7 +29909,7 @@
       "datePK": 871,
       "day": "Sunday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -29943,7 +29943,7 @@
       "datePK": 872,
       "day": "Tuesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -29975,7 +29975,7 @@
       "datePK": 873,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -30006,7 +30006,7 @@
       "datePK": 874,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -30037,7 +30037,7 @@
       "datePK": 875,
       "day": "Thursday",
       "start": "8:15 PM",
-      "hour": 815,
+      "hour": 2015,
       "end": "9:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -30072,7 +30072,7 @@
       "datePK": 876,
       "day": "Saturday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -30108,7 +30108,7 @@
       "datePK": 877,
       "day": "Wednesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Interpreted for the Deaf"
@@ -30144,7 +30144,7 @@
       "datePK": 878,
       "day": "Wednesday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -30180,7 +30180,7 @@
       "datePK": 879,
       "day": "Wednesday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -30212,7 +30212,7 @@
       "datePK": 880,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -30244,7 +30244,7 @@
       "datePK": 881,
       "day": "Sunday",
       "start": "5:45 PM",
-      "hour": 545,
+      "hour": 1745,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -30277,7 +30277,7 @@
       "datePK": 882,
       "day": "Friday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -30311,7 +30311,7 @@
       "datePK": 883,
       "day": "Monday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Meditation"
@@ -30345,7 +30345,7 @@
       "datePK": 884,
       "day": "Tuesday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -30379,7 +30379,7 @@
       "datePK": 885,
       "day": "Wednesday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:15 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -30413,7 +30413,7 @@
       "datePK": 886,
       "day": "Thursday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -30447,7 +30447,7 @@
       "datePK": 887,
       "day": "Saturday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -30481,7 +30481,7 @@
       "datePK": 888,
       "day": "Saturday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -30515,7 +30515,7 @@
       "datePK": 889,
       "day": "Saturday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -30549,7 +30549,7 @@
       "datePK": 890,
       "day": "Saturday",
       "start": "9:15 PM",
-      "hour": 915,
+      "hour": 2115,
       "end": "10:15 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -30581,7 +30581,7 @@
       "datePK": 891,
       "day": "Wednesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -30613,7 +30613,7 @@
       "datePK": 892,
       "day": "Friday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -30647,7 +30647,7 @@
       "datePK": 893,
       "day": "Tuesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -30683,7 +30683,7 @@
       "datePK": 894,
       "day": "Monday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -30717,7 +30717,7 @@
       "datePK": 895,
       "day": "Thursday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -30750,7 +30750,7 @@
       "datePK": 896,
       "day": "Sunday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Tradition Meeting",
       "specialInterest": "none"
@@ -30784,7 +30784,7 @@
       "datePK": 897,
       "day": "Monday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -30818,7 +30818,7 @@
       "datePK": 898,
       "day": "Tuesday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -30852,7 +30852,7 @@
       "datePK": 899,
       "day": "Wednesday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -30886,7 +30886,7 @@
       "datePK": 900,
       "day": "Thursday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -30920,7 +30920,7 @@
       "datePK": 901,
       "day": "Saturday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "As Bill Sees It"
@@ -30954,7 +30954,7 @@
       "datePK": 902,
       "day": "Friday",
       "start": "11:00 PM",
-      "hour": 1100,
+      "hour": 2300,
       "end": "12:00 AM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Promises"
@@ -30990,7 +30990,7 @@
       "datePK": 903,
       "day": "Monday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Interpreted for the Deaf"
@@ -31027,7 +31027,7 @@
       "datePK": 904,
       "day": "Wednesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "Interpreted for the Deaf"
@@ -31064,7 +31064,7 @@
       "datePK": 905,
       "day": "Thursday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -31097,7 +31097,7 @@
       "datePK": 906,
       "day": "Saturday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -31131,7 +31131,7 @@
       "datePK": 907,
       "day": "Sunday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -31163,7 +31163,7 @@
       "datePK": 908,
       "day": "Saturday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -31195,7 +31195,7 @@
       "datePK": 909,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -31229,7 +31229,7 @@
       "datePK": 910,
       "day": "Wednesday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Living Sober"
@@ -31263,7 +31263,7 @@
       "datePK": 911,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -31297,7 +31297,7 @@
       "datePK": 912,
       "day": "Wednesday",
       "start": "8:15 PM",
-      "hour": 815,
+      "hour": 2015,
       "end": "9:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -31331,7 +31331,7 @@
       "datePK": 913,
       "day": "Saturday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Promises"
@@ -31431,7 +31431,7 @@
       "datePK": 916,
       "day": "Thursday",
       "start": "3:30 PM",
-      "hour": 330,
+      "hour": 1530,
       "end": "4:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -31465,7 +31465,7 @@
       "datePK": 917,
       "day": "Tuesday",
       "start": "3:30 PM",
-      "hour": 330,
+      "hour": 1530,
       "end": "4:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -31499,7 +31499,7 @@
       "datePK": 918,
       "day": "Tuesday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -31533,7 +31533,7 @@
       "datePK": 919,
       "day": "Thursday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -31567,7 +31567,7 @@
       "datePK": 920,
       "day": "Friday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -31669,7 +31669,7 @@
       "datePK": 923,
       "day": "Thursday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Agnostic"
@@ -31703,7 +31703,7 @@
       "datePK": 924,
       "day": "Wednesday",
       "start": "4:45 PM",
-      "hour": 445,
+      "hour": 1645,
       "end": "5:45 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Medication"
@@ -31734,7 +31734,7 @@
       "datePK": 925,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -31766,7 +31766,7 @@
       "datePK": 926,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -31798,7 +31798,7 @@
       "datePK": 927,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -31830,7 +31830,7 @@
       "datePK": 928,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -31862,7 +31862,7 @@
       "datePK": 929,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -31894,7 +31894,7 @@
       "datePK": 930,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -31925,7 +31925,7 @@
       "datePK": 931,
       "day": "Saturday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Young People"
@@ -31957,7 +31957,7 @@
       "datePK": 932,
       "day": "Saturday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Agnostic"
@@ -32058,7 +32058,7 @@
       "datePK": 935,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -32254,7 +32254,7 @@
       "datePK": 941,
       "day": "Tuesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -32286,7 +32286,7 @@
       "datePK": 942,
       "day": "Wednesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Special Purpose Groups"
@@ -32352,7 +32352,7 @@
       "datePK": 944,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Tradition Meeting",
       "specialInterest": "none"
@@ -32384,7 +32384,7 @@
       "datePK": 945,
       "day": "Wednesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -32418,7 +32418,7 @@
       "datePK": 946,
       "day": "Monday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Living Sober"
@@ -32452,7 +32452,7 @@
       "datePK": 947,
       "day": "Tuesday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -32486,7 +32486,7 @@
       "datePK": 948,
       "day": "Wednesday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -32520,7 +32520,7 @@
       "datePK": 949,
       "day": "Thursday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -32554,7 +32554,7 @@
       "datePK": 950,
       "day": "Friday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -32586,7 +32586,7 @@
       "datePK": 951,
       "day": "Monday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -32619,7 +32619,7 @@
       "datePK": 952,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -32650,7 +32650,7 @@
       "datePK": 953,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -32683,7 +32683,7 @@
       "datePK": 954,
       "day": "Saturday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -32716,7 +32716,7 @@
       "datePK": 955,
       "day": "Friday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -32751,7 +32751,7 @@
       "datePK": 956,
       "day": "Sunday",
       "start": "3:30 PM",
-      "hour": 330,
+      "hour": 1530,
       "end": "4:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -32783,7 +32783,7 @@
       "datePK": 957,
       "day": "Tuesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -32815,7 +32815,7 @@
       "datePK": 958,
       "day": "Sunday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "5:45 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "Meditation"
@@ -32847,7 +32847,7 @@
       "datePK": 959,
       "day": "Sunday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -32879,7 +32879,7 @@
       "datePK": 960,
       "day": "Sunday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -32911,7 +32911,7 @@
       "datePK": 961,
       "day": "Sunday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -33183,7 +33183,7 @@
       "datePK": 969,
       "day": "Friday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Women"
@@ -33217,7 +33217,7 @@
       "datePK": 970,
       "day": "Sunday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -33251,7 +33251,7 @@
       "datePK": 971,
       "day": "Wednesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "9:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -33285,7 +33285,7 @@
       "datePK": 972,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -33353,7 +33353,7 @@
       "datePK": 974,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -33385,7 +33385,7 @@
       "datePK": 975,
       "day": "Friday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -33420,7 +33420,7 @@
       "datePK": 976,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -33454,7 +33454,7 @@
       "datePK": 977,
       "day": "Friday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Men"
@@ -33487,7 +33487,7 @@
       "datePK": 978,
       "day": "Monday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "none",
       "specialInterest": "Agnostic"
@@ -33708,7 +33708,7 @@
       "datePK": 985,
       "day": "Wednesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Big Book Workshop"
@@ -33772,7 +33772,7 @@
       "datePK": 987,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -33803,7 +33803,7 @@
       "datePK": 988,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -33834,7 +33834,7 @@
       "datePK": 989,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -33865,7 +33865,7 @@
       "datePK": 990,
       "day": "Thursday",
       "start": "8:15 PM",
-      "hour": 815,
+      "hour": 2015,
       "end": "9:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -33896,7 +33896,7 @@
       "datePK": 991,
       "day": "Monday",
       "start": "8:15 PM",
-      "hour": 815,
+      "hour": 2015,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -33927,7 +33927,7 @@
       "datePK": 992,
       "day": "Wednesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Twelve Steps"
@@ -33961,7 +33961,7 @@
       "datePK": 993,
       "day": "Tuesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -33995,7 +33995,7 @@
       "datePK": 994,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -34029,7 +34029,7 @@
       "datePK": 995,
       "day": "Tuesday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -34063,7 +34063,7 @@
       "datePK": 996,
       "day": "Saturday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -34097,7 +34097,7 @@
       "datePK": 997,
       "day": "Saturday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -34301,7 +34301,7 @@
       "datePK": 1003,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -34333,7 +34333,7 @@
       "datePK": 1004,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -34366,7 +34366,7 @@
       "datePK": 1005,
       "day": "Saturday",
       "start": "3:15 PM",
-      "hour": 315,
+      "hour": 1515,
       "end": "4:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "First Step Workshop"
@@ -34400,7 +34400,7 @@
       "datePK": 1006,
       "day": "Sunday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -34434,7 +34434,7 @@
       "datePK": 1007,
       "day": "Tuesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "none",
       "specialInterest": "none"
@@ -34468,7 +34468,7 @@
       "datePK": 1008,
       "day": "Sunday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -34502,7 +34502,7 @@
       "datePK": 1009,
       "day": "Tuesday",
       "start": "7:45 PM",
-      "hour": 745,
+      "hour": 1945,
       "end": "8:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -34536,7 +34536,7 @@
       "datePK": 1010,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -34572,7 +34572,7 @@
       "datePK": 1011,
       "day": "Monday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -34774,7 +34774,7 @@
       "datePK": 1017,
       "day": "Monday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -34806,7 +34806,7 @@
       "datePK": 1018,
       "day": "Wednesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -34840,7 +34840,7 @@
       "datePK": 1019,
       "day": "Monday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -34975,7 +34975,7 @@
       "datePK": 1023,
       "day": "Friday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -35013,7 +35013,7 @@
       "datePK": 1024,
       "day": "Tuesday",
       "start": "6:45 PM",
-      "hour": 645,
+      "hour": 1845,
       "end": "7:45 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -35051,7 +35051,7 @@
       "datePK": 1025,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -35089,7 +35089,7 @@
       "datePK": 1026,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -35154,7 +35154,7 @@
       "datePK": 1028,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -35187,7 +35187,7 @@
       "datePK": 1029,
       "day": "Wednesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -35219,7 +35219,7 @@
       "datePK": 1030,
       "day": "Thursday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -35253,7 +35253,7 @@
       "datePK": 1031,
       "day": "Monday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -35287,7 +35287,7 @@
       "datePK": 1032,
       "day": "Thursday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -35321,7 +35321,7 @@
       "datePK": 1033,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -35355,7 +35355,7 @@
       "datePK": 1034,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -35387,7 +35387,7 @@
       "datePK": 1035,
       "day": "Saturday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -36506,7 +36506,7 @@
       "datePK": 1067,
       "day": "Saturday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Women"
@@ -36541,7 +36541,7 @@
       "datePK": 1068,
       "day": "Sunday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Men"
@@ -36576,7 +36576,7 @@
       "datePK": 1069,
       "day": "Friday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "First Step Workshop"
@@ -36611,7 +36611,7 @@
       "datePK": 1070,
       "day": "Thursday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -36646,7 +36646,7 @@
       "datePK": 1071,
       "day": "Wednesday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -36681,7 +36681,7 @@
       "datePK": 1072,
       "day": "Tuesday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -36716,7 +36716,7 @@
       "datePK": 1073,
       "day": "Monday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -36751,7 +36751,7 @@
       "datePK": 1074,
       "day": "Saturday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "Steps 1-2-3"
@@ -36786,7 +36786,7 @@
       "datePK": 1075,
       "day": "Sunday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "As Bill Sees It"
@@ -36821,7 +36821,7 @@
       "datePK": 1076,
       "day": "Friday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Children Welcome"
@@ -36856,7 +36856,7 @@
       "datePK": 1077,
       "day": "Thursday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -36891,7 +36891,7 @@
       "datePK": 1078,
       "day": "Wednesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -36926,7 +36926,7 @@
       "datePK": 1079,
       "day": "Tuesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -36961,7 +36961,7 @@
       "datePK": 1080,
       "day": "Monday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Tradition Meeting",
       "specialInterest": "none"
@@ -36996,7 +36996,7 @@
       "datePK": 1081,
       "day": "Saturday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -37031,7 +37031,7 @@
       "datePK": 1082,
       "day": "Sunday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -37066,7 +37066,7 @@
       "datePK": 1083,
       "day": "Sunday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Promises"
@@ -37101,7 +37101,7 @@
       "datePK": 1084,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -37136,7 +37136,7 @@
       "datePK": 1085,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -37171,7 +37171,7 @@
       "datePK": 1086,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Sponsorship Workshop"
@@ -37206,7 +37206,7 @@
       "datePK": 1087,
       "day": "Saturday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -37241,7 +37241,7 @@
       "datePK": 1088,
       "day": "Saturday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -37276,7 +37276,7 @@
       "datePK": 1089,
       "day": "Sunday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -37311,7 +37311,7 @@
       "datePK": 1090,
       "day": "Friday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -37346,7 +37346,7 @@
       "datePK": 1091,
       "day": "Thursday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -37381,7 +37381,7 @@
       "datePK": 1092,
       "day": "Tuesday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -37416,7 +37416,7 @@
       "datePK": 1093,
       "day": "Monday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -37451,7 +37451,7 @@
       "datePK": 1094,
       "day": "Wednesday",
       "start": "10:00 PM",
-      "hour": 1000,
+      "hour": 2200,
       "end": "11:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -37582,7 +37582,7 @@
       "datePK": 1098,
       "day": "Saturday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -37683,7 +37683,7 @@
       "datePK": 1101,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -37720,7 +37720,7 @@
       "datePK": 1102,
       "day": "Tuesday",
       "start": "7:15 PM",
-      "hour": 715,
+      "hour": 1915,
       "end": "8:15 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -37757,7 +37757,7 @@
       "datePK": 1103,
       "day": "Friday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -37794,7 +37794,7 @@
       "datePK": 1104,
       "day": "Tuesday",
       "start": "8:30 PM",
-      "hour": 830,
+      "hour": 2030,
       "end": "9:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -37828,7 +37828,7 @@
       "datePK": 1105,
       "day": "Wednesday",
       "start": "6:15 PM",
-      "hour": 615,
+      "hour": 1815,
       "end": "7:15 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Agnostic"
@@ -37862,7 +37862,7 @@
       "datePK": 1106,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -37896,7 +37896,7 @@
       "datePK": 1107,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -37928,7 +37928,7 @@
       "datePK": 1108,
       "day": "Wednesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -37960,7 +37960,7 @@
       "datePK": 1109,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -38297,7 +38297,7 @@
       "datePK": 1119,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -38363,7 +38363,7 @@
       "datePK": 1121,
       "day": "Sunday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -38397,7 +38397,7 @@
       "datePK": 1122,
       "day": "Sunday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -38429,7 +38429,7 @@
       "datePK": 1123,
       "day": "Thursday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -38463,7 +38463,7 @@
       "datePK": 1124,
       "day": "Sunday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -38494,7 +38494,7 @@
       "datePK": 1125,
       "day": "Monday",
       "start": "4:30 PM",
-      "hour": 430,
+      "hour": 1630,
       "end": "5:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -38528,7 +38528,7 @@
       "datePK": 1126,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -38563,7 +38563,7 @@
       "datePK": 1127,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -38598,7 +38598,7 @@
       "datePK": 1128,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -38630,7 +38630,7 @@
       "datePK": 1129,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -38662,7 +38662,7 @@
       "datePK": 1130,
       "day": "Sunday",
       "start": "3:00 PM",
-      "hour": 300,
+      "hour": 1500,
       "end": "4:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -38770,7 +38770,7 @@
       "datePK": 1133,
       "day": "Saturday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "Men"
@@ -38804,7 +38804,7 @@
       "datePK": 1134,
       "day": "Monday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -38840,7 +38840,7 @@
       "datePK": 1135,
       "day": "Saturday",
       "start": "3:00 PM",
-      "hour": 300,
+      "hour": 1500,
       "end": "4:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -38876,7 +38876,7 @@
       "datePK": 1136,
       "day": "Saturday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -38912,7 +38912,7 @@
       "datePK": 1137,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "none",
       "specialInterest": "none"
@@ -38946,7 +38946,7 @@
       "datePK": 1138,
       "day": "Wednesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -38980,7 +38980,7 @@
       "datePK": 1139,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Men"
@@ -39014,7 +39014,7 @@
       "datePK": 1140,
       "day": "Sunday",
       "start": "4:00 PM",
-      "hour": 400,
+      "hour": 1600,
       "end": "5:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -39048,7 +39048,7 @@
       "datePK": 1141,
       "day": "Thursday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -39082,7 +39082,7 @@
       "datePK": 1142,
       "day": "Sunday",
       "start": "2:00 PM",
-      "hour": 200,
+      "hour": 1400,
       "end": "3:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -39114,7 +39114,7 @@
       "datePK": 1143,
       "day": "Friday",
       "start": "5:30 PM",
-      "hour": 530,
+      "hour": 1730,
       "end": "6:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -39146,7 +39146,7 @@
       "datePK": 1144,
       "day": "Tuesday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -39213,7 +39213,7 @@
       "datePK": 1146,
       "day": "Tuesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -39246,7 +39246,7 @@
       "datePK": 1147,
       "day": "Saturday",
       "start": "4:15 PM",
-      "hour": 415,
+      "hour": 1615,
       "end": "5:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -39280,7 +39280,7 @@
       "datePK": 1148,
       "day": "Tuesday",
       "start": "6:30 PM",
-      "hour": 630,
+      "hour": 1830,
       "end": "7:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Living Sober"
@@ -39314,7 +39314,7 @@
       "datePK": 1149,
       "day": "Sunday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "6:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -39348,7 +39348,7 @@
       "datePK": 1150,
       "day": "Monday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -39382,7 +39382,7 @@
       "datePK": 1151,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -39416,7 +39416,7 @@
       "datePK": 1152,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -39450,7 +39450,7 @@
       "datePK": 1153,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -39484,7 +39484,7 @@
       "datePK": 1154,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -39518,7 +39518,7 @@
       "datePK": 1155,
       "day": "Saturday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -39550,7 +39550,7 @@
       "datePK": 1156,
       "day": "Sunday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Tradition Meeting",
       "specialInterest": "none"
@@ -39583,7 +39583,7 @@
       "datePK": 1157,
       "day": "Monday",
       "start": "1:00 PM",
-      "hour": 100,
+      "hour": 1300,
       "end": "2:00 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "none"
@@ -40025,7 +40025,7 @@
       "datePK": 1170,
       "day": "Wednesday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Step Meeting",
       "specialInterest": "none"
@@ -40095,7 +40095,7 @@
       "datePK": 1172,
       "day": "Wednesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "10:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -40126,7 +40126,7 @@
       "datePK": 1173,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "10:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -40157,7 +40157,7 @@
       "datePK": 1174,
       "day": "Sunday",
       "start": "5:00 PM",
-      "hour": 500,
+      "hour": 1700,
       "end": "7:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -40191,7 +40191,7 @@
       "datePK": 1175,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "10:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -40225,7 +40225,7 @@
       "datePK": 1176,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "10:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -40259,7 +40259,7 @@
       "datePK": 1177,
       "day": "Saturday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "10:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -40293,7 +40293,7 @@
       "datePK": 1178,
       "day": "Tuesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -40326,7 +40326,7 @@
       "datePK": 1179,
       "day": "Thursday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -40359,7 +40359,7 @@
       "datePK": 1180,
       "day": "Thursday",
       "start": "9:30 PM",
-      "hour": 930,
+      "hour": 2130,
       "end": "10:30 AM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -40392,7 +40392,7 @@
       "datePK": 1181,
       "day": "Tuesday",
       "start": "9:30 PM",
-      "hour": 930,
+      "hour": 2130,
       "end": "10:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -40425,7 +40425,7 @@
       "datePK": 1182,
       "day": "Sunday",
       "start": "2:30 PM",
-      "hour": 230,
+      "hour": 1430,
       "end": "3:30 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -40459,7 +40459,7 @@
       "datePK": 1183,
       "day": "Tuesday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -40493,7 +40493,7 @@
       "datePK": 1184,
       "day": "Thursday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -40527,7 +40527,7 @@
       "datePK": 1185,
       "day": "Monday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -40560,7 +40560,7 @@
       "datePK": 1186,
       "day": "Friday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -40594,7 +40594,7 @@
       "datePK": 1187,
       "day": "Sunday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -40630,7 +40630,7 @@
       "datePK": 1188,
       "day": "Wednesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Beginners Meeting",
       "specialInterest": "Gay, Lesbian and Bisexual"
@@ -40767,7 +40767,7 @@
       "datePK": 1192,
       "day": "Monday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -40801,7 +40801,7 @@
       "datePK": 1193,
       "day": "Friday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -40834,7 +40834,7 @@
       "datePK": 1194,
       "day": "Monday",
       "start": "8:00 PM",
-      "hour": 800,
+      "hour": 2000,
       "end": "9:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "Men"
@@ -40868,7 +40868,7 @@
       "datePK": 1195,
       "day": "Friday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
@@ -40901,7 +40901,7 @@
       "datePK": 1196,
       "day": "Thursday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Discussion Meeting",
       "specialInterest": "none"
@@ -40932,7 +40932,7 @@
       "datePK": 1197,
       "day": "Saturday",
       "start": "7:00 PM",
-      "hour": 700,
+      "hour": 1900,
       "end": "8:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -40963,7 +40963,7 @@
       "datePK": 1198,
       "day": "Tuesday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Open Meeting",
       "specialInterest": "none"
@@ -40994,7 +40994,7 @@
       "datePK": 1199,
       "day": "Thursday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -41026,7 +41026,7 @@
       "datePK": 1200,
       "day": "Sunday",
       "start": "6:00 PM",
-      "hour": 600,
+      "hour": 1800,
       "end": "7:00 PM",
       "meetingType": "Closed Meeting",
       "specialInterest": "none"
@@ -41058,7 +41058,7 @@
       "datePK": 1201,
       "day": "Monday",
       "start": "7:30 PM",
-      "hour": 730,
+      "hour": 1930,
       "end": "8:30 PM",
       "meetingType": "Big Book Meeting",
       "specialInterest": "none"
