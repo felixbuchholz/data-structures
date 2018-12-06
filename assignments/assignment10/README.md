@@ -1,7 +1,7 @@
 Felix Buchholz
 MS Data Visualization @ Parsons NYC, Fall 2018, Data Structures, Aaron Hill
 
-# Assignment 9
+# Assignment 10
 
 [Link](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_10) to the assignment description.
 
