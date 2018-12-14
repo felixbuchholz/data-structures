@@ -1,9 +1,9 @@
 /* global date */
 /* global d3 */
-console.log(date);
+// console.log(date);
 const currentDate = new Date(date[1]);
 const startDate = new Date('2018-11-25T05:00:00.000Z');
-console.log(startDate)
+// console.log(startDate)
 const offset = parseFloat(window.location.href.split('=')[1]);
 console.log(offset)
 

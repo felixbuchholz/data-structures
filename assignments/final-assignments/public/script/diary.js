@@ -15,13 +15,7 @@ for (var i = 0; i < data.length; i++) {
    data[i] = [{'end': true, 'headline': {'S': 'Undefined.'}, 'entry': {'S': 'C’est la fin, mon ami.'}}];
   } 
 }
-/*
-if (!Array.isArray(data[data.length-1]) || !data[data.length-1].length) {
-  data[data.length-1] = [{'entry': {'S': 'You reached the end, my friend.'}}];
-  // d3.select('#firstentry')
-  //   .text(`You reached the end, my friend.`);
-}
-*/
+
 console.log(data);
 
 d3.select('body')
