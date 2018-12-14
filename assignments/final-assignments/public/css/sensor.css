@@ -1,0 +1,53 @@
+body { 
+  margin: 0; 
+  font-family: 'Lato', sans-serif;
+}
+
+canvas { 
+  width: 100%; 
+  height: 100% 
+}
+
+#previous, #next, #date, #use {
+  position: fixed;
+  z-index: 5;
+  color: #888;
+  font-size: 5vw;
+}
+
+#previous, #next {
+  transition: all 0.4s;
+  font-weight: lighter;
+  top: 40vh;
+}
+
+#previous:hover, #next:hover {
+  color: #fff;
+  font-size: 6vw;
+  top: 38.5vh;
+}
+
+#previous {
+  left: 2vw;
+}
+
+#next {
+  right: 2vw;
+}
+
+#date {
+  bottom: 2vw;
+  width: 100%;
+  text-align: center;
+  font-size: 3vh;
+  color: #888;
+}
+
+#use {
+  top: 0.5vw;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5vh;
+  font-weight: normal;
+  color: #888;
+}

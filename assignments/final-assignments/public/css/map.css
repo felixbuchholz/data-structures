@@ -1,0 +1,60 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  padding: 10px;
+}
+
+#mapid { height: 760px; }
+
+h1, h2, h3 {
+  font-weight: bold;
+  color: rgb(119, 146, 227);
+}
+
+h1 {
+  margin-top: 0px;
+}
+
+.leaflet-container {
+    font-family: 'Raleway', sans-serif;
+}
+
+.meeting {
+  border-top: 1px dashed grey;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+
+.address {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.name .em {
+  font-size: 15px;
+}
+
+.time .em {
+  color: rgb(119, 146, 227);
+}
+
+.em {
+  font-weight: bold;
+}
+
+#note {
+  margin-top: 15px;
+  font-style: italic;
+  color: rgb(119, 146, 227);
+}
+
+#reference {
+  position: absolute;
+  padding-right: 10px;
+  top: 96.5vh;
+  left: 93vw;
+  font-size: 11px;
+  color: #666;
+}

@@ -1,0 +1,3 @@
+# Ignore the .env file that holds your API key
+.env
+ecosystem.config.js

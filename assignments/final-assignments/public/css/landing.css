@@ -1,0 +1,53 @@
+html {
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+div {
+    height: 400px;
+}
+h2 {
+    margin: 30px 75px;
+    font-family: 'Space Mono', monospace;
+    font-style: italic;
+    color: #fff;
+    font-weight: 100;
+    font-size: 120px;
+    line-height: 1em;
+    letter-spacing: 0.02em;
+}
+
+ul {
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+  color: #fff;
+}
+
+
+
+li a {
+  font-size: 25px;
+  padding-left: 90px;
+  text-decoration: none;
+  color: #fff;
+
+  -webkit-transition: font-size 0.4s ease, background-color 0.4s ease;
+  -moz-transition: font-size 0.4s ease, background-color 0.4s ease;
+  -o-transition: font-size 0.4s ease, background-color 0.4s ease;
+  -ms-transition: font-size 0.4s ease, background-color 0.4s ease;
+  transition: font-size 0.4s ease, background-color 0.4s ease;
+  display: block;
+  width: 100%;
+}
+
+li a:hover {
+  font-size: 75px;
+  background: rgba(255, 255, 255, 0.1);
+}

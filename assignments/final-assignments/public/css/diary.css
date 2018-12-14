@@ -1,0 +1,48 @@
+.element {
+  width: 40vw;
+  font-size: 24px;
+  padding-top: 80px;
+  margin-right: 100px;
+  padding-right: 100px;
+  margin-left: 100px;
+  margin-bottom: 80px;
+  color: rgb(253, 203, 38);
+  line-height: 1.3em;
+  white-space: pre-wrap;
+}
+
+.row {
+  border-top: 1px dashed rgb(253, 203, 38);
+  margin-bottom: 0px;
+}
+
+.end-row {
+  border-bottom: 1px dashed rgb(253, 203, 38);
+}
+
+.end {
+  font-size: 24px;
+  margin-right: 100px;
+  padding-right: 100px;
+  margin-left: 100px;
+}
+
+.scroll {
+  margin-left: 100px;
+  font-style: italic;
+}
+
+h2 {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+/*
+div:first-child {
+  padding-left: 0px;
+}
+
+div > div {
+  padding-left: 100px;
+}
+*/
