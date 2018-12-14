@@ -110,7 +110,7 @@ The only other thing I added to the original code example are query extensions t
 
 ![Screenshot AA Map Friday, December 14th, 9:54 AM](doc-assets/aamap.jpg)
 
-#### [Link](http://34.200.243.17:8080/aa)
+#### [Live link](http://34.200.243.17:8080/aa)
 
 ### Previous Assignments
 
@@ -238,7 +238,7 @@ L.marker( [data[i].lat, data[i].lon], {icon: myIcon} /* here we go */)
 
 ![Screenshot _Dear Judith_ Friday, December 14th, 12:17 PM](doc-assets/dearjudith.jpg)
 
-#### [Link](http://34.200.243.17:8080/dd?ser=0)
+#### [Live link](http://34.200.243.17:8080/dd?ser=0)
 
 
 ### Previous Assignments
@@ -387,6 +387,8 @@ But to not get caught up in an infinite reloading loop I have to offset the scro
 
 ![Screenshot _Dear Judith_ Friday, December 14th, 12:17 PM](doc-assets/laptop.jpg)
 
+#### [Live link](http://34.200.243.17:8080/ss?off=1)
+
 ### Previous Assignments
 
 Links here to reference the readme of each assignment’s folder:
@@ -394,7 +396,6 @@ Links here to reference the readme of each assignment’s folder:
 Assignment 8: [Setting up the sensor, checking the API-Link and drafting the user-interface idea](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment08)  
 Assignment 9: [Writing the proper micro controller code, writing to the RDS and checking the result](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment09)  
 
-#### [Link](http://34.200.243.17:8080/ss?off=1)
 
 ### Level of implementation
 
