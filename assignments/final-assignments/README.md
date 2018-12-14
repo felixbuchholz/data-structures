@@ -4,7 +4,7 @@ Data Structures, Aaron Hill
 
 _For this documentation I focus on what happened form assignments ten and eleven to now and I give some context, but for more detailed descriptions it’s better to refer to previous assignments’ documentations._
 
-Assignment 10: [Setting up the server & landing page for the final projects and endpoints with node & express](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment10)
+Assignment 10: [Setting up the server & landing page for the final projects and endpoints with node & express](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment10)  
 Assignment 11: [Final designs and data methods for the semester projects](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment11)
 
 # Final Assignments 1 – 3
@@ -116,11 +116,11 @@ The only other thing I added to the original code example are query extensions t
 
 Links here to reference the readme of each assignment’s folder:
 
-Assignment 1: [Asynchronous requests and first thoughts on how to parse the data.](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment01-part1)
-Assignment 2: [Parsing the addresses for one zone from the requested data](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment02)
-Assignment 3: [Geolocating the addresses with Texas A&M GeoServices API](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment03)
-Assignment 4: [Plan the data model (mine hasn’t changed too much since then, except for naming and I left out neighborhoods and zones), setting up the communiction with the RDS on AWS and creating the appropriate rows](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment04)
-Assignment 6, Part One: [Write a query to RDS](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment06)
+Assignment 1: [Asynchronous requests and first thoughts on how to parse the data.](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment01-part1)  
+Assignment 2: [Parsing the addresses for one zone from the requested data](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment02)  
+Assignment 3: [Geolocating the addresses with Texas A&M GeoServices API](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment03)  
+Assignment 4: [Plan the data model (mine hasn’t changed too much since then, except for naming and I left out neighborhoods and zones), setting up the communiction with the RDS on AWS and creating the appropriate rows](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment04)  
+Assignment 6, Part One: [Write a query to RDS](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment06)  
 
 ### Level of Implementation 
 **On Fridays (maybe on other days, too), a couple of my meetings unfortunately landed in Brooklyn.**
@@ -236,17 +236,17 @@ L.marker( [data[i].lat, data[i].lon], {icon: myIcon} /* here we go */)
 
 ## 2 – Dear ~Diary~ Judith,
 
+![Screenshot _Dear Judith_ Friday, December 14th, 12:17 PM](doc-assets/dearjudith.jpg)
+
+#### [Link](http://34.200.243.17:8080/dd?ser=0)
+
+
 ### Previous Assignments
 
 Links here to reference the readme of each assignment’s folder:
 
-Assignment 5: [Planning the data model and first design draft](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment05)
-Assignment 6, Part Two: [Writing a query to DynamoDB, corrected the data model](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment06)
-
-
-![Screenshot _Dear Judith_ Friday, December 14th, 12:17 PM](doc-assets/dearjudith.jpg)
-
-#### [Link](http://34.200.243.17:8080/dd?ser=0)
+Assignment 5: [Planning the data model and first design draft](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment05)  
+Assignment 6, Part Two: [Writing a query to DynamoDB, corrected the data model](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment06)  
 
 ### Level of Implementation
 
@@ -385,15 +385,14 @@ But to not get caught up in an infinite reloading loop I have to offset the scro
 
 ## 3 – Laptop Wanderlust
 
+![Screenshot _Dear Judith_ Friday, December 14th, 12:17 PM](doc-assets/laptop.jpg)
+
 ### Previous Assignments
 
 Links here to reference the readme of each assignment’s folder:
 
-Assignment 8: [Setting up the sensor, checking the API-Link and drafting the user-interface idea](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment08)
-Assignment 9: [Writing the proper micro controller code, writing to the RDS and checking the result](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment09)
-
-
-![Screenshot _Dear Judith_ Friday, December 14th, 12:17 PM](doc-assets/laptop.jpg)
+Assignment 8: [Setting up the sensor, checking the API-Link and drafting the user-interface idea](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment08)  
+Assignment 9: [Writing the proper micro controller code, writing to the RDS and checking the result](https://github.com/felixbuchholz/data-structures/tree/master/assignments/assignment09)  
 
 #### [Link](http://34.200.243.17:8080/ss?off=1)
 
